@@ -1,0 +1,1223 @@
+﻿[Script Info]
+
+ScriptType: v4.00+
+
+Collisions: Normal
+
+PlayResX: 1920
+
+PlayResY: 1080
+
+Timer: 100.0
+
+WrapStyle: 0
+
+ScaledBorderAndShadow: yes
+
+
+
+[V4+ Styles]
+
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2.37,1.97,2,20,20,20,0
+
+
+
+[Events]
+
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.93,0:00:06.14,Default,,0,0,0,,之前在急诊室\NPREVIOUSLY ON E.R.:
+Dialogue: 0,0:00:06.14,0:00:07.64,Default,,0,0,0,,干得漂亮。\NTHAT WAS A GREAT SAVE.
+Dialogue: 0,0:00:07.64,0:00:11.14,Default,,0,0,0,,我其实是说做你的全职私人助理。\NACTUALLY, I MEANT BEING\NYOUR FULL-TIME P.A.
+Dialogue: 0,0:00:11.14,0:00:12.84,Default,,0,0,0,,太好了。我喜欢。\NGREAT. I'D LOVE THAT.
+Dialogue: 0,0:00:12.84,0:00:15.34,Default,,0,0,0,,这更多是走个形式。\NTHIS IS MORE OF A FORMALITY\NTHAN ANYTHING ELSE.
+Dialogue: 0,0:00:15.34,0:00:17.61,Default,,0,0,0,,也许对你来说是，但你是我唯一的实习生。\NMAYBE FOR YOU, BUT YOU'RE\NTHE ONLY INTERN I HAVE.
+Dialogue: 0,0:00:17.61,0:00:18.95,Default,,0,0,0,,我佩服你的毅力。\NI ADMIRE YOUR FORTITUDE.
+Dialogue: 0,0:00:18.95,0:00:21.55,Default,,0,0,0,,我可受不了戴尔那种卑鄙小人的指使。\NI COULDN'T HANDLE TAKING ORDERS\NFROM A WEASEL LIKE DALE.
+Dialogue: 0,0:00:21.55,0:00:24.72,Default,,0,0,0,,你的陈述达到了我们的所有预期。\NYOUR PRESENTATION\NWAS EVERYTHING WE EXPECTED.
+Dialogue: 0,0:00:24.72,0:00:25.72,Default,,0,0,0,,这太荒谬了，露西。\NTHIS IS RIDICULOUS, LUCY.
+Dialogue: 0,0:00:25.72,0:00:26.86,Default,,0,0,0,,所有人都觉得你可以。\NEVERYONE THINKS YOU CAN.
+Dialogue: 0,0:00:26.86,0:00:28.36,Default,,0,0,0,,我要去找卡特医生谈谈。\NI'M GOING TO TALK\NTO DR. CARTER.
+Dialogue: 0,0:00:28.36,0:00:30.46,Default,,0,0,0,,我还没扎过静脉。我不知道怎么做。\NI HAVEN'T STARTED AN I.V.\NI DON'T KNOW HOW.
+Dialogue: 0,0:00:30.46,0:00:31.26,Default,,0,0,0,,我从来没有。\NI NEVER HAVE.
+Dialogue: 0,0:00:31.26,0:00:32.96,Default,,0,0,0,,如果你再骗我\NIF YOU EVER\NLIE TO ME AGAIN
+Dialogue: 0,0:00:32.96,0:00:35.03,Default,,0,0,0,,你就可以找别的轮岗了。\NYOU CAN LOOK\NFOR ANOTHER ROTATION.
+Dialogue: 0,0:00:42.87,0:00:44.24,Default,,0,0,0,,啊！抱歉。\NAAH! SORRY.
+Dialogue: 0,0:00:48.04,0:00:49.85,Default,,0,0,0,,她正在分娩。\NSHE'S IN\NACTIVE LABOR.
+Dialogue: 0,0:00:49.85,0:00:51.98,Default,,0,0,0,,羊水在救护车里破了。\NWATER BROKE\NIN THE RIG.
+Dialogue: 0,0:00:51.98,0:00:53.35,Default,,0,0,0,,可能得直接接生了。\NPROBABLY HAVE\NTO PLAY CATCH.
+Dialogue: 0,0:00:53.35,0:00:56.35,Default,,0,0,0,,杰瑞，你在后面偷吃晚饭吗？\NJERRY, SCARFING A LITTLE\NEARLY DINNER BACK THERE?
+Dialogue: 0,0:00:56.35,0:00:57.42,Default,,0,0,0,,什么？\NWHAT?
+Dialogue: 0,0:00:57.42,0:00:59.66,Default,,0,0,0,,哦，不。好一个，春妮。\NOH, NO. GOOD ONE, CHUNY.
+Dialogue: 0,0:00:59.66,0:01:01.26,Default,,0,0,0,,（笑）\N( chuckles )
+Dialogue: 0,0:01:04.13,0:01:05.03,Default,,0,0,0,,宝贝，宝贝，宝贝。\NBABY, BABY, BABY.
+Dialogue: 0,0:01:05.03,0:01:06.16,Default,,0,0,0,,这是我们的准妈妈吗？\NTHIS OUR\NMOTHER-TO-BE?
+Dialogue: 0,0:01:06.16,0:01:07.90,Default,,0,0,0,,猜对了。她的名字叫可可。\NGOOD GUESS.\NFIRST NAME'S COCO.
+Dialogue: 0,0:01:07.90,0:01:08.93,Default,,0,0,0,,没有姓，没有地址。\NNO LAST NAME,\NNO ADDRESS.
+Dialogue: 0,0:01:08.93,0:01:10.20,Default,,0,0,0,,在人行横道上晕倒了。\NCOLLAPSED IN\NA CROSSWALK.
+Dialogue: 0,0:01:10.20,0:01:11.83,Default,,0,0,0,,走，别走，别说话。\NWALK, DON'T WALK,\NDON'T TALK.
+Dialogue: 0,0:01:11.83,0:01:12.80,Default,,0,0,0,,她的生命体征稳定。\NHER VITALS\NARE STABLE.
+Dialogue: 0,0:01:12.80,0:01:14.07,Default,,0,0,0,,哦，我能感觉到头了。\NOOH, I CAN FEEL THE HEAD.
+Dialogue: 0,0:01:14.07,0:01:15.97,Default,,0,0,0,,开了一条线。我们往下面看了一眼\NSTARTED A LINE.\NWE TOOK A PEEK\NDOWN SOUTH
+Dialogue: 0,0:01:15.97,0:01:17.41,Default,,0,0,0,,她还没临盆。\NAND SHE'S NOT CROWNING.
+Dialogue: 0,0:01:17.41,0:01:19.94,Default,,0,0,0,,给我加冕，我是女王，王子要来了。\NCROWN ME, I'M THE QUEEN,\NAND THE PRINCE IS COMING.
+Dialogue: 0,0:01:19.94,0:01:21.21,Default,,0,0,0,,* 绕着山转... *\N* COMING 'ROUND\NTHE MOUNTAIN... *
+Dialogue: 0,0:01:21.21,0:01:22.58,Default,,0,0,0,,可可，你的预产期是什么时候？\NWHEN'S YOUR DUE DATE, COCO?
+Dialogue: 0,0:01:22.58,0:01:24.91,Default,,0,0,0,,我不喜欢约会。太甜了。哦！\NI DON'T LIKE DATES.\NTOO SWEET. OH!
+Dialogue: 0,0:01:24.91,0:01:26.18,Default,,0,0,0,,大的。大痛苦。\NBIG ONE.\NBIG PAIN.
+Dialogue: 0,0:01:26.18,0:01:27.25,Default,,0,0,0,,哦……哦。\NOH... OH.
+Dialogue: 0,0:01:27.25,0:01:28.98,Default,,0,0,0,,你以前接生过孩子吗？\NHAVE YOU DELIVERED\NA BABY BEFORE?
+Dialogue: 0,0:01:28.98,0:01:30.09,Default,,0,0,0,,不接生。\NNO DELIVERY.
+Dialogue: 0,0:01:30.09,0:01:31.92,Default,,0,0,0,,我们去三号帘子区。\NLET'S GO\NTO CURTAIN AREA THREE.
+Dialogue: 0,0:01:31.92,0:01:33.12,Default,,0,0,0,,B.O.A.工具包，胎儿监护仪。\NB.O.A. KIT, FETAL MONITOR.
+Dialogue: 0,0:01:33.12,0:01:34.46,Default,,0,0,0,,婴儿保温箱。拿出来！\NBABY WARMER.\NTAKE IT OUT!
+Dialogue: 0,0:01:34.46,0:01:36.23,Default,,0,0,0,,嘿，杰瑞，帮我呼叫产科。\NHEY, JERRY,\NPAGE O.B. FOR ME.
+Dialogue: 0,0:01:36.23,0:01:39.16,Default,,0,0,0,,没问题。伙计，鹰已降落。\NYOU GOT IT.\NDUDE, THE EAGLE HAS LANDED.
+Dialogue: 0,0:01:39.16,0:01:42.33,Default,,0,0,0,,哦，莉迪亚，我想你没收到我的备忘录。\NOH, LYDIA, I GUESS\NYOU DIDN'T GET MY MEMO.
+Dialogue: 0,0:01:42.33,0:01:45.90,Default,,0,0,0,,下午 这班不穿戏服。\NTHE P.M. SHIFT\NIS NOT WEARING\NCOSTUMES THIS YEAR.
+Dialogue: 0,0:01:45.90,0:01:47.17,Default,,0,0,0,,会吓到病人。\NIT SCARES THE PATIENTS.
+Dialogue: 0,0:01:47.17,0:01:49.31,Default,,0,0,0,,这些年来，人们对这双美腿说了不少话\NA LOT OF THINGS HAVE BEEN SAID\NOVER THE YEARS
+Dialogue: 0,0:01:49.31,0:01:51.77,Default,,0,0,0,,但“吓人”绝不是其中之一。\NABOUT THIS SET OF GAMS,\NBUT "SCARY" ISN'T ONE OF THEM.
+Dialogue: 0,0:01:51.77,0:01:54.38,Default,,0,0,0,,嗯，你知道，那也不是很专业\NWELL, YOU KNOW, IT ALSO\NISN'T VERY PROFESSIONAL
+Dialogue: 0,0:01:54.38,0:01:56.01,Default,,0,0,0,,所以如果你不介意换一下……\NSO IF YOU WOULDN'T\NMIND CHANGING...
+Dialogue: 0,0:01:56.01,0:01:59.11,Default,,0,0,0,,我实际上买了一些这些小南瓜灯别针\NI ACTUALLY GOT SOME OF THESE\NLITTLE JACK-O-LANTERN PINS
+Dialogue: 0,0:01:59.11,0:02:01.52,Default,,0,0,0,,给那些想庆祝节日的人。\NFOR THOSE WHO WANT\NTO SIGNIFY THE HOLIDAY.
+Dialogue: 0,0:02:01.52,0:02:02.79,Default,,0,0,0,,好玩。\NFUN.
+Dialogue: 0,0:02:02.79,0:02:06.16,Default,,0,0,0,,我很高兴我的无服装备忘录传达给了一些人。\NI'M GLAD MY NO-COSTUME MEMO\NMADE IT TO SOME PEOPLE.
+Dialogue: 0,0:02:06.16,0:02:07.49,Default,,0,0,0,,这是我的服装。\NTHIS IS MY COSTUME.
+Dialogue: 0,0:02:07.49,0:02:09.33,Default,,0,0,0,,我打扮成一个彻头彻尾的呆板的人。\NI'M DRESSED\NAS A TOTAL STIFF.
+Dialogue: 0,0:02:09.33,0:02:13.66,Default,,0,0,0,,所以……我想我可以破例。\NSO... I GUESS I CAN MAKE\NAN EXCEPTION.
+Dialogue: 0,0:02:13.66,0:02:16.57,Default,,0,0,0,,一名四岁儿童颈部有严重穿刺伤。\NFOUR-YEAR-OLD CHILD WITH SEVERE\NPUNCTURE WOUNDS TO THE NECK.
+Dialogue: 0,0:02:16.57,0:02:18.40,Default,,0,0,0,,这孩子为什么不在抢救室？\NWHY ISN'T THIS KID\NIN THE TRAUMA ROOM?
+Dialogue: 0,0:02:18.40,0:02:21.07,Default,,0,0,0,,你说过你想看儿科的所有孩子……\NYOU SAID YOU WANTED TO SEE\NALL THE CHILDREN IN PEDES...
+Dialogue: 0,0:02:21.07,0:02:23.04,Default,,0,0,0,,我现在要一个插管托盘，好吗？\NI WANT AN INTUBATION TRAY NOW,\NALL RIGHT?
+Dialogue: 0,0:02:23.04,0:02:24.97,Default,,0,0,0,,我要你四单位的血。\NAND I WANT FOUR UNITS\NOF YOUR BLOOD.
+Dialogue: 0,0:02:24.97,0:02:27.04,Default,,0,0,0,,（笑）\N( laughs )
+Dialogue: 0,0:02:27.04,0:02:29.55,Default,,0,0,0,,哦，拜托。这很好笑。\NOH, COME ON.\NTHIS IS FUNNY.
+Dialogue: 0,0:03:22.43,0:03:24.63,Default,,0,0,0,,我只是觉得不合适，就这样。\NI JUST DIDN'T THINK IT WAS\NAPPROPRIATE, THAT'S ALL.
+Dialogue: 0,0:03:24.63,0:03:27.77,Default,,0,0,0,,但在急诊室的每部电话上都涂满了手术润滑剂，这就可以吗？\NBUT PUTTING SURGILUBE\NALL OVER EVERY PHONE\NIN THE E.R., THAT'S OKAY?
+Dialogue: 0,0:03:27.77,0:03:29.44,Default,,0,0,0,,但我不是整个急诊室的负责人。\NBUT I WASN'T IN CHARGE\NOF THE WHOLE E.R.
+Dialogue: 0,0:03:29.44,0:03:30.94,Default,,0,0,0,,我是儿科急诊室的负责人。\NI AM IN CHARGE\NOF THE PEDES E.R.
+Dialogue: 0,0:03:30.94,0:03:33.61,Default,,0,0,0,,好吧，这个玩笑是冲着你去的，道格，不是冲着儿科急诊室。\NWELL, THE JOKE\NWAS ON YOU, DOUG,\NNOT ON THE PEDES E.R.
+Dialogue: 0,0:03:33.61,0:03:35.91,Default,,0,0,0,,但这些天，这两者似乎是一回事。\NBUT THAT SEEMS TO BE\NONE AND THE SAME THESE DAYS.
+Dialogue: 0,0:03:35.91,0:03:37.31,Default,,0,0,0,,那是什么意思？\NWHAT'S THAT SUPPOSED TO MEAN?
+Dialogue: 0,0:03:37.31,0:03:39.42,Default,,0,0,0,,我今天早上收到的备忘录——\NTHE MEMO I GOT\NIN MY BOX THIS MORNING--
+Dialogue: 0,0:03:39.42,0:03:41.58,Default,,0,0,0,,我还以为是你的万圣节恶作剧呢。\NI THOUGHT IT WAS\NYOUR HALLOWEEN PRANK.
+Dialogue: 0,0:03:41.58,0:03:43.15,Default,,0,0,0,,这有什么问题？什么？\NWHAT'S WRONG\NWITH THIS? WHAT?
+Dialogue: 0,0:03:43.15,0:03:44.82,Default,,0,0,0,,道格，“所有儿科病人\NDOUG, "ALL PEDIATRIC PATIENTS
+Dialogue: 0,0:03:44.82,0:03:47.16,Default,,0,0,0,,“出院前必须由罗斯医生检查。\N"MUST BE SEEN BY DR. ROSS\NPRIOR TO DISCHARGE.
+Dialogue: 0,0:03:47.16,0:03:50.69,Default,,0,0,0,,罗斯医生将对所有儿科病人进行每日复查。”\NDR. ROSS WILL CONDUCT\NA DAILY REVIEW ON ALL\NPEDIATRIC PATIENTS."
+Dialogue: 0,0:03:50.69,0:03:52.60,Default,,0,0,0,,对。那有什么问题？\NRIGHT. WHAT'S\NWRONG WITH THAT?
+Dialogue: 0,0:03:52.60,0:03:55.36,Default,,0,0,0,,意思是你要签凯瑞·韦弗的病历。\NMEANS YOU HAVE TO SIGN OFF\NON KERRY WEAVER'S CHARTS.
+Dialogue: 0,0:03:55.36,0:03:56.37,Default,,0,0,0,,是啊，还有马克。\NYEAH, AND MARK.
+Dialogue: 0,0:03:56.37,0:03:57.73,Default,,0,0,0,,是啊，所以你很高兴。\NYEAH, SO\NYOU'RE PSYCHED.
+Dialogue: 0,0:03:57.73,0:03:59.80,Default,,0,0,0,,嗯，是时候改变了，就这样。\NWELL, IT'S TIME FOR\NA CHANGE, THAT'S ALL.
+Dialogue: 0,0:03:59.80,0:04:00.97,Default,,0,0,0,,是啊，有点像我。\NYEAH, KIND OF LIKE ME.
+Dialogue: 0,0:04:00.97,0:04:03.41,Default,,0,0,0,,我今天早上醒来，我是一只特兰西瓦尼亚蝙蝠。\NI WOKE UP THIS MORNING,\NI WAS A TRANSYLVANIAN BAT.
+Dialogue: 0,0:04:03.41,0:04:04.91,Default,,0,0,0,,好了，够了，好吗？\NALL RIGHT, ENOUGH, OKAY?
+Dialogue: 0,0:04:04.91,0:04:05.94,Default,,0,0,0,,祝你好运。\NGOOD LUCK.
+Dialogue: 0,0:04:05.94,0:04:07.51,Default,,0,0,0,,卡罗尔，你能进来一下吗？\NCAROL, COULD YOU\NCOME IN HERE?
+Dialogue: 0,0:04:07.51,0:04:08.78,Default,,0,0,0,,（女人呻吟）\N( woman moaning )
+Dialogue: 0,0:04:08.78,0:04:10.71,Default,,0,0,0,,怎么了？\NWHAT'S UP?
+Dialogue: 0,0:04:10.71,0:04:13.35,Default,,0,0,0,,可可声称怀孕九个月了。\NCOCO HERE CLAIMS TO BE\NNINE MONTHS' PREGNANT.
+Dialogue: 0,0:04:13.35,0:04:14.88,Default,,0,0,0,,试着听胎心音。\NTRY FOR FETAL\NHEART TONES.
+Dialogue: 0,0:04:14.88,0:04:16.12,Default,,0,0,0,,我没找到。\NI COULDN'T\NFIND THEM.
+Dialogue: 0,0:04:16.12,0:04:17.12,Default,,0,0,0,,找到它们。\NFIND THEM.
+Dialogue: 0,0:04:17.12,0:04:18.39,Default,,0,0,0,,别弄丢了。\NDON'T LOSE THEM.
+Dialogue: 0,0:04:18.39,0:04:20.29,Default,,0,0,0,,去……去失物招领处找找。\NLOOK IN THE...\NLOOK IN THE LOST AND FOUND.
+Dialogue: 0,0:04:20.29,0:04:21.19,Default,,0,0,0,,去……\NLOOK IN THE...
+Dialogue: 0,0:04:21.19,0:04:22.89,Default,,0,0,0,,子宫颈未扩张。\NCERVIX ISN'T DILATED.
+Dialogue: 0,0:04:22.89,0:04:24.83,Default,,0,0,0,,无附件肿块。\NNO ADNEXAL MASSES.
+Dialogue: 0,0:04:24.83,0:04:26.30,Default,,0,0,0,,她看起来确实怀孕了。\NSHE SURE LOOKS PREGNANT.
+Dialogue: 0,0:04:26.30,0:04:27.36,Default,,0,0,0,,我要生孩子了。\NI'M HAVING A BABY.
+Dialogue: 0,0:04:27.36,0:04:28.70,Default,,0,0,0,,我能\NALL I CAN\NAPPRECIATE
+Dialogue: 0,0:04:28.70,0:04:31.97,Default,,0,0,0,,判断的\NIS A NORMAL UTERUS\NAND ABOUT TWO LITERS OF URINE
+Dialogue: 0,0:04:31.97,0:04:33.07,Default,,0,0,0,,是一个正常的子宫和膀胱里大约两升尿液。\NIN HER BLADDER.
+Dialogue: 0,0:04:33.07,0:04:34.70,Default,,0,0,0,,可可，我们要给你\NCOCO, WE'RE GOING\NTO GIVE YOU
+Dialogue: 0,0:04:34.70,0:04:35.77,Default,,0,0,0,,一个便盆。\NA BEDPAN.
+Dialogue: 0,0:04:35.77,0:04:38.04,Default,,0,0,0,,你能放松一下，自己排尿吗？\NCAN YOU TRY AND RELAX\NAND RELIEVE YOURSELF?
+Dialogue: 0,0:04:38.04,0:04:38.97,Default,,0,0,0,,浅呼吸。\NSHALLOW BREATH.
+Dialogue: 0,0:04:40.41,0:04:42.08,Default,,0,0,0,,自然的方式。\NNATURE'S WAY.
+Dialogue: 0,0:04:42.08,0:04:44.45,Default,,0,0,0,,要我去拿导尿管吗？\NWANT ME TO\NGET A FOLEY?
+Dialogue: 0,0:04:44.45,0:04:46.32,Default,,0,0,0,,是的。还要一份尿液毒理学筛查。\NYEAH. AND A URINE\NTOX SCREEN.
+Dialogue: 0,0:04:46.32,0:04:48.08,Default,,0,0,0,,顺便叫精神科。\NCALL PSYCH WHILE\NYOU'RE AT IT.
+Dialogue: 0,0:04:48.08,0:04:50.35,Default,,0,0,0,,我真不敢相信你要穿那件衣服一整天。\NI CAN'T BELIEVE YOU'RE GOING\NTO WEAR THAT ALL DAY.
+Dialogue: 0,0:04:50.35,0:04:53.49,Default,,0,0,0,,是有点痒，但这是我来美国过的第一个万圣节。\NIT HAS GOTTEN ITCHY,\NBUT IT'S MY FIRST\NHALLOWEEN IN THE STATES.
+Dialogue: 0,0:04:53.49,0:04:55.42,Default,,0,0,0,,你什么意思？你去年就在这里了。\NWHAT DO YOU MEAN?\NYOU WERE HERE LAST YEAR.
+Dialogue: 0,0:04:55.42,0:04:57.39,Default,,0,0,0,,是啊，但我整晚都被困在手术室\NYEAH, BUT I WAS STUCK\NIN THE O.R. ALL NIGHT
+Dialogue: 0,0:04:57.39,0:04:59.40,Default,,0,0,0,,所以没有万圣节讨糖，没有咬苹果，没有坐干草车……\NSO NO TRICK-OR-TREATING,\NAPPLE BOBBING, HAYRIDES...
+Dialogue: 0,0:04:59.40,0:05:00.76,Default,,0,0,0,,干草车？\NHAYRIDES?
+Dialogue: 0,0:05:00.76,0:05:03.03,Default,,0,0,0,,是啊，你们不是这样庆祝万圣节的吗——\NYEAH, ISN'T THAT HOW YOU\NCELEBRATE HALLOWEEN--
+Dialogue: 0,0:05:03.03,0:05:04.37,Default,,0,0,0,,坐在装满干草的车里\NRIDING IN A CART\NFULL OF HAY
+Dialogue: 0,0:05:04.37,0:05:05.83,Default,,0,0,0,,和你的甜心在星空下？\NWITH YOUR SWEETIE\NUNDER THE STARS?
+Dialogue: 0,0:05:05.83,0:05:08.57,Default,,0,0,0,,伊丽莎白，芝加哥没有干草车。\NELIZABETH, THERE ARE\NNO HAY CARTS IN CHICAGO.
+Dialogue: 0,0:05:08.57,0:05:09.87,Default,,0,0,0,,你懂我的意思。\NYOU KNOW WHAT I MEAN.
+Dialogue: 0,0:05:09.87,0:05:12.24,Default,,0,0,0,,万圣节的重点是庆祝夜晚。\NIT'S ALL ABOUT\NCELEBRATING\NTHE NIGHT.
+Dialogue: 0,0:05:12.24,0:05:13.78,Default,,0,0,0,,庆祝什么，嗯？\NCELEBRATING WHAT, HUH?
+Dialogue: 0,0:05:13.78,0:05:16.75,Default,,0,0,0,,孩子们把牙齿蛀掉，胃不舒服\NKIDS ROTTING THEIR TEETH OUT,\NGETTING SICK TO THEIR STOMACH
+Dialogue: 0,0:05:16.75,0:05:18.58,Default,,0,0,0,,人们穿着这些愚蠢的……\NPEOPLE WEARING\NTHESE STUPID...
+Dialogue: 0,0:05:18.58,0:05:20.72,Default,,0,0,0,,我讨厌服装，你知道吗？\NI HAVE A THING\NAGAINST COSTUMES, YOU KNOW?
+Dialogue: 0,0:05:20.72,0:05:23.79,Default,,0,0,0,,你肯定想过要成为某个人。\NTHERE MUST'VE BEEN SOMEONE\NYOU WANTED TO BE.
+Dialogue: 0,0:05:23.79,0:05:26.39,Default,,0,0,0,,我是医生。那就是我想成为的人。\NI'M A DOCTOR.\NTHAT'S WHO I WANTED TO BE.
+Dialogue: 0,0:05:26.39,0:05:27.89,Default,,0,0,0,,是的，但是作为孩子。\NYES, BUT AS A CHILD.
+Dialogue: 0,0:05:27.89,0:05:32.70,Default,,0,0,0,,你肯定想成为宇航员或足球运动员。\NYOU MUST'VE WANTED TO BE\NA SPACEMAN OR A FOOTBALLER.
+Dialogue: 0,0:05:32.70,0:05:33.86,Default,,0,0,0,,没有。\NNOPE.
+Dialogue: 0,0:05:33.86,0:05:37.33,Default,,0,0,0,,你真是非凡，彼得。\NYOU REALLY ARE\NEXTRAORDINARY, PETER.
+Dialogue: 0,0:05:39.33,0:05:41.40,Default,,0,0,0,,穿闪亮盔甲的骑士怎么样？\NHOW ABOUT A KNIGHT\NIN SHINING ARMOR?
+Dialogue: 0,0:05:41.40,0:05:42.54,Default,,0,0,0,,不。牛仔。\NNO.\NA COWBOY.
+Dialogue: 0,0:05:42.54,0:05:44.37,Default,,0,0,0,,不。听着，如果你想庆祝\NNO. LISTEN, IF YOU\NWANT TO CELEBRATE
+Dialogue: 0,0:05:44.37,0:05:45.87,Default,,0,0,0,,我们为什么不去登普西家？\NWHY DON'T WE GO\NTO DEMPSEY'S?
+Dialogue: 0,0:05:45.87,0:05:48.08,Default,,0,0,0,,他们有很棒的食物，还有，那是什么？\NTHEY GOT GREAT FOOD\NAND, UH, WHAT IS THAT?
+Dialogue: 0,0:05:48.08,0:05:49.14,Default,,0,0,0,,摇摆舞。\NSWING DANCING.
+Dialogue: 0,0:05:49.14,0:05:50.41,Default,,0,0,0,,伊丽莎白，你在这儿。\NELIZABETH,\NTHERE YOU ARE.
+Dialogue: 0,0:05:50.41,0:05:52.75,Default,,0,0,0,,我的乙状结肠扭转已经标红送手术室了。\NMY SIGMOID VOLVULUS\NIS RED-LINED TO THE O.R.
+Dialogue: 0,0:05:52.75,0:05:54.55,Default,,0,0,0,,而且术前化验单不在病历上。\NAND THE PRE-OP LABS\NAREN'T ON THE CHART.
+Dialogue: 0,0:05:54.55,0:05:55.85,Default,,0,0,0,,我刚查了电脑。\NI JUST CHECKED\NTHE COMPUTER.
+Dialogue: 0,0:05:55.85,0:05:57.89,Default,,0,0,0,,除了电解质，所有结果都回来了。\NEVERYTHING'S BACK\NEXCEPT THE ELECTROLYTES.
+Dialogue: 0,0:05:57.89,0:05:59.69,Default,,0,0,0,,光查电脑还不够。\NCHECKING THE COMPUTER\NISN'T GOOD ENOUGH.
+Dialogue: 0,0:05:59.69,0:06:02.19,Default,,0,0,0,,我刚打电话给化验室，样本溶血了。\NI JUST CALLED THE LAB AND\NTHE SPECIMEN WAS HEMOLYZED.
+Dialogue: 0,0:06:02.19,0:06:03.26,Default,,0,0,0,,我打电话给采血科。\NI'LL CALL PHLEBOTOMY.
+Dialogue: 0,0:06:03.26,0:06:04.29,Default,,0,0,0,,太慢了。\NTAKES TOO LONG.
+Dialogue: 0,0:06:04.29,0:06:06.06,Default,,0,0,0,,我要你自己重新抽血\NI WANT YOU TO\NREDRAW YOURSELF
+Dialogue: 0,0:06:06.06,0:06:07.46,Default,,0,0,0,,然后亲手送到化验室。\NAND HAND-CARRY\NIT TO THE LAB.
+Dialogue: 0,0:06:07.46,0:06:08.66,Default,,0,0,0,,是，先生。\NYES, SIR.
+Dialogue: 0,0:06:15.80,0:06:16.84,Default,,0,0,0,,打扰一下。\NEXCUSE ME.
+Dialogue: 0,0:06:16.84,0:06:18.01,Default,,0,0,0,,请稍等。\NJUST A MINUTE.
+Dialogue: 0,0:06:18.01,0:06:18.87,Default,,0,0,0,,嗯？\NYEAH?
+Dialogue: 0,0:06:18.87,0:06:20.51,Default,,0,0,0,,我找格林医生。\NI'M LOOKING\NFOR DR. GREENE.
+Dialogue: 0,0:06:20.51,0:06:21.51,Default,,0,0,0,,哦，该死！\NOH, DAMN!
+Dialogue: 0,0:06:21.51,0:06:23.55,Default,,0,0,0,,我需要保存那个。\NI NEEDED\NTO SAVE THAT.
+Dialogue: 0,0:06:23.55,0:06:25.01,Default,,0,0,0,,那格林医生在哪里能找到？\NSO I CAN FIND\NDR. GREENE WHERE?
+Dialogue: 0,0:06:25.01,0:06:27.85,Default,,0,0,0,,是啊，你得在椅子上等。\NYEAH, YOU'RE GOING TO\NHAVE TO WAIT IN CHAIRS.
+Dialogue: 0,0:06:27.85,0:06:28.82,Default,,0,0,0,,好的。\NOKEYDOKE.
+Dialogue: 0,0:06:30.09,0:06:33.56,Default,,0,0,0,,杰瑞，系统工程师看过了吗？\NJERRY, HAS THE SYSTEMS GUY\NTAKEN A LOOK AT THIS YET?
+Dialogue: 0,0:06:33.56,0:06:35.76,Default,,0,0,0,,他看了，但没碰。\NHE LOOKED,\NBUT HE DIDN'T TOUCH.
+Dialogue: 0,0:06:35.76,0:06:37.66,Default,,0,0,0,,工作单没有会签。\NTHE WORK ORDER WASN'T CO-SIGNED.
+Dialogue: 0,0:06:37.66,0:06:38.99,Default,,0,0,0,,莉莉，你拿的是什么？\NLILY, WHAT DO\NYOU GOT THERE?
+Dialogue: 0,0:06:38.99,0:06:41.66,Default,,0,0,0,,这东西就放在救护车停放区。\NTHIS WAS JUST SITTING\NOUT IN THE AMBULANCE BAY.
+Dialogue: 0,0:06:41.66,0:06:44.10,Default,,0,0,0,,看，这个包里还有各种各样的东西。\NLOOK, THERE'S ALL KINDS OF STUFF\NIN THIS BAG, TOO.
+Dialogue: 0,0:06:44.10,0:06:46.47,Default,,0,0,0,,纱布，皮肤缝合条，静脉输液管。\NFOUR BY FOURS, STERI-STRIPS,\NI.V. TUBING.
+Dialogue: 0,0:06:46.47,0:06:47.57,Default,,0,0,0,,是啊，你知道吗？\NYEAH, YOU KNOW WHAT?
+Dialogue: 0,0:06:47.57,0:06:48.94,Default,,0,0,0,,我来处理这个。\NI'LL TAKE CARE OF THIS.
+Dialogue: 0,0:06:48.94,0:06:49.94,Default,,0,0,0,,真的吗？你确定？\NREALLY? YOU SURE?
+Dialogue: 0,0:06:49.94,0:06:51.11,Default,,0,0,0,,是的。没问题。\NYEAH. NO WORRIES.
+Dialogue: 0,0:06:51.11,0:06:52.54,Default,,0,0,0,,谢谢。当然。\NTHANKS.\NSURE.
+Dialogue: 0,0:06:52.54,0:06:53.74,Default,,0,0,0,,嘿，杰瑞。\NHEY, JERRY.
+Dialogue: 0,0:06:53.74,0:06:55.14,Default,,0,0,0,,嗨。\NHI.
+Dialogue: 0,0:06:55.14,0:06:56.51,Default,,0,0,0,,所以你不能推掉吗？\NSO YOU CAN'T BLOW IT OFF?
+Dialogue: 0,0:06:56.51,0:06:57.95,Default,,0,0,0,,哦，别误会我。\NOH, DON'T GET ME WRONG.
+Dialogue: 0,0:06:57.95,0:06:59.92,Default,,0,0,0,,我很想参加你的聚会\NI WOULD LOVE\NTO ATTEND YOUR SHINDIG
+Dialogue: 0,0:06:59.92,0:07:01.85,Default,,0,0,0,,但这是工会派对。\NBUT THIS IS\NA TEAMSTER PARTY.
+Dialogue: 0,0:07:01.85,0:07:05.09,Default,,0,0,0,,啊，你的眼睛闪耀着残疾政策的光芒。\NAH, YOUR EYES ARE AGLOW WITH\NTHE FIRE OF DISABILITY POLICIES.
+Dialogue: 0,0:07:05.09,0:07:07.62,Default,,0,0,0,,嗯，很少有保险承保人\NWELL, IT'S RARE\NTHAT A POLICY UNDERWRITER
+Dialogue: 0,0:07:07.62,0:07:09.53,Default,,0,0,0,,有机会在一个房间里\NHAS AN OPPORTUNITY\NAT A WHOLE ROOM
+Dialogue: 0,0:07:09.53,0:07:11.13,Default,,0,0,0,,坐满喝醉的体力劳动者。\NFULL OF DRUNKEN\NMANUAL LABORERS.
+Dialogue: 0,0:07:11.13,0:07:13.86,Default,,0,0,0,,听起来比做宿舍派对的监督员好。\NSOUNDS BETTER\NTHAN CHAPERONING\NA DORM PARTY.
+Dialogue: 0,0:07:13.86,0:07:17.50,Default,,0,0,0,,所有人都知道烂派对最好的部分就是偷偷溜走\NEVERYBODY KNOWS THE BEST PART\NOF A BAD PARTY IS SNEAKING OUT
+Dialogue: 0,0:07:17.50,0:07:19.23,Default,,0,0,0,,最好不要一个人。\NPREFERABLY NOT ALONE.
+Dialogue: 0,0:07:19.23,0:07:20.90,Default,,0,0,0,,所以我可能稍后会见到你。\NSO I MIGHT\NSEE YOU LATER.
+Dialogue: 0,0:07:20.90,0:07:22.64,Default,,0,0,0,,或者我补偿你。\NOR I'LL MAKE\NIT UP TO YOU.
+Dialogue: 0,0:07:22.64,0:07:23.77,Default,,0,0,0,,卡特医生，你好。\NDR. CARTER, HI.
+Dialogue: 0,0:07:23.77,0:07:26.78,Default,,0,0,0,,嗯，我拿到了肘部X光片……\NUM, I GOT THE ELBOW FILMS\NBACK ON...
+Dialogue: 0,0:07:26.78,0:07:29.88,Default,,0,0,0,,露西，你能给我们点时间吗？\NLUCY, CAN YOU GIVE\NUS A SECOND, PLEASE?
+Dialogue: 0,0:07:29.88,0:07:31.08,Default,,0,0,0,,好的。\NSURE.
+Dialogue: 0,0:07:32.85,0:07:34.82,Default,,0,0,0,,什么？你说什么？\NWHAT? WHAT ARE YOU SAYING?
+Dialogue: 0,0:07:34.82,0:07:37.75,Default,,0,0,0,,我拿到了卡汉先生肘部的X光片\NI GOT THE ELBOW FILMS BACK\NON MR. CAHAN
+Dialogue: 0,0:07:37.75,0:07:40.72,Default,,0,0,0,,和他的尼科洛拉的血常规和生化检查。\NAND THE C.B.C. AND CHEM PANEL\NON HIS NICOLORA.
+Dialogue: 0,0:07:40.72,0:07:41.92,Default,,0,0,0,,谢谢。看起来不错。\NTHANKS. LOOKS GOOD.
+Dialogue: 0,0:07:41.92,0:07:43.86,Default,,0,0,0,,是啊，我吃饭的时候还在想你\NYEAH, I WAS THINKING\NABOUT YOU AT DINNER
+Dialogue: 0,0:07:43.86,0:07:46.06,Default,,0,0,0,,然后我发现我把这东西落在车里了。\NAND I REALIZED\NTHAT I LEFT THIS IN MY CAR.
+Dialogue: 0,0:07:46.06,0:07:47.33,Default,,0,0,0,,那是给派对用的吗？\NIS THAT FOR THE PARTY?
+Dialogue: 0,0:07:47.33,0:07:50.43,Default,,0,0,0,,不。我觉得你应该开始练习扎静脉了。\NNO. I THINK THAT YOU SHOULD\NSTART PRACTICING YOUR I.V.s.
+Dialogue: 0,0:07:50.43,0:07:51.87,Default,,0,0,0,,我一直在练习。\NI HAVE BEEN PRACTICING.
+Dialogue: 0,0:07:51.87,0:07:54.14,Default,,0,0,0,,那这对你来说应该是小菜一碟了。\NTHEN THIS SHOULD\NBE OLD HAT FOR YOU.
+Dialogue: 0,0:07:54.14,0:07:55.10,Default,,0,0,0,,卡特医生，好。嘿……\NDR. CARTER, GOOD.\NHEY...
+Dialogue: 0,0:07:55.10,0:07:56.30,Default,,0,0,0,,那些东西很重。\NTHOSE SUCKERS ARE HEAVY.
+Dialogue: 0,0:07:56.30,0:07:57.51,Default,,0,0,0,,这些是什么？\NWHAT ARE THESE?
+Dialogue: 0,0:07:57.51,0:07:59.37,Default,,0,0,0,,明天的科室会议：\NTOMORROW'S DEPARTMENTAL\NCONFERENCE:
+Dialogue: 0,0:07:59.37,0:08:01.11,Default,,0,0,0,,“老年人急性腹痛”。\N"THE ACUTE ABDOMEN\NIN THE ELDERLY."
+Dialogue: 0,0:08:01.11,0:08:04.01,Default,,0,0,0,,我找出了你几个月前的一个缺血性肠道病例。\NI PULLED AN ISCHEMIC BOWEL\NYOU HAD A FEW MONTHS AGO.
+Dialogue: 0,0:08:04.01,0:08:06.15,Default,,0,0,0,,我希望你能做报告。\NI WAS HOPING\NTHAT YOU COULD PRESENT.
+Dialogue: 0,0:08:06.15,0:08:07.22,Default,,0,0,0,,我从来没做过。\NI'VE NEVER DONE THAT.
+Dialogue: 0,0:08:07.22,0:08:08.62,Default,,0,0,0,,嗯，这是很好的经验\NWELL, IT'S\NGREAT EXPERIENCE
+Dialogue: 0,0:08:08.62,0:08:10.69,Default,,0,0,0,,如果你认真想成为住院总医师。\NIF YOU'RE SERIOUS\NABOUT BECOMING CHIEF RESIDENT.
+Dialogue: 0,0:08:10.69,0:08:11.92,Default,,0,0,0,,哦，我很认真。\NOH, I'M SERIOUS.
+Dialogue: 0,0:08:11.92,0:08:14.22,Default,,0,0,0,,好的。我期待你的报告。\NOKAY. I LOOK FORWARD\NTO YOUR PRESENTATION.
+Dialogue: 0,0:08:14.22,0:08:16.09,Default,,0,0,0,,住院总医师。很酷。\NCHIEF RESIDENT.\NPRETTY COOL.
+Dialogue: 0,0:08:16.09,0:08:17.06,Default,,0,0,0,,是啊，很酷。\NYEAH, PRETTY COOL.
+Dialogue: 0,0:08:17.06,0:08:18.19,Default,,0,0,0,,进来了。\NINCOMING.
+Dialogue: 0,0:08:18.19,0:08:19.16,Default,,0,0,0,,我来。\NI GOT IT.
+Dialogue: 0,0:08:19.16,0:08:20.90,Default,,0,0,0,,我们有什么？乔·查塔洛夫斯基，40岁。\NWHAT DO WE GOT?\NJOE CHATTAROWSKI, 40.
+Dialogue: 0,0:08:20.90,0:08:23.10,Default,,0,0,0,,在幸运酒铺前喝了一夸脱伏特加。\NWAS DRINKING A QUART OF VODKA\NIN FRONT OF LUCKY LIQUOR.
+Dialogue: 0,0:08:23.10,0:08:24.87,Default,,0,0,0,,醉得走不动了，就打了911。\NCALLED 911 WHEN HE WAS\NTOO DRUNK TO WALK.
+Dialogue: 0,0:08:24.87,0:08:26.80,Default,,0,0,0,,我需要帮助，医生。检查二。\NI NEED HELP, DOC.\NEXAM TWO.
+Dialogue: 0,0:08:26.80,0:08:29.77,Default,,0,0,0,,你每天都喝酒吗，查塔洛夫斯基先生？\NDO YOU DRINK EVERY DAY,\NMR. CHATTAROWSKI?
+Dialogue: 0,0:08:29.77,0:08:31.41,Default,,0,0,0,,是啊。但我想戒。\NYEAH. BUT I WANT TO QUIT.
+Dialogue: 0,0:08:31.41,0:08:32.54,Default,,0,0,0,,你是认真的吗？\NARE YOU SERIOUS?
+Dialogue: 0,0:08:32.54,0:08:33.74,Default,,0,0,0,,我是认真的。\NI'M DEAD SERIOUS.
+Dialogue: 0,0:08:33.74,0:08:35.34,Default,,0,0,0,,你不是只是想\NYOU'RE NOT\NJUST LOOKING
+Dialogue: 0,0:08:35.34,0:08:37.28,Default,,0,0,0,,找个地方睡觉吗？\NFOR A PLACE TO\NSLEEP IT OFF?
+Dialogue: 0,0:08:37.28,0:08:39.58,Default,,0,0,0,,以我母亲的名义。\NON MY MOTHER'S EYES.
+Dialogue: 0,0:08:39.58,0:08:42.05,Default,,0,0,0,,请问能帮我办理戒毒入院吗？\NCAN YOU ADMIT ME\NFOR DETOX, PLEASE?
+Dialogue: 0,0:08:42.05,0:08:43.12,Default,,0,0,0,,卡特医生？\NDR. CARTER?
+Dialogue: 0,0:08:43.12,0:08:46.09,Default,,0,0,0,,我想奈特小姐可以帮你。\NI THINK MISS KNIGHT\NCAN HELP YOU WITH THAT.
+Dialogue: 0,0:08:46.09,0:08:47.96,Default,,0,0,0,,看看能不能给他找个戒毒床位。\NSEE IF YOU CAN FIND HIM\NA DETOX BED.
+Dialogue: 0,0:08:47.96,0:08:49.89,Default,,0,0,0,,然后你就可以在那只教学手臂上练习了。\NTHEN YOU CAN PRACTICE\NON THAT TEACHING ARM.
+Dialogue: 0,0:08:49.89,0:08:51.79,Default,,0,0,0,,好的，我们把他转过去。\NALL RIGHT,\NLET'S TRANSFER HIM.
+Dialogue: 0,0:08:51.79,0:08:53.13,Default,,0,0,0,,准备好了吗？一，二，三。\NREADY? ONE, TWO, THREE.
+Dialogue: 0,0:08:54.66,0:08:56.97,Default,,0,0,0,,日均病人数是150人。\NAVERAGE DAILY\NCENSUS IS 150.
+Dialogue: 0,0:08:56.97,0:08:59.33,Default,,0,0,0,,贝尔维尤医院每天看275人。\NWE SEE 275 A DAY\NAT BELLEVUE.
+Dialogue: 0,0:08:59.33,0:09:01.00,Default,,0,0,0,,令人印象深刻。\NIMPRESSIVE.
+Dialogue: 0,0:09:01.00,0:09:03.97,Default,,0,0,0,,我们是世界上第二大急诊科。\NWE'RE THE SECOND-LARGEST\NEMERGENCY DEPARTMENT\NIN THE WORLD.
+Dialogue: 0,0:09:03.97,0:09:06.58,Default,,0,0,0,,我带你去创伤室。\NI'LL SHOW YOU\NTHE TRAUMA ROOMS.
+Dialogue: 0,0:09:06.58,0:09:08.08,Default,,0,0,0,,嘘，嘿，杰瑞。\NPSST, HEY, JERRY.
+Dialogue: 0,0:09:08.08,0:09:09.31,Default,,0,0,0,,嗯。那个人是谁？\NHMM.\NWHO'S THAT?
+Dialogue: 0,0:09:09.31,0:09:10.81,Default,,0,0,0,,和格林医生在一起的？是啊。\NWITH DR. GREENE?\NYEAH.
+Dialogue: 0,0:09:10.81,0:09:13.08,Default,,0,0,0,,那是来自纽约的利特瓦克医生。\NTHAT IS DR. LITVAK\NFROM NEW YORK.
+Dialogue: 0,0:09:13.08,0:09:14.42,Default,,0,0,0,,丹·利特瓦克？\NDAN LITVAK?
+Dialogue: 0,0:09:14.42,0:09:17.45,Default,,0,0,0,,是的。\NYEAH. I THINK HE'S HERE\NINTERVIEWING TO BE E.R. CHIEF.
+Dialogue: 0,0:09:17.45,0:09:18.89,Default,,0,0,0,,我想他来这里面试急诊科主任。\NOH, MY GOD.
+Dialogue: 0,0:09:18.89,0:09:23.36,Default,,0,0,0,,哦，我的天。\NDAN LITVAK-- HE'S NATIONAL CHAIR\NOF THE ACEP PANEL
+Dialogue: 0,0:09:23.36,0:09:24.83,Default,,0,0,0,,丹·利特瓦克——他是ACEP实践指南小组的全国主席。\NFOR PRACTICE GUIDELINES.
+Dialogue: 0,0:09:24.83,0:09:26.86,Default,,0,0,0,,上个月《年鉴》的头版文章。\NLEAD ARTICLE\NIN LAST MONTH'S ANNALS.
+Dialogue: 0,0:09:26.86,0:09:29.06,Default,,0,0,0,,嗯，那很好，对吧？\NWELL, THAT'S GOOD, RIGHT?
+Dialogue: 0,0:09:32.90,0:09:34.90,Default,,0,0,0,,嘿，哥们。我是罗斯医生。你叫什么名字？\NHEY, BUDDY. I'M DR. ROSS.\NWHAT'S YOUR NAME?
+Dialogue: 0,0:09:34.90,0:09:36.20,Default,,0,0,0,,贾里德。\NJARED.
+Dialogue: 0,0:09:36.20,0:09:38.87,Default,,0,0,0,,穿上万圣节妆后立即出现瘙痒性皮疹。\NPRURITIC RASH RIGHT AFTER\NPUTTING ON HIS HALLOWEEN MAKEUP.
+Dialogue: 0,0:09:38.87,0:09:39.84,Default,,0,0,0,,他身上长满了荨麻疹。\NHE'S COVERED\NWITH HIVES.
+Dialogue: 0,0:09:39.84,0:09:41.24,Default,,0,0,0,,我们来看看他。\NLET'S TAKE A LOOK AT HIM.
+Dialogue: 0,0:09:41.24,0:09:42.34,Default,,0,0,0,,他以前有过荨麻疹吗？\NHAS HE HAD\NHIVES BEFORE?
+Dialogue: 0,0:09:42.34,0:09:43.35,Default,,0,0,0,,没有。\NNO.
+Dialogue: 0,0:09:43.35,0:09:44.35,Default,,0,0,0,,好的。\NALL RIGHT.
+Dialogue: 0,0:09:44.35,0:09:46.01,Default,,0,0,0,,你嘴里有肿胀吗？\NANY SWELLING\NIN YOUR MOUTH?
+Dialogue: 0,0:09:46.01,0:09:48.02,Default,,0,0,0,,你呼吸困难吗？\NARE YOU HAVING\NTROUBLE BREATHING?
+Dialogue: 0,0:09:48.02,0:09:49.75,Default,,0,0,0,,我的舌头感觉很大。好的。\NMY TONGUE FEELS BIG.\NOKAY.
+Dialogue: 0,0:09:49.75,0:09:51.25,Default,,0,0,0,,血压90/60，脉搏72。\NB.P.'s 90/60, PULSE 72.
+Dialogue: 0,0:09:51.25,0:09:55.79,Default,,0,0,0,,好的，给他皮下注射0.2肾上腺素，静脉注射25苯海拉明。\NOKAY, LET'S GIVE HIM .2\NOF SUB Q EPI, BENADRYL 25 I.V.
+Dialogue: 0,0:09:55.79,0:09:57.03,Default,,0,0,0,,他会好起来吗？\NIS HE GOING TO BE OKAY?
+Dialogue: 0,0:09:57.03,0:09:58.93,Default,,0,0,0,,他有严重的过敏反应。\NHE HAS A BAD\NALLERGIC REACTION.
+Dialogue: 0,0:09:58.93,0:10:01.93,Default,,0,0,0,,我们需要用静脉药物治疗他\NWE NEED TO TREAT HIM\NWITH I.V. MEDICATION
+Dialogue: 0,0:10:01.93,0:10:03.83,Default,,0,0,0,,然后观察他几个小时。\NAND JUST WATCH HIM\NFOR A FEW HOURS.
+Dialogue: 0,0:10:03.83,0:10:05.07,Default,,0,0,0,,我还能去要糖吗？\NCAN I STILL GO\NTRICK-OR-TREATING?
+Dialogue: 0,0:10:05.07,0:10:06.17,Default,,0,0,0,,我想不能了，甜心\NI DON'T THINK SO,\NSWEETIE
+Dialogue: 0,0:10:06.17,0:10:07.87,Default,,0,0,0,,但我们可以在这里给你找些\NBUT WE CAN FIND YOU\NSOME FUN STUFF
+Dialogue: 0,0:10:07.87,0:10:08.90,Default,,0,0,0,,好玩的东西\NTO DO AROUND HERE.
+Dialogue: 0,0:10:08.90,0:10:12.74,Default,,0,0,0,,好玩的东西在这里很烂。\NFUN STUFF AROUND HERE SUCKS.
+Dialogue: 0,0:10:12.74,0:10:14.78,Default,,0,0,0,,你把我孩子怎么了？\NWHAT DID YOU DO\NWITH MY BABY?
+Dialogue: 0,0:10:14.78,0:10:16.14,Default,,0,0,0,,你把……？\NWHAT DID YOU...?
+Dialogue: 0,0:10:16.14,0:10:17.05,Default,,0,0,0,,我的孩子呢？\NWHERE'S MY BABY?
+Dialogue: 0,0:10:17.05,0:10:18.11,Default,,0,0,0,,我应该问吗？\NSHOULD I ASK?
+Dialogue: 0,0:10:18.11,0:10:21.15,Default,,0,0,0,,到目前为止已经排出2200毫升。肚子平了。\N2,200cc's OUT SO FAR.\NBELLY'S FLAT.
+Dialogue: 0,0:10:21.15,0:10:23.62,Default,,0,0,0,,哦，我失去了我的孩子。\NOH, I LOST MY BABY.
+Dialogue: 0,0:10:23.62,0:10:25.75,Default,,0,0,0,,氟哌啶醇，肌注五毫克。\NHALDOL, FIVE\NMILLIGRAMS I.M.
+Dialogue: 0,0:10:25.75,0:10:28.72,Default,,0,0,0,,凯瑞：马克，我正在找你上个月\NKerry:\NMARK, I'M LOOKING FOR\NYOUR CHART REVIEWS
+Dialogue: 0,0:10:28.72,0:10:30.96,Default,,0,0,0,,未按时出院的病历复查。\NON LAST MONTH'S\NUNSCHEDULED RETURNS.
+Dialogue: 0,0:10:30.96,0:10:33.03,Default,,0,0,0,,呃，是啊，我把它们放在你盒子里了。\NUH, YEAH, I PUT THEM\NIN YOUR BOX.
+Dialogue: 0,0:10:33.03,0:10:34.96,Default,,0,0,0,,凯瑞，这是丹·利特瓦克医生。\NKERRY, THIS IS\NDR. DAN LITVAK.
+Dialogue: 0,0:10:34.96,0:10:37.83,Default,,0,0,0,,这是凯瑞·韦弗医生，我们的临时主任。\NTHIS IS DR. KERRY WEAVER,\NOUR INTERIM CHIEF.
+Dialogue: 0,0:10:37.83,0:10:40.54,Default,,0,0,0,,很高兴见到你。\NNICE TO MEET YOU.
+Dialogue: 0,0:10:40.54,0:10:42.57,Default,,0,0,0,,利特瓦克医生，你来自哪里？\NWHERE YOU FROM, DR. LITVAK?
+Dialogue: 0,0:10:42.57,0:10:43.87,Default,,0,0,0,,纽约，贝尔维尤医院。\NNEW YORK, BELLEVUE.
+Dialogue: 0,0:10:43.87,0:10:46.01,Default,,0,0,0,,只是来取经吗？\NJUST HERE TO\NGET A FEW TIPS?
+Dialogue: 0,0:10:46.01,0:10:49.95,Default,,0,0,0,,不。我刚进行了主任职位的第二次面试。\NNO. I JUST HAD\NMY SECOND INTERVIEW\NFOR THE CHIEF POSITION.
+Dialogue: 0,0:10:49.95,0:10:52.31,Default,,0,0,0,,格林医生很友善地带我参观。\NDR. GREENE IS BEING KIND ENOUGH\NTO SHOW ME AROUND.
+Dialogue: 0,0:10:52.31,0:10:53.45,Default,,0,0,0,,第二次面试。\NSECOND INTERVIEW.
+Dialogue: 0,0:10:53.45,0:10:56.82,Default,,0,0,0,,是啊，他们想，呃……和利特瓦克医生\NYEAH, THEY WANTED TO, UH...\NMEET WITH DR. LITVAK
+Dialogue: 0,0:10:56.82,0:10:59.02,Default,,0,0,0,,再见一面在今晚的投票前。\NONE MORE TIME\NBEFORE TONIGHT'S VOTE.
+Dialogue: 0,0:10:59.02,0:11:01.32,Default,,0,0,0,,是啊，我以为投票要到下周三。\NYEAH, I THOUGHT THE VOTE\NWASN'T UNTIL NEXT WEDNESDAY.
+Dialogue: 0,0:11:01.32,0:11:03.99,Default,,0,0,0,,我今晚要搭飞机去百慕大参加会议。\NI HAVE TO HOP A PLANE\NTO A CONFERENCE\NIN BERMUDA TONIGHT.
+Dialogue: 0,0:11:03.99,0:11:05.96,Default,,0,0,0,,他们觉得如果我能提前知道结果\NTHEY THOUGHT IT WOULD BE BEST
+Dialogue: 0,0:11:05.96,0:11:07.63,Default,,0,0,0,,会最好。\NIF I COULD KNOW\NBEFOREHAND.
+Dialogue: 0,0:11:07.63,0:11:08.70,Default,,0,0,0,,嗯，那太棒了。\NWELL, THAT'S GREAT.
+Dialogue: 0,0:11:08.70,0:11:09.97,Default,,0,0,0,,越早越好，是吧？\NTHE SOONER\NTHE BETTER, HUH?
+Dialogue: 0,0:11:09.97,0:11:12.03,Default,,0,0,0,,我想我还是去查一下我的邮箱吧。\NI GUESS I'LL JUST\NCHECK MY MAILBOX.
+Dialogue: 0,0:11:14.90,0:11:17.91,Default,,0,0,0,,那就是竞争，是吧？\NTHAT'S THE COMPETITION, HUH?
+Dialogue: 0,0:11:17.91,0:11:20.51,Default,,0,0,0,,你找到戒毒床位了吗？\NDID YOU HAVE ANY LUCK\NWITH THAT DETOX BED?
+Dialogue: 0,0:11:20.51,0:11:21.88,Default,,0,0,0,,还没人给我回电话。\NNO ONE CALLED ME BACK YET.
+Dialogue: 0,0:11:21.88,0:11:25.88,Default,,0,0,0,,闪了一下……我进去了。\NGOT A FLASH...\NAND I AM IN.
+Dialogue: 0,0:11:25.88,0:11:27.18,Default,,0,0,0,,是的，你进去了。\NYES, YOU ARE.
+Dialogue: 0,0:11:27.18,0:11:29.32,Default,,0,0,0,,我想我准备好真刀真枪干了。\NI THINK I'M READY\NFOR THE REAL THING NOW.
+Dialogue: 0,0:11:29.32,0:11:30.39,Default,,0,0,0,,好吧，让我们看看。\NWELL, LET'S FIND OUT.
+Dialogue: 0,0:11:30.39,0:11:32.42,Default,,0,0,0,,我指导你处理查塔洛夫斯基先生的病例。\NI'LL TALK YOU THROUGH\NMR. CHATTAROWSKI.
+Dialogue: 0,0:11:32.42,0:11:33.82,Default,,0,0,0,,好的。\NOKAY.
+Dialogue: 0,0:11:33.82,0:11:36.02,Default,,0,0,0,,确保我们不要重蹈上次静脉注射的覆辙。\NMAKE SURE WE DON'T REPEAT\NOUR LAST I.V. FIASCO.
+Dialogue: 0,0:11:36.02,0:11:37.69,Default,,0,0,0,,那绝对不会再发生了。\NTHAT DEFINITELY\NWON'T HAPPEN AGAIN.
+Dialogue: 0,0:11:37.69,0:11:39.59,Default,,0,0,0,,不。那既是我的错，也是你的错。\NNO. IT WAS MY FAULT\NAS MUCH AS IT WAS YOURS.
+Dialogue: 0,0:11:39.59,0:11:41.20,Default,,0,0,0,,哦，我可不这么认为。\NOH, I WOULDN'T\NEXACTLY SAY THAT.
+Dialogue: 0,0:11:41.20,0:11:44.03,Default,,0,0,0,,嗯，我应该更密切地监督你。\NWELL, I SHOULD'VE SUPERVISED YOU\NA LITTLE BIT MORE CLOSELY.
+Dialogue: 0,0:11:44.03,0:11:46.67,Default,,0,0,0,,决不应该让你走到那一步。\NSHOULD NEVER HAVE LET YOU GET\NTO THE PLACE THAT YOU DID.
+Dialogue: 0,0:11:46.67,0:11:47.97,Default,,0,0,0,,从现在开始，我们一步一个脚印地来。\NFROM NOW ON,\NWE'LL JUST TAKE IT
+Dialogue: 0,0:11:47.97,0:11:49.67,Default,,0,0,0,,从现在开始，我们一步一个脚印地来。\NONE STEP AT A TIME.
+Dialogue: 0,0:11:49.67,0:11:51.31,Default,,0,0,0,,卡特，你的醉鬼跑了。\NCARTER, YOUR DRUNK ELOPED.
+Dialogue: 0,0:11:51.31,0:11:52.11,Default,,0,0,0,,查塔洛夫斯基？\NCHATTAROWSKI?
+Dialogue: 0,0:11:52.11,0:11:53.58,Default,,0,0,0,,那是说他走了吗？\NDOES THAT MEAN\NHE LEFT?
+Dialogue: 0,0:11:53.58,0:11:54.61,Default,,0,0,0,,是的。\NYEP.
+Dialogue: 0,0:11:54.61,0:11:56.71,Default,,0,0,0,,还有人需要静脉注射吗？\NDOES ANYONE ELSE\NNEED AN I.V.?
+Dialogue: 0,0:11:58.11,0:11:58.95,Default,,0,0,0,,我来。\NI'VE GOT IT.
+Dialogue: 0,0:11:58.95,0:12:00.75,Default,,0,0,0,,你想成为超级英雄——\NYOU WANTED TO\NBE A SUPERHERO--
+Dialogue: 0,0:12:00.75,0:12:02.25,Default,,0,0,0,,紧身衣，披风……\NTIGHTS, CAPE...
+Dialogue: 0,0:12:02.25,0:12:03.15,Default,,0,0,0,,（笑）\N( laughs )
+Dialogue: 0,0:12:03.15,0:12:04.25,Default,,0,0,0,,是啊，错了。\NYEAH, WRONG.
+Dialogue: 0,0:12:04.25,0:12:06.96,Default,,0,0,0,,嗯，肯定有人，对吧？\NWELL, THERE\NWAS SOMEONE,\NWASN'T THERE?
+Dialogue: 0,0:12:06.96,0:12:08.46,Default,,0,0,0,,嘿，看谁来了。\NHEY, LOOK\NWHO'S HERE.
+Dialogue: 0,0:12:08.46,0:12:09.79,Default,,0,0,0,,再见，小可爱。\NBYE-BYE, CUTIE PIE.
+Dialogue: 0,0:12:09.79,0:12:10.66,Default,,0,0,0,,嘿……\NHEY...
+Dialogue: 0,0:12:10.66,0:12:11.79,Default,,0,0,0,,嘿，小蜜蜂。\NHEY, LITTLE BEE.
+Dialogue: 0,0:12:11.79,0:12:13.03,Default,,0,0,0,,天啊，他长得真快。\NGOSH, HE'S\NGETTING\NSO BIG.
+Dialogue: 0,0:12:13.03,0:12:15.33,Default,,0,0,0,,他把我吃穷了。\NHE'S EATING ME OUT\NOF HOUSE AND HOME.
+Dialogue: 0,0:12:15.33,0:12:16.53,Default,,0,0,0,,我没想到你会来。\NI DIDN'T EXPECT YOU.
+Dialogue: 0,0:12:16.53,0:12:17.90,Default,,0,0,0,,我们刚离开沃尔特和杰基家。\NWE JUST LEFT WALT\NAND JACKIE'S.
+Dialogue: 0,0:12:17.90,0:12:19.30,Default,,0,0,0,,年度大派对？\NTHE ANNUAL BLOWOUT?
+Dialogue: 0,0:12:19.30,0:12:20.54,Default,,0,0,0,,我告诉沃尔特\NI TOLD WALT
+Dialogue: 0,0:12:20.54,0:12:22.77,Default,,0,0,0,,他应该穿上他七十年代穿的\NHE SHOULD PUT ON\NONE OF HIS SUPER\NDUPER FLY OUTFITS
+Dialogue: 0,0:12:22.77,0:12:23.91,Default,,0,0,0,,那些超级棒的衣服……\NHE USED TO WEAR\NIN THE '70s...
+Dialogue: 0,0:12:23.91,0:12:25.61,Default,,0,0,0,,不，别鼓励他。\NNAH, DON'T ENCOURAGE HIM.
+Dialogue: 0,0:12:25.61,0:12:26.91,Default,,0,0,0,,那个兄弟仍然认为\NTHAT BROTHER STILL THINKS
+Dialogue: 0,0:12:26.91,0:12:29.01,Default,,0,0,0,,涤纶会卷土重来。\NPOLYESTER'S GOING TO MAKE\NA COMEBACK.
+Dialogue: 0,0:12:29.01,0:12:30.21,Default,,0,0,0,,说到服装\NSPEAKING\NOF COSTUMES
+Dialogue: 0,0:12:30.21,0:12:32.18,Default,,0,0,0,,你相机里还有胶卷吗？\NDO YOU HAVE ANY FILM\NLEFT IN THAT CAMERA?
+Dialogue: 0,0:12:32.18,0:12:34.72,Default,,0,0,0,,是的。我们应该让他和爸爸一起拍。\NYES. WE SHOULD HAVE HIM\NWITH HIS DADDY.
+Dialogue: 0,0:12:34.72,0:12:35.72,Default,,0,0,0,,绝对的。\NABSOLUTELY.
+Dialogue: 0,0:12:35.72,0:12:37.25,Default,,0,0,0,,你愿意效劳吗？\NWOULD YOU DO THE HONORS?
+Dialogue: 0,0:12:37.25,0:12:38.25,Default,,0,0,0,,是啊，当然。\NYEAH, SURE.
+Dialogue: 0,0:12:38.25,0:12:39.25,Default,,0,0,0,,好的。\NOKAY.
+Dialogue: 0,0:12:39.25,0:12:40.82,Default,,0,0,0,,准备好了吗？\NREADY?
+Dialogue: 0,0:12:42.06,0:12:43.93,Default,,0,0,0,,感觉好点了吗？\NFEELING ANY BETTER?
+Dialogue: 0,0:12:45.99,0:12:48.43,Default,,0,0,0,,我没事……我想。\NI'M ALL RIGHT... I GUESS.
+Dialogue: 0,0:12:49.73,0:12:50.90,Default,,0,0,0,,你给我……\NWHAT DID YOU...?
+Dialogue: 0,0:12:50.90,0:12:53.50,Default,,0,0,0,,你给我吃了什么？\NWHAT DID YOU GIVE ME?
+Dialogue: 0,0:12:53.50,0:12:55.37,Default,,0,0,0,,呃，氟哌啶醇……\NUH, HALDOL...
+Dialogue: 0,0:12:55.37,0:12:57.31,Default,,0,0,0,,让你平静下来。\NTO CALM YOU DOWN.
+Dialogue: 0,0:12:57.31,0:12:59.94,Default,,0,0,0,,我不能吃那个。\NI CAN'T TAKE THAT.
+Dialogue: 0,0:12:59.94,0:13:02.85,Default,,0,0,0,,对我的孩子不好。\NIT'S NOT GOOD FOR MY BABY.
+Dialogue: 0,0:13:02.85,0:13:04.95,Default,,0,0,0,,可可，你没有孩子。\NCOCO, YOU DON'T\NHAVE A BABY.
+Dialogue: 0,0:13:04.95,0:13:08.08,Default,,0,0,0,,但我会有的，真的。\NBUT I WILL, REALLY.
+Dialogue: 0,0:13:08.08,0:13:10.65,Default,,0,0,0,,我正处于孕早期。\NI'M IN MY FIRST TRIMESTER.
+Dialogue: 0,0:13:10.65,0:13:12.65,Default,,0,0,0,,可可……你没有怀孕。\NCOCO...\NYOU'RE NOT PREGNANT.
+Dialogue: 0,0:13:12.65,0:13:14.82,Default,,0,0,0,,你只是尿潴留。\NYOU WERE JUST\NRETAINING URINE.
+Dialogue: 0,0:13:14.82,0:13:17.03,Default,,0,0,0,,卡罗尔……\NCAROL...
+Dialogue: 0,0:13:17.03,0:13:19.03,Default,,0,0,0,,你做过怀孕测试，是吗？\NYOU DID DO A PREGNANCY TEST,\NDIDN'T YOU?
+Dialogue: 0,0:13:19.03,0:13:22.03,Default,,0,0,0,,开始希望我做过了。\NSTARTING TO WISH I HAD.
+Dialogue: 0,0:13:23.17,0:13:25.83,Default,,0,0,0,,嗯，我……我是精神分裂症患者\NUM, I'M-I'M SCHIZOPHRENIC
+Dialogue: 0,0:13:25.83,0:13:27.97,Default,,0,0,0,,我一直在服用利培酮\NAND I HAD BEEN TAKING\NRESPIRADONE
+Dialogue: 0,0:13:27.97,0:13:30.47,Default,,0,0,0,,但当我发现自己怀孕时\NBUT WHEN I FOUND OUT\NI WAS PREGNANT
+Dialogue: 0,0:13:30.47,0:13:35.21,Default,,0,0,0,,（声音颤抖）：我停药了，这样孩子才能好。\N( voice breaking ):\NI WENT OFF THE MEDICATION\NSO THAT THE BABY WOULD BE OKAY.
+Dialogue: 0,0:13:39.45,0:13:42.72,Default,,0,0,0,,氟哌啶醇对孩子有什么影响？\NWHAT WILL THE HALDOL DO\NTO THE BABY?
+Dialogue: 0,0:13:42.72,0:13:46.32,Default,,0,0,0,,如果，事实上，你怀孕了\NIF, IN FACT, YOU ARE PREGNANT
+Dialogue: 0,0:13:46.32,0:13:49.99,Default,,0,0,0,,有肢体畸形的报告。\NTHERE ARE REPORTS\NOF LIMB MALFORMATION.
+Dialogue: 0,0:13:49.99,0:13:54.10,Default,,0,0,0,,哦，我的天啊。\NOH, MY GOD.
+Dialogue: 0,0:13:58.43,0:14:00.34,Default,,0,0,0,,我很抱歉，宝贝。\NI'M SO SORRY, BABY.
+Dialogue: 0,0:14:10.48,0:14:12.68,Default,,0,0,0,,好的。看起来心脏仍然是空的。\NALL RIGHT. LOOKS\NLIKE THE HEART\NIS STILL EMPTY.
+Dialogue: 0,0:14:12.68,0:14:14.08,Default,,0,0,0,,再拿两单位。\NLET'S GET TWO\NMORE UNITS.
+Dialogue: 0,0:14:14.08,0:14:16.22,Default,,0,0,0,,胸管涌血。超过两升了。\NCHEST TUBE'S GUSHING.\NIT'S OVER TWO LITERS.
+Dialogue: 0,0:14:16.22,0:14:18.35,Default,,0,0,0,,可能是肺门损伤。好了，大家。\NCOULD BE A HILAR INJURY.\NALL RIGHT, PEOPLE.
+Dialogue: 0,0:14:18.35,0:14:20.89,Default,,0,0,0,,准备好右侧开胸手术。快点。\NLET'S SET UP FOR A RIGHT-SIDED\NTHORACOTOMY. LET'S MOVE.
+Dialogue: 0,0:14:20.89,0:14:22.26,Default,,0,0,0,,十号刀片。我们做蛤壳式切口。\NTEN BLADE.\NWE'LL DO A CLAMSHELL.
+Dialogue: 0,0:14:22.26,0:14:24.39,Default,,0,0,0,,马利克，给血库打电话。我们需要更多O型阴性血\NMALIK, CALL\NTHE BLOOD BANK.\NWE NEED MORE O-NEG
+Dialogue: 0,0:14:24.39,0:14:26.09,Default,,0,0,0,,和血型特异性血，一旦准备好就送来。\NAND TYPE SPECIFIC\NWHEN IT'S READY.
+Dialogue: 0,0:14:26.09,0:14:28.26,Default,,0,0,0,,好的。撑开器。彼得，切开胸骨。\NOKAY. RIB SPREADER.\NPETER, CUT ACROSS\NTHE STERNUM.
+Dialogue: 0,0:14:28.26,0:14:29.93,Default,,0,0,0,,好的。我需要一把莱布什克刀。\NALL RIGHT. I NEED\NA LEBSHKE KNIFE.
+Dialogue: 0,0:14:29.93,0:14:31.13,Default,,0,0,0,,什么？\NA WHAT?
+Dialogue: 0,0:14:31.13,0:14:32.90,Default,,0,0,0,,一把莱布什克刀和一把槌子。快！\NA LEBSHKE AND A MALLET.\NLET'S MOVE!
+Dialogue: 0,0:14:32.90,0:14:35.24,Default,,0,0,0,,韦弗：看。水槽旁的顶层抽屉。\NWeaver:\NLOOK. TOP DRAWER\NBY THE SINK.
+Dialogue: 0,0:14:36.44,0:14:38.57,Default,,0,0,0,,你真正需要的是一把胸骨锯。\NWHAT YOU REALLY NEED\NIS A STERNAL SAW.
+Dialogue: 0,0:14:38.57,0:14:42.04,Default,,0,0,0,,胸骨锯是手术室的工具，不是急诊室的。\NA STERNAL SAW IS A TOOL\NFOR THE O.R., NOT THE E.R.
+Dialogue: 0,0:14:42.04,0:14:44.08,Default,,0,0,0,,右胸充满了血。\NTHE RIGHT CHEST\NIS FULL OF BLOOD.
+Dialogue: 0,0:14:44.08,0:14:45.21,Default,,0,0,0,,血管钳。更多吸引。\NVASCULAR CLAMP. MORE SUCTION.
+Dialogue: 0,0:14:45.21,0:14:46.75,Default,,0,0,0,,本顿：找到源头了吗？\NBenton:\NLOCATE THE SOURCE?
+Dialogue: 0,0:14:46.75,0:14:47.92,Default,,0,0,0,,啊哈。\NAHH.
+Dialogue: 0,0:14:47.92,0:14:49.08,Default,,0,0,0,,把你的手拿开，把你的手拿开。\NMOVE YOUR HAND,\NMOVE YOUR HAND.
+Dialogue: 0,0:14:49.08,0:14:50.32,Default,,0,0,0,,心脏还是空的。\NHEART'S\NSTILL EMPTY.
+Dialogue: 0,0:14:50.32,0:14:51.52,Default,,0,0,0,,四单位血进去了。\NFOUR UNITS IN.
+Dialogue: 0,0:14:51.52,0:14:53.89,Default,,0,0,0,,他失血的速度比我们输血的速度快。\NHE'S LOSING IT\NFASTER THAN WE\NCAN PUT IT IN.
+Dialogue: 0,0:14:53.89,0:14:55.06,Default,,0,0,0,,该死！\NDAMN!
+Dialogue: 0,0:14:55.06,0:14:55.99,Default,,0,0,0,,血型特异性血来了。\NTYPE SPECIFIC'S HERE.
+Dialogue: 0,0:14:55.99,0:14:57.39,Default,,0,0,0,,挂两袋——快速输液器。\NHANG TWO--\NRAPID INFUSER.
+Dialogue: 0,0:14:57.39,0:14:58.46,Default,,0,0,0,,我快到了。\NI'M ALMOST THERE.
+Dialogue: 0,0:15:01.53,0:15:03.03,Default,,0,0,0,,看起来是右心房。\NLOOKS LIKE RIGHT ATRIUM.
+Dialogue: 0,0:15:03.03,0:15:05.07,Default,,0,0,0,,O-聚乳酸现在。快点。\NO-VICRYL NOW.\NLET'S MOVE.
+Dialogue: 0,0:15:05.07,0:15:07.67,Default,,0,0,0,,有更快的方法。\NTHERE WERE\NFASTER WAYS TO DO THAT.
+Dialogue: 0,0:15:15.94,0:15:17.58,Default,,0,0,0,,我怀孕了。\NI AM PREGNANT.
+Dialogue: 0,0:15:17.58,0:15:20.05,Default,,0,0,0,,测试证实了。\NTHE TEST CONFIRMED IT.
+Dialogue: 0,0:15:20.05,0:15:23.05,Default,,0,0,0,,我们不知道氟哌啶醇是否影响了胎儿。\NWE DON'T KNOW IF THE HALDOL\NAFFECTED THE FETUS.
+Dialogue: 0,0:15:23.05,0:15:25.89,Default,,0,0,0,,我们将通过超声监测怀孕情况。\NWE'RE GOING TO MONITOR\NTHE PREGNANCY WITH ULTRASOUND.
+Dialogue: 0,0:15:25.89,0:15:28.52,Default,,0,0,0,,也许我不应该生孩子。\NMAYBE I SHOULDN'T\NHAVE A BABY.
+Dialogue: 0,0:15:28.52,0:15:30.99,Default,,0,0,0,,因为氟哌啶醇？\NBECAUSE OF THE HALDOL?
+Dialogue: 0,0:15:30.99,0:15:34.40,Default,,0,0,0,,我甚至没告诉我妈妈，你知道。\NI DIDN'T EVEN TELL MY MOM,\NYOU KNOW.
+Dialogue: 0,0:15:34.40,0:15:36.23,Default,,0,0,0,,她那么骄傲\NSHE WAS SO PROUD
+Dialogue: 0,0:15:36.23,0:15:38.37,Default,,0,0,0,,我在中途之家。\NTHAT I WAS IN\NTHE HALFWAY HOUSE.
+Dialogue: 0,0:15:38.37,0:15:40.97,Default,,0,0,0,,我以为会没事的。\NI THOUGHT IT WOULD BE OKAY.
+Dialogue: 0,0:15:40.97,0:15:44.11,Default,,0,0,0,,我以为我可以停药，但是我……\NI THOUGHT I COULD GO OFF\NMY MEDS, BUT I...
+Dialogue: 0,0:15:44.11,0:15:46.21,Default,,0,0,0,,不能，对吗？\NCAN'T, CAN I?
+Dialogue: 0,0:15:48.71,0:15:54.82,Default,,0,0,0,,你可能会有更多像这样的事件。\NYOU'LL PROBABLY HAVE MORE\NINCIDENTS LIKE THIS ONE.
+Dialogue: 0,0:15:54.82,0:15:57.55,Default,,0,0,0,,我不该这样做。\NI SHOULDN'T GO\NTHROUGH WITH THIS.
+Dialogue: 0,0:15:57.55,0:16:02.09,Default,,0,0,0,,你在短时间内经历了太多。\NYOU'VE BEEN THROUGH A LOT\NIN A SHORT AMOUNT OF TIME.
+Dialogue: 0,0:16:02.09,0:16:05.13,Default,,0,0,0,,也许你应该等等。\NMAYBE YOU SHOULD JUST WAIT.
+Dialogue: 0,0:16:07.13,0:16:09.26,Default,,0,0,0,,我不该这样做。\NI SHOULDN'T DO THIS.
+Dialogue: 0,0:16:09.26,0:16:11.20,Default,,0,0,0,,（轻声）：我不该这样做。\N( softly ):\NI SHOULDN'T DO THIS.
+Dialogue: 0,0:16:11.20,0:16:14.07,Default,,0,0,0,,我不该这样做。\NI SHOULDN'T\NDO THIS.
+Dialogue: 0,0:16:14.07,0:16:16.27,Default,,0,0,0,,所以你觉得她会终止妊娠吗？\NSO YOU THINK SHE'LL\NTERMINATE HER PREGNANCY?
+Dialogue: 0,0:16:16.27,0:16:18.11,Default,,0,0,0,,我就是这个印象。\NTHAT'S THE IMPRESSION I GOT.
+Dialogue: 0,0:16:18.11,0:16:20.81,Default,,0,0,0,,对她和你来说可能都最好。\NPROBABLY BE THE BEST\NFOR HER AND FOR YOU.
+Dialogue: 0,0:16:20.81,0:16:23.45,Default,,0,0,0,,是啊。让我摆脱困境。\NYEAH. GETS ME\NOFF THE HOOK.
+Dialogue: 0,0:16:23.45,0:16:26.15,Default,,0,0,0,,你今晚想喝一杯吗？放松一下？\NYOU WANT TO HAVE\NA DRINK LATER?\NDECOMPRESS?
+Dialogue: 0,0:16:26.15,0:16:27.92,Default,,0,0,0,,我很想，但珍回来了\NI WOULD,\NBUT JEN'S BACK IN TOWN
+Dialogue: 0,0:16:27.92,0:16:29.62,Default,,0,0,0,,我们得好好谈谈。\NAND WE HAVE TO HAVE\NONE OF OUR TALKS.
+Dialogue: 0,0:16:29.62,0:16:31.45,Default,,0,0,0,,哦。听起来今天不是你的日子，马克。\NOH. SOUNDS LIKE IT'S\NNOT YOUR DAY, MARK.
+Dialogue: 0,0:16:31.45,0:16:33.29,Default,,0,0,0,,如果你想的话，你现在可以下班了，露西。\NYOU CAN TAKE OFF NOW\NIF YOU WANT, LUCY.
+Dialogue: 0,0:16:33.29,0:16:35.09,Default,,0,0,0,,我们这里工作差不多了。\NWE'RE PRETTY CAUGHT\NUP AROUND HERE.
+Dialogue: 0,0:16:35.09,0:16:36.26,Default,,0,0,0,,那儿科急诊室呢？\NWHAT ABOUT\NTHE PEDES E.R.?
+Dialogue: 0,0:16:36.26,0:16:38.16,Default,,0,0,0,,那里站满了人。\NIT'S STANDING ROOM ONLY\NIN THERE.
+Dialogue: 0,0:16:38.16,0:16:39.99,Default,,0,0,0,,道格·罗斯状态很好，是吧？\NDOUG ROSS IS IN\NA GROOVE, HUH?
+Dialogue: 0,0:16:39.99,0:16:42.03,Default,,0,0,0,,不。你可能会拖慢他。\NNO. YOU'D PROBABLY\NJUST SLOW HIM DOWN.
+Dialogue: 0,0:16:42.03,0:16:44.13,Default,,0,0,0,,对。嗯，那给我更多时间\NRIGHT. WELL, THAT\NGIVES ME MORE TIME
+Dialogue: 0,0:16:44.13,0:16:46.30,Default,,0,0,0,,为派对做准备。\NTO GET READY FOR THE PARTY.
+Dialogue: 0,0:16:48.00,0:16:49.97,Default,,0,0,0,,对不起。我不是想惹你……\NI'M SORRY.\NI DIDN'T MEAN TO UPSET THE...
+Dialogue: 0,0:16:49.97,0:16:51.47,Default,,0,0,0,,这个家伙就在幸运酒铺前面，\NFOUND THIS GUY\NRIGHT BACK CHILLIN'
+Dialogue: 0,0:16:51.47,0:16:53.68,Default,,0,0,0,,拿着一瓶夜火车酒，舒服地待着。\NWITH A BOTTLE\NOF NIGHT TRAIN IN\NFRONT OF LUCKY'S.
+Dialogue: 0,0:16:53.68,0:16:55.94,Default,,0,0,0,,你们的检查室需要一个旋转门。\NYOU ALL NEED A\NREVOLVING DOOR ON\NYOUR EXAM ROOMS.
+Dialogue: 0,0:16:55.94,0:17:00.12,Default,,0,0,0,,哦，哦，哦。好久不见，查塔洛夫斯基先生。\NWELL, WELL, WELL. LONG TIME\NNO SEE, MR. CHATTAROWSKI.
+Dialogue: 0,0:17:00.12,0:17:01.98,Default,,0,0,0,,所以，你认识这家伙？\NSO, YOU KNOW THIS GUY?
+Dialogue: 0,0:17:01.98,0:17:03.12,Default,,0,0,0,,是啊。他早些时候来过。\NYEAH. HAD HIM\NIN EARLIER.
+Dialogue: 0,0:17:03.12,0:17:04.79,Default,,0,0,0,,他进来是为了戒毒\NHE CAME IN\NLOOKING TO\NBE DETOXED
+Dialogue: 0,0:17:04.79,0:17:07.29,Default,,0,0,0,,然后我们在血检完成之前他就跑了。\NAND THEN ELOPED\NBEFORE WE COULD GET\NTHE BLOOD WORK DONE.
+Dialogue: 0,0:17:07.29,0:17:08.99,Default,,0,0,0,,嗯，下次我就直接报警了。\NWELL, NEXT TIME,\NI'M JUST CALLING THE COPS.
+Dialogue: 0,0:17:08.99,0:17:11.66,Default,,0,0,0,,我们来接他，好吗？反正你下班了。\NWE CAN TAKE HIM\NFROM HERE, OKAY?\NYOU'RE OFF, ANYWAY.
+Dialogue: 0,0:17:11.66,0:17:12.83,Default,,0,0,0,,谢谢。\NTHANKS.
+Dialogue: 0,0:17:12.83,0:17:14.00,Default,,0,0,0,,二号帘区。\NCURTAIN AREA TWO.
+Dialogue: 0,0:17:14.00,0:17:15.90,Default,,0,0,0,,查塔洛夫斯基先生，我是格林医生。\NMR. CHATTAROWSKI,\NI'M DR. GREENE.
+Dialogue: 0,0:17:15.90,0:17:17.23,Default,,0,0,0,,这是哈撒韦护士。\NTHIS IS NURSE HATHAWAY.
+Dialogue: 0,0:17:17.23,0:17:19.17,Default,,0,0,0,,我们欢迎你回来。\NWE'D LIKE TO\NWELCOME YOU BACK.
+Dialogue: 0,0:17:19.17,0:17:21.37,Default,,0,0,0,,我知道我搞砸了，医生。\NI KNOW I SCREWED UP, DOC.
+Dialogue: 0,0:17:21.37,0:17:23.94,Default,,0,0,0,,我天生就是个搞砸的人。\NI'M A SCREWUP BY NATURE.
+Dialogue: 0,0:17:23.94,0:17:25.64,Default,,0,0,0,,我想重新开始。\NI WANT TO MAKE\NA CLEAN START.
+Dialogue: 0,0:17:25.64,0:17:27.01,Default,,0,0,0,,我真的想。\NI REALLY DO.
+Dialogue: 0,0:17:27.01,0:17:30.04,Default,,0,0,0,,查塔洛夫斯基先生，你不会有一个新的开始\NYOU'RE NOT GOING\NTO MAKE A CLEAN START,\NMR. CHATTAROWSKI
+Dialogue: 0,0:17:30.04,0:17:32.01,Default,,0,0,0,,手里还拿着一瓶酒。\NWITH A BOTTLE OF\NBOOZE IN YOUR HAND.
+Dialogue: 0,0:17:32.01,0:17:33.58,Default,,0,0,0,,那是我的最后一杯。\NTHAT WAS MY LAST DRINK.
+Dialogue: 0,0:17:33.58,0:17:36.05,Default,,0,0,0,,我不会再毒害自己了，\NI'M NOT GOING\NTO POISON MYSELF
+Dialogue: 0,0:17:36.05,0:17:37.75,Default,,0,0,0,,我保证。\NNO MORE,\NI PROMISE.
+Dialogue: 0,0:17:37.75,0:17:40.19,Default,,0,0,0,,除了充血，眼睛看起来还行。\NOTHER THAN BLOODSHOT,\NTHE EYES LOOK OKAY.
+Dialogue: 0,0:17:40.19,0:17:42.12,Default,,0,0,0,,向前倾。\NLEAN FORWARD.
+Dialogue: 0,0:17:42.12,0:17:43.49,Default,,0,0,0,,我要戒酒戒毒。\NI'M GOING TO GET\NCLEAN AND SOBER.
+Dialogue: 0,0:17:43.49,0:17:45.49,Default,,0,0,0,,你得安静点，我才能听你的肺。\NYOU GOT TO BE QUIET\NSO I CAN HEAR YOUR LUNGS.
+Dialogue: 0,0:17:45.49,0:17:47.86,Default,,0,0,0,,找到一份工作，一所房子，一个栅栏……\NGET A JOB AND A HOUSE\NAND A PICKET FENCE...
+Dialogue: 0,0:17:47.86,0:17:49.86,Default,,0,0,0,,嘘，嘘，嘘！嘘，嘘。\NSHH, SHH, SHH! SHH, SHH.
+Dialogue: 0,0:17:49.86,0:17:51.07,Default,,0,0,0,,血压130，触诊。\NB.P.'s 130 PALP.
+Dialogue: 0,0:17:51.07,0:17:52.33,Default,,0,0,0,,查塔洛夫斯基先生\NMR. CHATTAROWSKI
+Dialogue: 0,0:17:52.33,0:17:55.20,Default,,0,0,0,,我试着给你找一个戒毒床位\NI'M GOING TO TRY AND\NGET YOU A DETOX BED
+Dialogue: 0,0:17:55.20,0:17:57.44,Default,,0,0,0,,但你必须答应我你会留下来。\NBUT YOU HAVE TO PROMISE ME\NYOU'LL STAY.
+Dialogue: 0,0:17:57.44,0:17:59.81,Default,,0,0,0,,我保证。\NI PROMISE.
+Dialogue: 0,0:17:59.81,0:18:02.34,Default,,0,0,0,,我真的会的。\NI REALLY DO.
+Dialogue: 0,0:18:02.34,0:18:04.85,Default,,0,0,0,,我要戒毒戒酒。\NI'M GOING TO GET CLEAN\NAND SOBER.
+Dialogue: 0,0:18:04.85,0:18:08.08,Default,,0,0,0,,好的。如果你能移到这张床上。\NOKAY. IF YOU COULD JUST\NSCOOT OVER TO THIS BED.
+Dialogue: 0,0:18:12.19,0:18:14.02,Default,,0,0,0,,你觉得他会留下吗？\NYOU THINK\NHE'LL STAY?
+Dialogue: 0,0:18:14.02,0:18:16.12,Default,,0,0,0,,嗯，我对可可女士很悲观\NWELL, I WAS A CYNIC\NWITH MS. COCO
+Dialogue: 0,0:18:16.12,0:18:17.83,Default,,0,0,0,,结果你也看到了\NAND WE SAW HOW\NTHAT WORKED OUT
+Dialogue: 0,0:18:17.83,0:18:20.33,Default,,0,0,0,,所以从因果报应上说，我必须相信这个人。\NSO KARMICALLY, I HAVE\NTO BELIEVE THIS GUY.
+Dialogue: 0,0:18:20.33,0:18:22.20,Default,,0,0,0,,好的，卡尔玛医生，但如果你不介意的话\NOKAY, DR. KARMA,\NBUT IF YOU DON'T MIND
+Dialogue: 0,0:18:22.20,0:18:24.23,Default,,0,0,0,,我要把他的衣服锁起来，\NI'M GOING TO LOCK\NUP HIS CLOTHES\NSO IT MAKES IT
+Dialogue: 0,0:18:24.23,0:18:26.53,Default,,0,0,0,,这样他这次就更难逃跑了。\NA LITTLE HARDER FOR HIM\NTO ESCAPE THIS TIME.
+Dialogue: 0,0:18:26.53,0:18:28.07,Default,,0,0,0,,好主意。\NGOOD IDEA.
+Dialogue: 0,0:18:28.07,0:18:30.07,Default,,0,0,0,,（尖叫）\N( screaming )
+Dialogue: 0,0:18:30.07,0:18:32.57,Default,,0,0,0,,阿曼达，你必须为我保持不动。\NAMANDA, YOU HAVE\NTO STAY STILL FOR ME.
+Dialogue: 0,0:18:32.57,0:18:35.08,Default,,0,0,0,,只会疼一秒钟。\NIT WILL ONLY HURT\NFOR A SECOND.
+Dialogue: 0,0:18:35.08,0:18:36.58,Default,,0,0,0,,不，爸爸！\NNO, DADDY!
+Dialogue: 0,0:18:36.58,0:18:38.45,Default,,0,0,0,,她做完后我会给你一些贴纸。\NI'LL GIVE YOU\NSOME STICKERS\NWHEN SHE'S DONE.
+Dialogue: 0,0:18:38.45,0:18:41.12,Default,,0,0,0,,我不要贴纸，爸爸。\NI DON'T WANT STICKERS, DADDY.
+Dialogue: 0,0:18:41.12,0:18:43.22,Default,,0,0,0,,这真的有必要吗？\NIS THIS REALLY NECESSARY?
+Dialogue: 0,0:18:43.22,0:18:45.25,Default,,0,0,0,,不幸的是，是的。我们必须抽血\NUNFORTUNATELY, IT IS.\NWE HAVE TO TAKE BLOOD
+Dialogue: 0,0:18:45.25,0:18:46.59,Default,,0,0,0,,做检查。\NTO DO THE TEST.
+Dialogue: 0,0:18:46.59,0:18:48.06,Default,,0,0,0,,爸爸，我想回家。\NDADDY, I WANT\NTO GO HOME.
+Dialogue: 0,0:18:48.06,0:18:49.52,Default,,0,0,0,,这里一切都好吗？\NIS EVERYTHING\NALL RIGHT IN HERE?
+Dialogue: 0,0:18:49.52,0:18:51.46,Default,,0,0,0,,医生，我的小女儿怕针。\NDOCTOR, MY LITTLE GIRL'S\NAFRAID OF NEEDLES.
+Dialogue: 0,0:18:51.46,0:18:53.63,Default,,0,0,0,,有没有办法不用这些就给她做检查？\NIS THERE A WAY TO TEST HER\NWITHOUT ALL THIS?
+Dialogue: 0,0:18:53.63,0:18:55.26,Default,,0,0,0,,事实上，有。\NAS A MATTER OF\NFACT, THERE IS.
+Dialogue: 0,0:18:55.26,0:18:56.40,Default,,0,0,0,,我们有什么？\NWHAT DO WE GOT?
+Dialogue: 0,0:18:56.40,0:18:58.10,Default,,0,0,0,,芭比·克利格曼，11岁，机动车事故。\NBARBIE KLIGMAN,\N11-YEAR-OLD M.V.A.
+Dialogue: 0,0:18:58.10,0:19:00.03,Default,,0,0,0,,后座乘客系着腰带。\NBACKSEAT PASSENGER\NWITH A LAP BELT.
+Dialogue: 0,0:19:00.03,0:19:02.37,Default,,0,0,0,,主诉腹痛。\NCOMPLAINS\NOF ABDOMINAL PAIN.
+Dialogue: 0,0:19:02.37,0:19:05.07,Default,,0,0,0,,血压105/70，脉搏95。\NB.P. 105/70,\NPULSE 95.
+Dialogue: 0,0:19:05.07,0:19:06.41,Default,,0,0,0,,做血常规，生化20项\NLET'S GET A C.B.C., CHEM 20
+Dialogue: 0,0:19:06.41,0:19:08.54,Default,,0,0,0,,血型和保留，以及尿常规。\NTYPE AND HOLD,\NAND DIP A URINE.
+Dialogue: 0,0:19:08.54,0:19:10.71,Default,,0,0,0,,芭比，你的脖子疼吗？\NBARBIE, DOES\NYOUR NECK HURT?
+Dialogue: 0,0:19:10.71,0:19:12.38,Default,,0,0,0,,不，只有我的肚子。\NNO, JUST MY STOMACH.
+Dialogue: 0,0:19:12.38,0:19:15.25,Default,,0,0,0,,血氧饱和度98，室内空气。\NPULSE OX IS 98\NON ROOM AIR.
+Dialogue: 0,0:19:15.25,0:19:17.08,Default,,0,0,0,,胸部清晰。\NCHEST IS CLEAR.
+Dialogue: 0,0:19:17.08,0:19:18.35,Default,,0,0,0,,戴尔同意你在这里吗？\NDALE OKAY WITH\NYOU BEING HERE?
+Dialogue: 0,0:19:18.35,0:19:19.49,Default,,0,0,0,,应该没问题。\NSHOULDN'T BE A PROBLEM.
+Dialogue: 0,0:19:19.49,0:19:21.26,Default,,0,0,0,,瞳孔五毫米\NPUPILS ARE\NFIVE MILLIMETERS
+Dialogue: 0,0:19:21.26,0:19:23.06,Default,,0,0,0,,对光反应。\NAND REACT TO LIGHT.
+Dialogue: 0,0:19:23.06,0:19:24.03,Default,,0,0,0,,她会好起来吗？\NIS SHE GOING\NTO BE OKAY?
+Dialogue: 0,0:19:24.03,0:19:25.29,Default,,0,0,0,,我们正在照顾她。\NWE'RE TAKING CARE OF HER.
+Dialogue: 0,0:19:25.29,0:19:27.20,Default,,0,0,0,,珍妮：很好的安全带挫伤。\NJeanie:\NPRETTY GOOD\NSEAT BELT CONTUSION.
+Dialogue: 0,0:19:27.20,0:19:28.36,Default,,0,0,0,,是啊。\NYEAH.
+Dialogue: 0,0:19:28.36,0:19:30.33,Default,,0,0,0,,肠鸣音消失。\NBOWEL SOUNDS\NARE ABSENT.
+Dialogue: 0,0:19:30.33,0:19:31.60,Default,,0,0,0,,血红蛋白14.1。\NHEMOGLOBIN'S 14.1.
+Dialogue: 0,0:19:31.60,0:19:34.44,Default,,0,0,0,,好的。听着，这疼吗？\NOKAY. LISTEN, DOES THIS HURT?
+Dialogue: 0,0:19:34.44,0:19:35.27,Default,,0,0,0,,哎哟！\NOW!
+Dialogue: 0,0:19:35.27,0:19:36.60,Default,,0,0,0,,怎么回事？\NWHAT'S GOING ON?
+Dialogue: 0,0:19:36.60,0:19:38.77,Default,,0,0,0,,她有安全带瘀伤，这可能表明\NSHE HAS A SEAT BELT BRUISE\NWHICH CAN INDICATE
+Dialogue: 0,0:19:38.77,0:19:39.77,Default,,0,0,0,,小肠损伤。\NSMALL BOWEL INJURY.
+Dialogue: 0,0:19:39.77,0:19:40.98,Default,,0,0,0,,我们将进行CT扫描。\NWE'LL DO\NA CAT SCAN.
+Dialogue: 0,0:19:40.98,0:19:42.04,Default,,0,0,0,,即使是阴性\NEVEN IF IT'S NEGATIVE
+Dialogue: 0,0:19:42.04,0:19:43.11,Default,,0,0,0,,她可能需要探查性手术。\NSHE MAY NEED\NEXPLORATORY SURGERY.
+Dialogue: 0,0:19:43.11,0:19:44.38,Default,,0,0,0,,哦，我的天啊。\NOH, MY GOD.
+Dialogue: 0,0:19:44.38,0:19:45.78,Default,,0,0,0,,听着，你会没事的，芭比。\NLOOK, YOU'LL BE\NOKAY, BARBIE.
+Dialogue: 0,0:19:45.78,0:19:48.22,Default,,0,0,0,,爸爸妈妈会在这里陪你的，好吗？\NMOMMY AND DADDY WILL\NBE HERE FOR YOU, OKAY?
+Dialogue: 0,0:19:48.22,0:19:49.72,Default,,0,0,0,,就这么简单吗？\NTHAT'S ALL IT TAKES?
+Dialogue: 0,0:19:49.72,0:19:52.25,Default,,0,0,0,,是的。这台机器通过离子电渗疗法\NYEAH. THE MACHINE\NDELIVERS LIDOCAINE
+Dialogue: 0,0:19:52.25,0:19:54.09,Default,,0,0,0,,将利多卡因输送到皮肤\NTO THE SKIN\NBY IONOPHORESIS
+Dialogue: 0,0:19:54.09,0:19:55.59,Default,,0,0,0,,所以没有针。\NSO NO NEEDLES.
+Dialogue: 0,0:19:55.59,0:19:56.92,Default,,0,0,0,,嘿。\NHEY.
+Dialogue: 0,0:19:56.92,0:19:59.26,Default,,0,0,0,,韦弗医生，我们又见面了。\NDR. WEAVER,\NWE MEET AGAIN.
+Dialogue: 0,0:19:59.26,0:20:01.20,Default,,0,0,0,,我以为你要赶飞机呢。\NI THOUGHT YOU HAD\NA PLANE TO CATCH.
+Dialogue: 0,0:20:01.20,0:20:03.30,Default,,0,0,0,,航班延误了。我想待在这里\NFLIGHT DELAYED. I FIGURE\NHANGING OUT HERE
+Dialogue: 0,0:20:03.30,0:20:05.30,Default,,0,0,0,,总比喝机场兑水鸡尾酒好。\NBEATS WATERED-DOWN\NAIRPORT COCKTAILS.
+Dialogue: 0,0:20:05.30,0:20:07.20,Default,,0,0,0,,介意我旁观吗？\NMIND IF I PLAY\NFLY ON THE WALL?
+Dialogue: 0,0:20:07.20,0:20:08.90,Default,,0,0,0,,这是罗斯医生的儿科诊室。\NIT'S DR. ROSS'\NPEDES ROOM.
+Dialogue: 0,0:20:08.90,0:20:10.07,Default,,0,0,0,,当然。随便待。\NSURE. HANG OUT.
+Dialogue: 0,0:20:10.07,0:20:11.27,Default,,0,0,0,,好了，亲爱的。\NHERE WE GO,\NSWEETHEART.
+Dialogue: 0,0:20:11.27,0:20:12.74,Default,,0,0,0,,阿曼达，你好吗？\NHOW ARE YOU,\NAMANDA?
+Dialogue: 0,0:20:12.74,0:20:13.78,Default,,0,0,0,,好的。\NOKAY.
+Dialogue: 0,0:20:13.78,0:20:15.01,Default,,0,0,0,,你没事吧？\NYOU'RE OKAY?
+Dialogue: 0,0:20:15.01,0:20:17.88,Default,,0,0,0,,现在，这个敷垫会麻痹你的皮肤，好吗？\NNOW, THIS PAD\NPUTS YOUR SKIN TO\NSLEEP, ALL RIGHT?
+Dialogue: 0,0:20:17.88,0:20:20.18,Default,,0,0,0,,所以你什么也感觉不到。\NSO YOU'RE NOT GOING\NTO FEEL ANYTHING.
+Dialogue: 0,0:20:20.18,0:20:23.42,Default,,0,0,0,,闭上眼睛，亲爱的。\NCLOSE YOUR EYES,\NSWEETHEART.
+Dialogue: 0,0:20:23.42,0:20:25.19,Default,,0,0,0,,你感觉到什么了吗？\NDO YOU FEEL ANYTHING?
+Dialogue: 0,0:20:25.19,0:20:26.19,Default,,0,0,0,,没有。\NNO.
+Dialogue: 0,0:20:26.19,0:20:27.29,Default,,0,0,0,,好的。\NOKAY.
+Dialogue: 0,0:20:27.29,0:20:28.79,Default,,0,0,0,,韦弗：太神奇了。\NWeaver:\NIT'S AMAZING.
+Dialogue: 0,0:20:28.79,0:20:31.29,Default,,0,0,0,,我们试过用药膏麻木，但需要一个小时。\NWE TRIED NUMBING IT\NWITH A CREAM BUT IT\NTAKES AN HOUR.
+Dialogue: 0,0:20:31.29,0:20:32.76,Default,,0,0,0,,这太棒了，道格。\NTHIS IS GREAT, DOUG.
+Dialogue: 0,0:20:32.76,0:20:35.10,Default,,0,0,0,,真的。它叫什么来着？\NIT REALLY IS.\NWHAT'S IT CALLED AGAIN?
+Dialogue: 0,0:20:35.10,0:20:36.40,Default,,0,0,0,,“麻木”。\N"NUMBY."
+Dialogue: 0,0:20:37.90,0:20:41.77,Default,,0,0,0,,我们在贝尔维尤医院做了三期临床试验。\NWE DID THE PHASE THREE\NCLINICAL TRIALS AT BELLEVUE.
+Dialogue: 0,0:20:41.77,0:20:45.17,Default,,0,0,0,,我们已经用了一年多了。\NWE'VE BEEN USING IT\NFOR OVER A YEAR NOW.
+Dialogue: 0,0:20:45.17,0:20:47.68,Default,,0,0,0,,（清嗓子）\N( clears throat )
+Dialogue: 0,0:20:51.95,0:20:53.25,Default,,0,0,0,,嘿，卡特医生。\NHEY, DR. CARTER.
+Dialogue: 0,0:20:53.25,0:20:54.78,Default,,0,0,0,,不错的服装。\NNICE COSTUME.
+Dialogue: 0,0:20:54.78,0:20:56.32,Default,,0,0,0,,我感觉有点逊。\NI FEEL KIND OF LAME.
+Dialogue: 0,0:20:56.32,0:20:57.75,Default,,0,0,0,,没人穿衣服。\NNOBODY ELSE DRESSED UP.
+Dialogue: 0,0:20:57.75,0:21:00.12,Default,,0,0,0,,嗯，还早呢。人们可能还会来。\NWELL, IT'S EARLY YET.\NPEOPLE MAY STILL SHOW.
+Dialogue: 0,0:21:00.12,0:21:01.39,Default,,0,0,0,,传单上说8点。\NTHE FLYER SAID 8:00.
+Dialogue: 0,0:21:01.39,0:21:03.39,Default,,0,0,0,,你得记住这些是医学生。\NYOU GOT TO REMEMBER\NTHESE ARE MED STUDENTS.
+Dialogue: 0,0:21:03.39,0:21:05.09,Default,,0,0,0,,他们很忙。\NTHEY'RE BUSY.
+Dialogue: 0,0:21:05.09,0:21:06.39,Default,,0,0,0,,你要来点潘趣酒吗？\NDO YOU WANT\NSOME PUNCH?
+Dialogue: 0,0:21:06.39,0:21:07.73,Default,,0,0,0,,呃，稍后。\NUH, LATER.
+Dialogue: 0,0:21:07.73,0:21:09.56,Default,,0,0,0,,我得去图书馆找文章\NI GOT TO GO PULL ARTICLES\NAT THE LIBRARY
+Dialogue: 0,0:21:09.56,0:21:11.07,Default,,0,0,0,,为了明天的会议\NFOR THIS CONFERENCE TOMORROW
+Dialogue: 0,0:21:11.07,0:21:13.40,Default,,0,0,0,,也就是说，如果你觉得这个派对能自己管理的话。\NTHAT IS, IF YOU THINK THIS\NPARTY CAN CHAPERONE ITSELF.
+Dialogue: 0,0:21:13.40,0:21:15.57,Default,,0,0,0,,我来照看。\NI'LL LOOK AFTER THINGS.
+Dialogue: 0,0:21:15.57,0:21:17.61,Default,,0,0,0,,是啊。你为什么不那样做呢？\NYEAH. WHY DON'T YOU\NDO THAT?
+Dialogue: 0,0:21:17.61,0:21:19.24,Default,,0,0,0,,这女孩几岁了？\NHOW OLD IS THIS GIRL?
+Dialogue: 0,0:21:19.24,0:21:20.44,Default,,0,0,0,,本顿：十一岁。\NBenton:\NELEVEN.
+Dialogue: 0,0:21:20.44,0:21:23.24,Default,,0,0,0,,她脸上涂的闪粉是怎么回事？\NWHAT'S WITH THE GLITTER\NON HER FACE?
+Dialogue: 0,0:21:23.24,0:21:24.91,Default,,0,0,0,,她应该是个公主。\NSHE'S SUPPOSED TO BE A PRINCESS.
+Dialogue: 0,0:21:24.91,0:21:27.05,Default,,0,0,0,,戴尔，把它夹住。\NDALE, GET A CLAMP ON THAT.
+Dialogue: 0,0:21:27.05,0:21:28.58,Default,,0,0,0,,巴布科克钳，请。\NBABCOCK, PLEASE.
+Dialogue: 0,0:21:28.58,0:21:31.42,Default,,0,0,0,,好的。十二指肠周围有点出血。\NOKAY. THERE'S A\NLITTLE BLEEDING\NAROUND THE DUODENUM.
+Dialogue: 0,0:21:31.42,0:21:34.29,Default,,0,0,0,,我们进行科彻尔化并探查腹膜后。\NLET'S KOCHERIZE AND EXPLORE\NTHE RETROPERITONEUM.
+Dialogue: 0,0:21:34.29,0:21:35.59,Default,,0,0,0,,电刀。\NBOVIE.
+Dialogue: 0,0:21:35.59,0:21:37.26,Default,,0,0,0,,你万圣节有什么计划？\NWHAT DO YOU HAVE PLANNED\NFOR HALLOWEEN?
+Dialogue: 0,0:21:37.26,0:21:38.59,Default,,0,0,0,,没什么特别的。\NNOTHING SPECIAL.
+Dialogue: 0,0:21:38.59,0:21:41.03,Default,,0,0,0,,我知道22号公路上有一家汽车旅馆；丛林主题房间。\NI KNOW A MOTEL ON ROUTE 22;\NJUNGLE THEME ROOMS.
+Dialogue: 0,0:21:41.03,0:21:42.50,Default,,0,0,0,,梅茨剪刀。\NMETZ.
+Dialogue: 0,0:21:42.50,0:21:44.50,Default,,0,0,0,,14号房间。垂下来的藤蔓——你是泰山，她是简\NROOM 14. HANGING VINES--\NYOU TARZAN, SHE JANE
+Dialogue: 0,0:21:44.50,0:21:45.73,Default,,0,0,0,,你懂我的意思吗？\NYOU KNOW WHAT I MEAN?
+Dialogue: 0,0:21:45.73,0:21:48.40,Default,,0,0,0,,不。我想我们还是留在城里吧。\NNO. I THINK\NWE'LL JUST STAY IN TOWN.
+Dialogue: 0,0:21:48.40,0:21:49.97,Default,,0,0,0,,好的。胰腺看起来不错。\NALL RIGHT. THE\NPANCREAS LOOKS GOOD.
+Dialogue: 0,0:21:49.97,0:21:51.21,Default,,0,0,0,,这里没有肾损伤。\NNO RENAL\NINJURIES HERE.
+Dialogue: 0,0:21:51.21,0:21:54.04,Default,,0,0,0,,等等。有一个肾下肿块。\NHOLD ON. THERE'S\NAN INFRARENAL MASS.
+Dialogue: 0,0:21:54.04,0:21:55.11,Default,,0,0,0,,腰部淋巴结？\NLUMBAR NODE?
+Dialogue: 0,0:21:55.11,0:21:57.04,Default,,0,0,0,,不。感觉不对劲。\NNO. IT DOESN'T\NFEEL RIGHT.
+Dialogue: 0,0:21:57.04,0:21:58.38,Default,,0,0,0,,它……它太橡皮了。\NIT'S... IT'S TOO RUBBERY.
+Dialogue: 0,0:21:58.38,0:22:00.25,Default,,0,0,0,,这边也有一个。\NTHERE'S ONE ON\NTHIS SIDE, TOO.
+Dialogue: 0,0:22:00.25,0:22:01.35,Default,,0,0,0,,可能是淋巴瘤。\NCOULD BE LYMPHOMA.
+Dialogue: 0,0:22:01.35,0:22:02.75,Default,,0,0,0,,我们送去做活检。\NLET'S SEND FOR A BIOPSY.
+Dialogue: 0,0:22:02.75,0:22:04.02,Default,,0,0,0,,15号。\NNUMBER 15.
+Dialogue: 0,0:22:04.02,0:22:07.19,Default,,0,0,0,,伊丽莎白，病房里一切都好吗？\NEVERYTHING OKAY ON THE WARDS,\NELIZABETH?
+Dialogue: 0,0:22:07.19,0:22:08.52,Default,,0,0,0,,是的。您需要我刷手进来吗？\NYES. WOULD YOU LIKE ME\NTO SCRUB IN?
+Dialogue: 0,0:22:08.52,0:22:10.26,Default,,0,0,0,,是的。我们需要你的帮助。\NYEAH. WE COULD\NUSE YOUR HELP.
+Dialogue: 0,0:22:10.26,0:22:11.33,Default,,0,0,0,,太棒了。\NWONDERFUL.
+Dialogue: 0,0:22:11.33,0:22:12.59,Default,,0,0,0,,我们刚刚给芭比做了\NWE JUST BIOPSIED\NAN ABNORMAL
+Dialogue: 0,0:22:12.59,0:22:14.03,Default,,0,0,0,,一个异常淋巴结活检。\NLYMPH NODE\NON BARBIE HERE.
+Dialogue: 0,0:22:14.03,0:22:16.26,Default,,0,0,0,,你为什么不把这个样本送到病理科\NWHY DON'T YOU RUN\NTHIS SPECIMEN DOWN TO PATHOLOGY
+Dialogue: 0,0:22:16.26,0:22:18.53,Default,,0,0,0,,然后等着冰冻切片结果。\NAND WAIT\NON THE FROZEN SECTION RESULTS.
+Dialogue: 0,0:22:21.50,0:22:23.41,Default,,0,0,0,,我们的病人堆积如山。\NOUR PATIENTS ARE STACKED\NTO THE RAFTERS.
+Dialogue: 0,0:22:23.41,0:22:24.77,Default,,0,0,0,,我们正在处理。\NWE'RE GETTING TO THEM.
+Dialogue: 0,0:22:24.77,0:22:27.07,Default,,0,0,0,,你需要让主急诊室处理溢出的病人。\NYOU NEED TO LET THE MAIN E.R.\NHANDLE THE OVERFLOW.
+Dialogue: 0,0:22:27.07,0:22:30.14,Default,,0,0,0,,我必须看这些孩子。你看到了凯瑞发生的事情。\NI HAVE TO SEE THESE\NKIDS. YOU SAW WHAT\NHAPPENED WITH KERRY.
+Dialogue: 0,0:22:30.14,0:22:31.55,Default,,0,0,0,,今晚很忙，道格。\NIT'S A BUSY\NNIGHT, DOUG.
+Dialogue: 0,0:22:31.55,0:22:33.65,Default,,0,0,0,,一个医生不能独自看所有病人。\NONE DOCTOR CAN'T SEE\NTHEM ALL BY HIMSELF.
+Dialogue: 0,0:22:33.65,0:22:35.42,Default,,0,0,0,,（呼气）：好吧，好吧。\N( exhaling ):\NALL RIGHT, ALL RIGHT.
+Dialogue: 0,0:22:35.42,0:22:38.45,Default,,0,0,0,,把溢出的病人送去主急诊室，但把孩子们的病历给我。\NSEND THE OVERFLOW\NTO THE MAIN E.R., BUT\NSEND ME THE KIDS' CHARTS.
+Dialogue: 0,0:22:38.45,0:22:39.95,Default,,0,0,0,,当然。\NOF COURSE.
+Dialogue: 0,0:22:39.95,0:22:42.19,Default,,0,0,0,,最严重的那些，送给我。\NAND THE SICKEST ONES,\NSEND THEM TO ME.
+Dialogue: 0,0:22:42.19,0:22:43.63,Default,,0,0,0,,我不会有别的办法。\NI WOULDN'T DO IT\NANY OTHER WAY.
+Dialogue: 0,0:22:43.63,0:22:46.13,Default,,0,0,0,,你为什么这么早回来？\NWHAT ARE YOU DOING BACK\NSO EARLY?
+Dialogue: 0,0:22:46.13,0:22:48.63,Default,,0,0,0,,我和艾瑞尔厌倦了要糖\NME AND ARIEL, WE WERE\NSICK OF TRICK-OR-TREATING
+Dialogue: 0,0:22:48.63,0:22:50.33,Default,,0,0,0,,而且妈妈要迟到了。\NAND MOM'S RUNNING LATE.
+Dialogue: 0,0:22:50.33,0:22:51.63,Default,,0,0,0,,你在看什么？\NWHAT ARE YOU\NWATCHING?
+Dialogue: 0,0:22:51.63,0:22:53.47,Default,,0,0,0,,家庭三角恋。\NFAMILY LOVE TRIANGLES.
+Dialogue: 0,0:22:53.47,0:22:55.10,Default,,0,0,0,,教育电视，是吧？\NEDUCATIONAL TV, HUH?
+Dialogue: 0,0:22:55.10,0:22:56.24,Default,,0,0,0,,是啊。妈妈说\NYEAH. MOM SAYS
+Dialogue: 0,0:22:56.24,0:22:58.44,Default,,0,0,0,,当我们搬到圣路易斯\NTHAT WHEN WE MOVE\NTO ST. LOUIS
+Dialogue: 0,0:22:58.44,0:23:00.68,Default,,0,0,0,,她每天只让我看\NSHE'S ONLY GOING\NTO LET ME WATCH
+Dialogue: 0,0:23:00.68,0:23:02.61,Default,,0,0,0,,一小时电视。\NAN HOUR OF\NTELEVISION A DAY.
+Dialogue: 0,0:23:02.61,0:23:05.45,Default,,0,0,0,,当你搬到圣路易斯的时候？\NWHEN YOU MOVE\NTO ST. LOUIS?
+Dialogue: 0,0:23:05.45,0:23:07.38,Default,,0,0,0,,你不知道？\NYOU DIDN'T KNOW?
+Dialogue: 0,0:23:09.32,0:23:10.59,Default,,0,0,0,,我想这就是为什么\NI THINK THAT'S WHY
+Dialogue: 0,0:23:10.59,0:23:12.72,Default,,0,0,0,,妈妈想见你。\NMOM WANTED TO SEE YOU.
+Dialogue: 0,0:23:12.72,0:23:14.66,Default,,0,0,0,,所以这事就这么定了？\NSO IT'S A DONE DEAL THEN?
+Dialogue: 0,0:23:14.66,0:23:16.76,Default,,0,0,0,,我的房间会大一倍\NMY ROOM'S GOING TO BE\NTWICE AS BIG
+Dialogue: 0,0:23:16.76,0:23:19.46,Default,,0,0,0,,街对面有个公园可以遛狗。\NAND THERE'S A PARK ACROSS\NTHE STREET FOR THE DOGS.
+Dialogue: 0,0:23:19.46,0:23:20.80,Default,,0,0,0,,听起来不错。\NIT SOUNDS NICE.
+Dialogue: 0,0:23:20.80,0:23:22.33,Default,,0,0,0,,那里真的很漂亮。\NIT'S REALLY\NPRETTY THERE.
+Dialogue: 0,0:23:22.33,0:23:26.37,Default,,0,0,0,,请不要告诉她我告诉过你，好吗？\NPLEASE DON'T TELL HER\NI TOLD YOU, OKAY?
+Dialogue: 0,0:23:26.37,0:23:29.14,Default,,0,0,0,,嘿，我守口如瓶。\NHEY, MY LIPS ARE SEALED.
+Dialogue: 0,0:23:29.14,0:23:31.31,Default,,0,0,0,,戴尔：用缝合线横向准备。\NDale:\NPREPARE TRANSVERSELY\NWITH RUNNING VICRYL.
+Dialogue: 0,0:23:31.31,0:23:32.64,Default,,0,0,0,,三-O。\NTHREE-OH.
+Dialogue: 0,0:23:32.64,0:23:35.21,Default,,0,0,0,,先生们，这是你们活检的结果。\NGENTLEMEN, I HAVE\NTHE RESULTS OF\NYOUR BIOPSY.
+Dialogue: 0,0:23:35.21,0:23:38.05,Default,,0,0,0,,你们猜猜我们在显微镜下看到了什么？\NCARE TO GUESS WHAT WE SAW\NUNDER THE MICROSCOPE?
+Dialogue: 0,0:23:38.05,0:23:39.25,Default,,0,0,0,,肯定是霍奇金淋巴瘤。\NGOT TO BE\NHODGKIN'S.
+Dialogue: 0,0:23:39.25,0:23:40.35,Default,,0,0,0,,不。\NNO.
+Dialogue: 0,0:23:40.35,0:23:41.32,Default,,0,0,0,,转移性腺癌？\NMETASTATIC\NADENO?
+Dialogue: 0,0:23:41.32,0:23:42.75,Default,,0,0,0,,又错了。\NWRONG AGAIN.
+Dialogue: 0,0:23:42.75,0:23:44.72,Default,,0,0,0,,生精小管。\NSEMINIFEROUS TUBULES.
+Dialogue: 0,0:23:44.72,0:23:45.89,Default,,0,0,0,,什么？\NWHAT?
+Dialogue: 0,0:23:45.89,0:23:47.39,Default,,0,0,0,,你在开玩笑吧？\NYOU'RE KIDDING?
+Dialogue: 0,0:23:47.39,0:23:49.36,Default,,0,0,0,,你活检了两个睾丸。\NYOU BIOPSIED\NTWO TESTICLES.
+Dialogue: 0,0:23:49.36,0:23:52.16,Default,,0,0,0,,看来芭比是个男孩。\NIT SEEMS THAT BARBIE IS A BOY.
+Dialogue: 0,0:23:53.90,0:23:56.13,Default,,0,0,0,,谁知道有这么多关于肠道的书籍？\NWHO KNEW THERE WERE SO\NMANY TEXTS ON THE BOWELS?
+Dialogue: 0,0:23:56.13,0:23:59.17,Default,,0,0,0,,是啊。这只是我能找到的。\NYEAH. THIS IS JUST\NWHAT I COULD GET\NMY HANDS ON.
+Dialogue: 0,0:23:59.17,0:24:01.37,Default,,0,0,0,,我想，所有这些强烈的兴趣……\NI SUPPOSE WITH ALL\NTHIS INTENSE INTEREST...
+Dialogue: 0,0:24:01.37,0:24:03.14,Default,,0,0,0,,（吵闹的派对声音）\N( raucous party sounds )
+Dialogue: 0,0:24:03.14,0:24:06.34,Default,,0,0,0,,意味着我们的肠道在未来很多年都得到很好的照顾。\NMEANS OUR BOWELS ARE\NIN GOOD HANDS FOR\NMANY YEARS TO COME.
+Dialogue: 0,0:24:06.34,0:24:08.01,Default,,0,0,0,,真是个好想法。\NTHAT'S A NICE THOUGHT.
+Dialogue: 0,0:24:08.01,0:24:11.15,Default,,0,0,0,,嘿，听起来派对已经开始了。\NHEY, SOUNDS LIKE THE\NPARTY'S UP AND RUNNING.
+Dialogue: 0,0:24:12.31,0:24:14.82,Default,,0,0,0,,男声：派对！\NMan:\NPARTY!
+Dialogue: 0,0:24:18.05,0:24:19.82,Default,,0,0,0,,是啊！\NYEAH!
+Dialogue: 0,0:24:19.82,0:24:21.76,Default,,0,0,0,,（欢呼声和叫喊声）\N( hooting and hollering )
+Dialogue: 0,0:24:27.19,0:24:30.13,Default,,0,0,0,,（欢呼声和笑声）\N( whooping and laughing )
+Dialogue: 0,0:24:44.41,0:24:45.58,Default,,0,0,0,,卡特医生。\NDR. CARTER.
+Dialogue: 0,0:24:47.01,0:24:48.72,Default,,0,0,0,,就在那里。\NRIGHT THERE.
+Dialogue: 0,0:24:51.22,0:24:52.49,Default,,0,0,0,,瞄得真准，老兄。\NNICE AIM, DUDE.
+Dialogue: 0,0:24:52.49,0:24:54.92,Default,,0,0,0,,你差点用那个灭了火。\NYOU ALMOST PUT OUT\NTHE FIRE WITH THAT ONE.
+Dialogue: 0,0:24:56.39,0:24:58.16,Default,,0,0,0,,嘿，卡特医生！\NHEY, DR. CARTER!
+Dialogue: 0,0:25:11.37,0:25:13.07,Default,,0,0,0,,（音乐停止）\N( music stops )
+Dialogue: 0,0:25:13.07,0:25:14.58,Default,,0,0,0,,（所有人呻吟）\N( all groaning )
+Dialogue: 0,0:25:14.58,0:25:16.38,Default,,0,0,0,,好了，孩子们，派对结束了。\NOKAY, KIDS,\NPARTY'S OVER.
+Dialogue: 0,0:25:16.38,0:25:18.18,Default,,0,0,0,,你们不必回家\NYOU DON'T HAVE\NTO GO HOME
+Dialogue: 0,0:25:18.18,0:25:19.95,Default,,0,0,0,,但你们不能留在这里。\NBUT YOU CAN'T STAY HERE.
+Dialogue: 0,0:25:19.95,0:25:21.88,Default,,0,0,0,,怎么了？我们太吵了吗？\NWHAT'S UP? WERE WE TOO LOUD?
+Dialogue: 0,0:25:21.88,0:25:24.09,Default,,0,0,0,,不，是家具着火了。\NNO, THE FURNITURE\NWAS TOO ON FIRE.
+Dialogue: 0,0:25:24.09,0:25:25.62,Default,,0,0,0,,真的吗？对不起。\NREALLY? I'M SORRY.
+Dialogue: 0,0:25:25.62,0:25:27.69,Default,,0,0,0,,我会在我房间里学习的。\NI'LL BE IN MY ROOM, STUDYING.
+Dialogue: 0,0:25:27.69,0:25:28.72,Default,,0,0,0,,万圣节快乐。\NHAPPY HALLOWEEN.
+Dialogue: 0,0:25:28.72,0:25:30.29,Default,,0,0,0,,她又对我这样。\NSHE DID IT TO ME AGAIN.
+Dialogue: 0,0:25:30.29,0:25:31.56,Default,,0,0,0,,她正在办理托管\NSHE'S IN ESCROW
+Dialogue: 0,0:25:31.56,0:25:33.49,Default,,0,0,0,,我是从瑞秋那里听说的。\NAND I HAD TO HEAR ABOUT IT\NFROM RACHEL.
+Dialogue: 0,0:25:33.49,0:25:35.56,Default,,0,0,0,,也许她今晚想告诉你。\NMAYBE SHE WAS GOING\NTO TELL YOU TONIGHT.
+Dialogue: 0,0:25:35.56,0:25:37.93,Default,,0,0,0,,也许吧。或者她只是打算\NMAYBE. OR MAYBE\NSHE WAS JUST GOING
+Dialogue: 0,0:25:37.93,0:25:41.10,Default,,0,0,0,,给我寄张圣路易斯的明信片。\NTO SEND ME A POSTCARD\NFROM ST. LOUIS.
+Dialogue: 0,0:25:41.10,0:25:44.67,Default,,0,0,0,,你和瑞秋相处得真的很好，是吗？\NYOU REALLY HAD A GOOD TIME\NWITH RACHEL, DIDN'T YOU?
+Dialogue: 0,0:25:44.67,0:25:46.77,Default,,0,0,0,,是啊。是啊，我很好。\NYEAH. YEAH, I DID.
+Dialogue: 0,0:25:46.77,0:25:48.91,Default,,0,0,0,,查塔洛夫斯基的戒毒搜索进行得怎么样了？\NHOW'S CHATTAROWSKI'S\NDETOX SEARCH GOING?
+Dialogue: 0,0:25:48.91,0:25:51.25,Default,,0,0,0,,四东区没床位了\NTHEY WERE ALL OUT OF\NBEDS IN FOUR EAST
+Dialogue: 0,0:25:51.25,0:25:52.35,Default,,0,0,0,,但我坚持住了\NBUT I STOOD MY GROUND
+Dialogue: 0,0:25:52.35,0:25:55.02,Default,,0,0,0,,坚持说他是一个很好的戒毒候选人\NAND INSISTED THAT HE WAS\NA GOOD DETOX CANDIDATE
+Dialogue: 0,0:25:55.02,0:25:56.72,Default,,0,0,0,,最后，他们让步了\NAND FINALLY,\NTHEY CAVED IN
+Dialogue: 0,0:25:56.72,0:25:58.72,Default,,0,0,0,,给了他一个四西区的床位。\NAND GAVE HIM A PLACE\NON FOUR WEST.
+Dialogue: 0,0:25:58.72,0:26:00.45,Default,,0,0,0,,哇。你肯定欠他们一些人情。\NWOW. YOU MUST OWE\NTHEM SOME FAVORS.
+Dialogue: 0,0:26:00.45,0:26:02.16,Default,,0,0,0,,几个，但值得。\NA COUPLE,\NBUT IT WAS WORTH IT.
+Dialogue: 0,0:26:04.93,0:26:08.80,Default,,0,0,0,,嗯，你试过了，你知道吗？\NWELL, YOU TRIED, YOU KNOW?
+Dialogue: 0,0:26:08.80,0:26:11.40,Default,,0,0,0,,戴尔：当我们探查腹膜后时\NDale:\NWHEN WE EXPLORED\NTHE RETROPERITINEUM
+Dialogue: 0,0:26:11.40,0:26:12.63,Default,,0,0,0,,我们发现了\NWE DISCOVERED
+Dialogue: 0,0:26:12.63,0:26:13.70,Default,,0,0,0,,两个小肿块。\NTWO SMALL MASSES.
+Dialogue: 0,0:26:13.70,0:26:15.57,Default,,0,0,0,,肿块。什么肿块？\NMASSES. WHAT\NKIND OF MASSES?
+Dialogue: 0,0:26:15.57,0:26:16.94,Default,,0,0,0,,我们也担心\NWE WERE\NCONCERNED, TOO
+Dialogue: 0,0:26:16.94,0:26:19.77,Default,,0,0,0,,所以我们送去了一份活检的冰冻切片\NSO WE SENT DOWN\NA FROZEN SECTION\NOF THE BIOPSY
+Dialogue: 0,0:26:19.77,0:26:21.78,Default,,0,0,0,,结果显示是睾丸组织。\NTHAT REVEALED\NTESTICULAR TISSUE.
+Dialogue: 0,0:26:21.78,0:26:23.91,Default,,0,0,0,,那是什么意思？\NWHAT DOES THAT MEAN?
+Dialogue: 0,0:26:23.91,0:26:25.68,Default,,0,0,0,,芭比有一种病\NBARBIE HAS A CONDITION
+Dialogue: 0,0:26:25.68,0:26:27.95,Default,,0,0,0,,叫做睾丸女性化。\NCALLED TESTICULAR\NFEMINIZATION.
+Dialogue: 0,0:26:27.95,0:26:30.65,Default,,0,0,0,,从基因上讲，她是一个男性\NGENETICALLY,\NSHE'S A MALE
+Dialogue: 0,0:26:30.65,0:26:32.49,Default,,0,0,0,,有X-Y染色体\NWITH X-Y\NCHROMOSOMES
+Dialogue: 0,0:26:32.49,0:26:33.96,Default,,0,0,0,,但在发育过程中\NBUT DURING DEVELOPMENT
+Dialogue: 0,0:26:33.96,0:26:37.66,Default,,0,0,0,,胎儿组织对睾丸激素有抵抗力\NTHE FETAL TISSUE WAS\NRESISTANT TO TESTOSTERONE
+Dialogue: 0,0:26:37.66,0:26:38.93,Default,,0,0,0,,外部生殖器\NAND THE\NEXTERNAL\NGENITALIA
+Dialogue: 0,0:26:38.93,0:26:40.33,Default,,0,0,0,,发育成了女性。\NDEVELOPED\NAS FEMALE.
+Dialogue: 0,0:26:40.33,0:26:42.16,Default,,0,0,0,,一定有哪里搞错了。\NTHERE'S GOT TO\NBE A MISTAKE.
+Dialogue: 0,0:26:42.16,0:26:43.26,Default,,0,0,0,,没有错。\NNO MISTAKE.
+Dialogue: 0,0:26:43.26,0:26:46.23,Default,,0,0,0,,阴道只不过是一个盲袋——\NTHE VAGINA'S NOTHING\NBUT A BLIND POUCH--
+Dialogue: 0,0:26:46.23,0:26:48.47,Default,,0,0,0,,没有子宫也没有卵巢。\NNO UTERUS\NNOR OVARIES.
+Dialogue: 0,0:26:48.47,0:26:51.47,Default,,0,0,0,,她需要接受雌激素替代疗法。\NSHE'LL NEED TO BE ON\NESTROGEN REPLACEMENT THERAPY.
+Dialogue: 0,0:26:51.47,0:26:52.94,Default,,0,0,0,,我的小女孩有睾丸。\NMY LITTLE GIRL\NHAS TESTICLES.
+Dialogue: 0,0:26:52.94,0:26:54.88,Default,,0,0,0,,事实上，我们不得不切除它们\NACTUALLY, WE HAD\NTO REMOVE THEM
+Dialogue: 0,0:26:54.88,0:26:58.05,Default,,0,0,0,,因为恶性转化的发生率很高。\NBECAUSE OF THE HIGH INCIDENCE\NOF MALIGNANT TRANSFORMATION.
+Dialogue: 0,0:26:58.05,0:26:59.71,Default,,0,0,0,,我……我不明白。\NI-I-I DON'T\NUNDERSTAND.
+Dialogue: 0,0:26:59.71,0:27:01.58,Default,,0,0,0,,我……我给她换过尿布。\NI... I CHANGED HER DIAPERS.
+Dialogue: 0,0:27:01.58,0:27:03.55,Default,,0,0,0,,我了解她的每一寸。\NI KNOW EVERY INCH\NOF HER.
+Dialogue: 0,0:27:03.55,0:27:05.09,Default,,0,0,0,,她是个男孩？\NSHE'S A BOY?
+Dialogue: 0,0:27:05.09,0:27:06.39,Default,,0,0,0,,基因不重要。\NTHE GENETICS\NDON'T MATTER.
+Dialogue: 0,0:27:06.39,0:27:07.86,Default,,0,0,0,,你把她当作女孩抚养。\NYOU'VE RAISED HER\NAS A GIRL.
+Dialogue: 0,0:27:07.86,0:27:09.02,Default,,0,0,0,,芭比是女孩。\NBARBIE IS A GIRL.
+Dialogue: 0,0:27:09.02,0:27:10.36,Default,,0,0,0,,她看起来就是这样。\NIT'S WHAT SHE\NLOOKS LIKE.
+Dialogue: 0,0:27:10.36,0:27:11.36,Default,,0,0,0,,那是她的身份。\NIT'S HER\NIDENTITY.
+Dialogue: 0,0:27:11.36,0:27:13.09,Default,,0,0,0,,什么都改变不了。\NNOTHING WILL CHANGE THAT.
+Dialogue: 0,0:27:13.09,0:27:15.66,Default,,0,0,0,,但你必须明白，她永远不会来月经\NBUT YOU HAVE TO UNDERSTAND\NTHAT SHE'LL NEVER MENSTRUATE
+Dialogue: 0,0:27:15.66,0:27:16.93,Default,,0,0,0,,或生育孩子。\NOR BEAR\NCHILDREN.
+Dialogue: 0,0:27:16.93,0:27:17.97,Default,,0,0,0,,（压抑的抽泣）\N( stifled sob )
+Dialogue: 0,0:27:17.97,0:27:21.24,Default,,0,0,0,,（轻声抽泣）\N( sobbing softly )
+Dialogue: 0,0:27:23.04,0:27:25.07,Default,,0,0,0,,显然，这让人震惊。\NOBVIOUSLY,\NTHIS HAS COME AS A SHOCK.
+Dialogue: 0,0:27:25.07,0:27:27.01,Default,,0,0,0,,你需要时间来适应。\NYOU'LL NEED TIME TO ADJUST.
+Dialogue: 0,0:27:27.01,0:27:29.01,Default,,0,0,0,,芭比正在康复。\NBARBIE'S\NRECOVERING.
+Dialogue: 0,0:27:29.01,0:27:32.18,Default,,0,0,0,,我们会把你转介给一个遗传咨询师。\NWE'LL REFER YOU\NTO A GENETIC COUNSELOR.
+Dialogue: 0,0:27:32.18,0:27:36.52,Default,,0,0,0,,他们会帮你决定何时以及如何告诉她。\NTHEY'LL HELP YOU DECIDE\NWHEN AND HOW TO TELL HER.
+Dialogue: 0,0:27:36.52,0:27:39.09,Default,,0,0,0,,谢谢你，医生。\NTHANK YOU, DOCTOR.
+Dialogue: 0,0:27:50.23,0:27:51.50,Default,,0,0,0,,干得漂亮。\NNICE JOB.
+Dialogue: 0,0:27:51.50,0:27:52.97,Default,,0,0,0,,谢谢你。\NTHANK YOU.
+Dialogue: 0,0:27:52.97,0:27:54.50,Default,,0,0,0,,当然，你忘了提\NOF COURSE, YOU\NFORGOT TO MENTION
+Dialogue: 0,0:27:54.50,0:27:57.17,Default,,0,0,0,,他们得把芭比的名字改成肯。\NTHEY'LL HAVE TO\NCHANGE BARBIE'S\NNAME TO KEN.
+Dialogue: 0,0:27:59.01,0:28:01.14,Default,,0,0,0,,我今天过得这么糟，随便来吧。\NAFTER THE DAY I'VE HAD,\NJUST LINE THEM UP.
+Dialogue: 0,0:28:01.14,0:28:03.58,Default,,0,0,0,,说的没错。你就得这么干，伙计。\NWORD. THAT'S HOW YOU\NGOT TO DO IT, MAN.
+Dialogue: 0,0:28:03.58,0:28:04.85,Default,,0,0,0,,努力工作，尽情玩乐。\NWORK HARD, PLAY HARD.
+Dialogue: 0,0:28:04.85,0:28:06.11,Default,,0,0,0,,我活该尽情玩乐。\NI DESERVE\NTO PLAY HARD.
+Dialogue: 0,0:28:06.11,0:28:08.12,Default,,0,0,0,,我必须检查所有这些粪便样本\NI HAD TO CHECK\NALL THOSE STOOL SAMPLES
+Dialogue: 0,0:28:08.12,0:28:09.78,Default,,0,0,0,,看有没有粪便白细胞，老兄。\NFOR FECAL LEUKOCYTES, DUDE.
+Dialogue: 0,0:28:09.78,0:28:10.95,Default,,0,0,0,,你觉得那很糟糕吗？\NYOU THINK THAT'S BAD?
+Dialogue: 0,0:28:10.95,0:28:13.12,Default,,0,0,0,,我的住院医让我给这些流浪汉\NMY RESIDENT\NHAD ME GIVE PHYSICAL EXAMS
+Dialogue: 0,0:28:13.12,0:28:14.96,Default,,0,0,0,,做体格检查。\NTO THESE HOMELESS SHELTER GUYS.
+Dialogue: 0,0:28:14.96,0:28:17.59,Default,,0,0,0,,有一个人的脓肿上爬满了蛆。\NONE HAD MAGGOTS\NCRAWLING ALL OVER AN ABSCESS.
+Dialogue: 0,0:28:17.59,0:28:19.03,Default,,0,0,0,,（呻吟）\N( groaning )
+Dialogue: 0,0:28:19.03,0:28:21.63,Default,,0,0,0,,至少你的住院医承认你的存在。\NAT LEAST YOUR RESIDENTS\NACKNOWLEDGE YOUR EXISTENCE.
+Dialogue: 0,0:28:21.63,0:28:24.00,Default,,0,0,0,,我的甚至都不知道我在这里。\NMINE DON'T EVEN KNOW\NI'M HERE.
+Dialogue: 0,0:28:24.00,0:28:26.23,Default,,0,0,0,,我从这只橡胶手臂上得到的尊重都比这多。\NI GET MORE RESPECT\NFROM THIS RUBBER ARM.
+Dialogue: 0,0:28:27.63,0:28:30.10,Default,,0,0,0,,（欢呼声和笑声）\N( whooping and laughing )
+Dialogue: 0,0:28:30.10,0:28:32.11,Default,,0,0,0,,如果我们有那把锯子，我们可能就救了这个人。\NWE MIGHT HAVE SAVED THIS GUY\NIF WE HAD THE SAW.
+Dialogue: 0,0:28:32.11,0:28:34.81,Default,,0,0,0,,我们可以在两秒钟内切开胸骨\NWE COULD HAVE CUT ACROSS\NTHE STERNUM IN TWO SECONDS
+Dialogue: 0,0:28:34.81,0:28:36.51,Default,,0,0,0,,而不是凿了将近一分钟。\NINSTEAD OF CHISELING\NFOR CLOSE TO A MINUTE.
+Dialogue: 0,0:28:36.51,0:28:38.18,Default,,0,0,0,,凯瑞，那家伙已经死了。\NKERRY, THE\NGUY WAS DEAD.
+Dialogue: 0,0:28:38.18,0:28:40.98,Default,,0,0,0,,再多几秒钟也救不活他。\NANOTHER FEW SECONDS\NWOULDN'T HAVE BROUGHT\NHIM BACK TO LIFE.
+Dialogue: 0,0:28:40.98,0:28:42.42,Default,,0,0,0,,但这会给他一个机会。\NBUT IT WOULD'VE GIVEN HIM\NA CHANCE.
+Dialogue: 0,0:28:42.42,0:28:44.82,Default,,0,0,0,,我们不会浪费时间和金钱\NWE ARE NOT GOING\NTO WASTE TIME AND MONEY
+Dialogue: 0,0:28:44.82,0:28:46.99,Default,,0,0,0,,在急诊室医生身上训练手术器械\NTRAINING E.R. DOCS ON\NSURGICAL EQUIPMENT
+Dialogue: 0,0:28:46.99,0:28:49.02,Default,,0,0,0,,这种器械一年只用一次。\NTHAT WILL GET USED\NONCE A YEAR.
+Dialogue: 0,0:28:49.02,0:28:50.16,Default,,0,0,0,,但如果我们有锯子\NBUT IF WE HAD THE SAW
+Dialogue: 0,0:28:50.16,0:28:51.56,Default,,0,0,0,,我们可以对所有伴有心脏骤停的穿透性胸部创伤\NWE COULD GIVE\NMIDLINE THORACOTOMIES
+Dialogue: 0,0:28:51.56,0:28:54.13,Default,,0,0,0,,进行正中开胸术。\NFOR ALL PENETRATING CHEST TRAUMA\NWITH FULL ARREST.
+Dialogue: 0,0:28:54.13,0:28:56.43,Default,,0,0,0,,但这不符合医疗护理标准。\NBUT THAT IS NOT\NTHE STANDARD OF CARE.
+Dialogue: 0,0:28:56.43,0:28:58.57,Default,,0,0,0,,医疗护理标准的结果很糟糕。\NTHE STANDARD OF CARE\NGIVES MISERABLE RESULTS.
+Dialogue: 0,0:28:58.57,0:29:01.10,Default,,0,0,0,,如果在救护车上心脏骤停，10%存活。\NIF THEY ARREST IN THE AMBULANCE,\NTEN PERCENT SURVIVE.
+Dialogue: 0,0:29:01.10,0:29:02.90,Default,,0,0,0,,如果在急诊室心脏骤停，30%存活。\NIF THEY ARREST IN THE E.R.,\N30% SURVIVE.
+Dialogue: 0,0:29:02.90,0:29:04.31,Default,,0,0,0,,我认为正中开胸术\NI THINK\NMIDLINE THORACOTOMY
+Dialogue: 0,0:29:04.31,0:29:06.91,Default,,0,0,0,,能更好地暴露以修复心脏损伤。\NGIVES US BETTER EXPOSURE\NTO REPAIR CARDIAC INJURIES.
+Dialogue: 0,0:29:06.91,0:29:09.04,Default,,0,0,0,,凯瑞，如果你对此如此感兴趣\NKERRY, IF YOU'RE\NSO DAMNED INTERESTED IN THIS
+Dialogue: 0,0:29:09.04,0:29:10.01,Default,,0,0,0,,你为什么不做个研究呢？\NWHY DON'T YOU DO A STUDY?
+Dialogue: 0,0:29:10.01,0:29:11.21,Default,,0,0,0,,好的，我会的。\NALL RIGHT, I WILL.
+Dialogue: 0,0:29:11.21,0:29:13.01,Default,,0,0,0,,好。我完全知道外科的哪个家伙\NGOOD. I KNOW EXACTLY\NTHE GUY FROM SURGERY
+Dialogue: 0,0:29:13.01,0:29:14.38,Default,,0,0,0,,可以和你协调。彼得？\NTO COORDINATE WITH YOU.\NPETER?
+Dialogue: 0,0:29:14.38,0:29:16.72,Default,,0,0,0,,凯瑞和我刚才正在讨论一项联合研究\NKERRY AND I WERE JUST\NDISCUSSING A JOINT STUDY
+Dialogue: 0,0:29:16.72,0:29:17.99,Default,,0,0,0,,急诊室和外科之间的。\NBETWEEN THE E.R.\NAND SURGERY.
+Dialogue: 0,0:29:17.99,0:29:19.35,Default,,0,0,0,,外侧开胸与正中开胸\NLATERAL VERSUS\NMIDLINE THORACOTOMY
+Dialogue: 0,0:29:19.35,0:29:21.29,Default,,0,0,0,,治疗伴有心脏骤停的穿透性胸部创伤。\NFOR PENETRATING\NCHEST TRAUMA\NWITH FULL ARREST.
+Dialogue: 0,0:29:21.29,0:29:23.09,Default,,0,0,0,,是因为今天早上吗？\NIS THIS\NBECAUSE OF THIS MORNING?
+Dialogue: 0,0:29:23.09,0:29:25.79,Default,,0,0,0,,凯瑞，你为什么不起草一份提案，包括预算\NKERRY, WHY DON'T YOU DRAW UP\NA PROPOSAL, INCLUDING A BUDGET
+Dialogue: 0,0:29:25.79,0:29:27.80,Default,,0,0,0,,并在接下来的两周内交到我桌上？\NAND HAVE IT ON MY DESK\NIN THE NEXT TWO WEEKS?
+Dialogue: 0,0:29:27.80,0:29:29.06,Default,,0,0,0,,听着，我不认为急诊室医生\NLISTEN, I DON'T\NTHINK E.R. DOCS
+Dialogue: 0,0:29:29.06,0:29:31.30,Default,,0,0,0,,应该玩胸骨锯。\NSHOULD BE PLAYING\NAROUND WITH A STERNAL SAW.
+Dialogue: 0,0:29:31.30,0:29:32.47,Default,,0,0,0,,我也不。\NNEITHER DO I.
+Dialogue: 0,0:29:32.47,0:29:34.04,Default,,0,0,0,,那为什么你支持她？\NWELL, THEN,\NWHY DID YOU\NSUPPORT HER?
+Dialogue: 0,0:29:34.04,0:29:36.14,Default,,0,0,0,,我没有。我只是让她白费力气。\NI'M NOT. I'M LETTING HER\NSPIN HER WHEELS.
+Dialogue: 0,0:29:36.14,0:29:38.17,Default,,0,0,0,,她会写一份提案，而这份提案\NSHE'LL WRITE A PROPOSAL,\NAND IT WON'T MAKE IT
+Dialogue: 0,0:29:38.17,0:29:39.84,Default,,0,0,0,,在人类受试者委员会那里\NTHROUGH THE HUMAN\NSUBJECTS COMMITTEE
+Dialogue: 0,0:29:39.84,0:29:41.11,Default,,0,0,0,,一百万年也通不过。\NIN ABOUT A\NMILLION YEARS.
+Dialogue: 0,0:29:42.18,0:29:43.34,Default,,0,0,0,,M&M？\NM & M?
+Dialogue: 0,0:29:43.34,0:29:45.11,Default,,0,0,0,,哦，不，不。\NOH, NO, NO.
+Dialogue: 0,0:29:46.18,0:29:47.92,Default,,0,0,0,,嘿。哦！\NHEY.\NOH!
+Dialogue: 0,0:29:47.92,0:29:51.05,Default,,0,0,0,,听着，我预订了邓普西餐厅，10点。\NLISTEN, I MADE RESERVATIONS\NAT DEMPSEY'S FOR 10:00.
+Dialogue: 0,0:29:51.05,0:29:52.32,Default,,0,0,0,,彼得，我不知道。\NPETER, I DON'T KNOW.
+Dialogue: 0,0:29:52.32,0:29:53.55,Default,,0,0,0,,我忙得不可开交。\NI'M PRETTY SWAMPED.
+Dialogue: 0,0:29:53.55,0:29:54.79,Default,,0,0,0,,你在说什么？\NWHAT ARE YOU\NTALKING ABOUT?
+Dialogue: 0,0:29:54.79,0:29:56.16,Default,,0,0,0,,今天是万圣节。\NIT'S HALLOWEEN.
+Dialogue: 0,0:29:56.16,0:29:58.19,Default,,0,0,0,,但邓普西餐厅不太有万圣节气氛。\NBUT DEMPSEY'S\NISN'T REALLY\NHALLOWEEN-Y.
+Dialogue: 0,0:29:58.19,0:29:59.79,Default,,0,0,0,,你知道，它会一直这样。\NYOU KNOW,\NIT'LL KEEP.
+Dialogue: 0,0:30:10.57,0:30:12.11,Default,,0,0,0,,（叹气）\N( sighing )
+Dialogue: 0,0:30:13.24,0:30:16.21,Default,,0,0,0,,嘿，沃尔特，怎么了，伙计？是我。\NHEY, WALT, WHAT'S UP, MAN?\NIT'S ME.
+Dialogue: 0,0:30:16.21,0:30:19.91,Default,,0,0,0,,听着，我，呃，我需要你帮个忙。\NLISTEN, I, UH,\NI NEED TO ASK YOU A FAVOR.
+Dialogue: 0,0:30:19.91,0:30:21.12,Default,,0,0,0,,看到这个了吗？\NSEE THIS ONE?
+Dialogue: 0,0:30:21.12,0:30:22.25,Default,,0,0,0,,那是蓝骑士。\NTHAT'S THE BLUE RIDER.
+Dialogue: 0,0:30:22.25,0:30:24.25,Default,,0,0,0,,好吧，“可爱”的牛仔。\NALL RIGHT, THE\N"CUTE" COWBOY.
+Dialogue: 0,0:30:24.25,0:30:25.35,Default,,0,0,0,,爸！\NDAD!
+Dialogue: 0,0:30:25.35,0:30:28.19,Default,,0,0,0,,瑞秋，我没听错你的点单吧？\NRACH, DID I HEAR\NYOUR ORDER RIGHT?
+Dialogue: 0,0:30:28.19,0:30:30.52,Default,,0,0,0,,你讨厌大黄和核桃。\NYOU HATE RHUBARB\NAND WALNUTS.
+Dialogue: 0,0:30:30.52,0:30:32.06,Default,,0,0,0,,我现在喜欢了。\NI LIKE IT NOW.
+Dialogue: 0,0:30:32.06,0:30:34.36,Default,,0,0,0,,爸爸做的派很好吃。\NDAD MAKES GOOD PIE.
+Dialogue: 0,0:30:34.36,0:30:35.73,Default,,0,0,0,,他一直都这样。\NHE ALWAYS DID.
+Dialogue: 0,0:30:35.73,0:30:38.40,Default,,0,0,0,,珍，你是不是想讨好我？\NJEN, YOU TRYING\NTO BUTTER ME UP?
+Dialogue: 0,0:30:38.40,0:30:40.03,Default,,0,0,0,,不，我只是记得\NNO, I JUST REMEMBER
+Dialogue: 0,0:30:40.03,0:30:43.17,Default,,0,0,0,,你妈妈著名的大黄派食谱。\NYOUR MOM'S FAMOUS\NRHUBARB PIE RECIPE.
+Dialogue: 0,0:30:43.17,0:30:45.64,Default,,0,0,0,,抱歉你感冒了还要加班。\NSORRY YOU HAVE TO WORK LATE\NWITH A COLD.
+Dialogue: 0,0:30:45.64,0:30:46.84,Default,,0,0,0,,你还撑得住吗？\NARE YOU HOLDING UP?
+Dialogue: 0,0:30:46.84,0:30:48.28,Default,,0,0,0,,是啊，只是我的鼻窦。\NYEAH, IT'S JUST\NMY SINUSES.
+Dialogue: 0,0:30:48.28,0:30:51.25,Default,,0,0,0,,瑞秋，你为什么不去洗手？\NRACHEL, WHY DON'T YOU\NGO WASH YOUR HANDS?
+Dialogue: 0,0:30:51.25,0:30:52.18,Default,,0,0,0,,好的。\NOKAY.
+Dialogue: 0,0:30:55.85,0:30:58.45,Default,,0,0,0,,圣路易斯，嗯？\NST. LOUIS, HUH?
+Dialogue: 0,0:30:58.45,0:30:59.59,Default,,0,0,0,,她告诉你了。\NSHE TOLD YOU.
+Dialogue: 0,0:30:59.59,0:31:00.69,Default,,0,0,0,,说漏嘴了。\NIT SLIPPED OUT.
+Dialogue: 0,0:31:00.69,0:31:01.99,Default,,0,0,0,,那是个很棒的工作，马克。\NIT'S A GREAT JOB,\NMARK.
+Dialogue: 0,0:31:01.99,0:31:03.86,Default,,0,0,0,,学校一流，而且……\NTHE SCHOOLS\NARE TOP RATE, AND...
+Dialogue: 0,0:31:03.86,0:31:05.63,Default,,0,0,0,,听起来不错。\NIT SOUNDS GOOD.
+Dialogue: 0,0:31:08.80,0:31:11.33,Default,,0,0,0,,我本来准备打一架。\NI WAS READY FOR A FIGHT.
+Dialogue: 0,0:31:11.33,0:31:14.50,Default,,0,0,0,,我想我们这辈子已经吵够了\NI THINK WE'VE DONE\NENOUGH FIGHTING\NFOR A LIFETIME
+Dialogue: 0,0:31:14.50,0:31:16.14,Default,,0,0,0,,你不觉得吗？\NDON'T YOU THINK?
+Dialogue: 0,0:31:17.34,0:31:19.01,Default,,0,0,0,,是啊。\NYEAH.
+Dialogue: 0,0:31:19.01,0:31:20.61,Default,,0,0,0,,在一个完美的世界里\NIN A PERFECT WORLD
+Dialogue: 0,0:31:20.61,0:31:25.35,Default,,0,0,0,,我们都可以一年365天都陪着她\NWE COULD BOTH SPEND\N365 DAYS A YEAR WITH HER
+Dialogue: 0,0:31:25.35,0:31:27.71,Default,,0,0,0,,但我们不能。\NBUT WE CAN'T.
+Dialogue: 0,0:31:27.71,0:31:30.25,Default,,0,0,0,,圣路易斯不远。\NST. LOUIS ISN'T VERY FAR.
+Dialogue: 0,0:31:30.25,0:31:31.29,Default,,0,0,0,,不。\NNO.
+Dialogue: 0,0:31:31.29,0:31:34.26,Default,,0,0,0,,我会有假期和暑假。\NI'LL HAVE HOLIDAYS\NAND SUMMERS.
+Dialogue: 0,0:31:36.16,0:31:39.63,Default,,0,0,0,,这个夏天和她在一起\NSPENDING THIS TIME WITH\NHER THIS SUMMER HAS...
+Dialogue: 0,0:31:39.63,0:31:41.43,Default,,0,0,0,,让我……\NMADE ME THINK ABOUT HOW...
+Dialogue: 0,0:31:41.43,0:31:45.37,Default,,0,0,0,,让我想起我们花太多时间思考自己了。\NWE SPENT WAY TOO MUCH TIME\NTHINKING ABOUT OURSELVES.
+Dialogue: 0,0:31:45.37,0:31:50.44,Default,,0,0,0,,她告诉我你们相处得很好。\NSHE TOLD ME YOU GUYS\NGOT ALONG REALLY WELL.
+Dialogue: 0,0:31:50.44,0:31:52.67,Default,,0,0,0,,是啊。\NYEAH.
+Dialogue: 0,0:31:52.67,0:31:56.18,Default,,0,0,0,,是啊，那，呃……\NYEAH, IT WAS, UH...
+Dialogue: 0,0:31:58.81,0:32:00.65,Default,,0,0,0,,那很有趣。\NIT WAS A LOT OF...
+Dialogue: 0,0:32:00.65,0:32:02.68,Default,,0,0,0,,那很有趣。\NIT WAS A LOT OF FUN.
+Dialogue: 0,0:32:09.02,0:32:11.16,Default,,0,0,0,,谢谢你。\NTHANK YOU.
+Dialogue: 0,0:32:12.19,0:32:14.96,Default,,0,0,0,,现在还是万圣节吗？\NIS IT STILL\NHALLOWEEN?
+Dialogue: 0,0:32:14.96,0:32:16.06,Default,,0,0,0,,呃……是的。\NUH... YES.
+Dialogue: 0,0:32:16.06,0:32:18.30,Default,,0,0,0,,你还有几个小时。\NYOU HAVE A FEW\NMORE HOURS LEFT.
+Dialogue: 0,0:32:18.30,0:32:21.04,Default,,0,0,0,,我想我不能\NI GUESS I\NWON'T BE ABLE
+Dialogue: 0,0:32:21.04,0:32:23.07,Default,,0,0,0,,去要糖了。\NTO GO TRICK-OR-TREATING.
+Dialogue: 0,0:32:23.07,0:32:25.07,Default,,0,0,0,,今年不行。\NNOT THIS YEAR.
+Dialogue: 0,0:32:25.07,0:32:26.41,Default,,0,0,0,,对不起。\NI'M SORRY.
+Dialogue: 0,0:32:26.41,0:32:29.11,Default,,0,0,0,,有一天，嗯？\NSOME DAY, HUH?
+Dialogue: 0,0:32:29.98,0:32:32.05,Default,,0,0,0,,没关系。\NTHAT'S OKAY.
+Dialogue: 0,0:32:32.05,0:32:36.12,Default,,0,0,0,,反正最好玩的部分是做服装。\NTHE BEST PART WAS MAKING\NTHE COSTUME, ANYWAY.
+Dialogue: 0,0:32:36.12,0:32:38.65,Default,,0,0,0,,我和妈妈一起做的。\NME AND MY MOM\NMADE IT TOGETHER.
+Dialogue: 0,0:32:41.12,0:32:42.76,Default,,0,0,0,,你还留着我的头冠吗？\NDO YOU STILL HAVE MY TIARA?
+Dialogue: 0,0:32:42.76,0:32:45.36,Default,,0,0,0,,呃……\NUH...
+Dialogue: 0,0:32:45.36,0:32:47.09,Default,,0,0,0,,是的。\NYES.
+Dialogue: 0,0:32:47.09,0:32:49.56,Default,,0,0,0,,是的，就在这里。\NYES, RIGHT HERE.
+Dialogue: 0,0:32:51.27,0:32:54.04,Default,,0,0,0,,等等，我来弄。\NWAIT, LET ME DO THAT.
+Dialogue: 0,0:32:57.27,0:32:58.67,Default,,0,0,0,,好了。\NTHERE.
+Dialogue: 0,0:32:58.67,0:33:00.04,Default,,0,0,0,,我看起来怎么样？\NHOW DO I LOOK?
+Dialogue: 0,0:33:00.04,0:33:04.75,Default,,0,0,0,,哦！像个美丽的仙女公主。\NOH! LIKE A BEAUTIFUL\NFAIRY PRINCESS.
+Dialogue: 0,0:33:10.02,0:33:11.39,Default,,0,0,0,,（笑）\N( laughing )
+Dialogue: 0,0:33:11.39,0:33:13.05,Default,,0,0,0,,不！\NNO!
+Dialogue: 0,0:33:13.05,0:33:14.92,Default,,0,0,0,,喝吧，伙计！\NDRINK UP, BUDDY!
+Dialogue: 0,0:33:14.92,0:33:17.22,Default,,0,0,0,,有些人酒量不行。\NSOME PEOPLE\NCANNOT HOLD THEIR LIQUOR.
+Dialogue: 0,0:33:17.22,0:33:19.73,Default,,0,0,0,,我们应该彻底捉弄他。\NWE SHOULD TOTALLY\NMESS WITH HIS MIND.
+Dialogue: 0,0:33:19.73,0:33:23.13,Default,,0,0,0,,哦，你是说热水泡手那个把戏吗？\NOH, YOU MEAN THE-HAND-\NIN-THE-WARM-WATER TRICK?
+Dialogue: 0,0:33:23.13,0:33:24.67,Default,,0,0,0,,别在沙发上，露西。\NNOT ON THE COUCH,\NLUCY.
+Dialogue: 0,0:33:24.67,0:33:25.87,Default,,0,0,0,,来吧。\NCOME ON.
+Dialogue: 0,0:33:25.87,0:33:27.00,Default,,0,0,0,,我来。\NI GOT IT.
+Dialogue: 0,0:33:27.00,0:33:28.17,Default,,0,0,0,,我来。\NI GOT IT.
+Dialogue: 0,0:33:28.17,0:33:30.97,Default,,0,0,0,,（笑）：住手！\N( laughing ):\NSTOP IT!
+Dialogue: 0,0:33:30.97,0:33:32.21,Default,,0,0,0,,你觉得他没事吗？\NDO YOU THINK HE'S OKAY?
+Dialogue: 0,0:33:32.21,0:33:33.91,Default,,0,0,0,,是啊，他只是个酒量小的\NYEAH, HE'S JUST\NA LIGHTWEIGHT
+Dialogue: 0,0:33:33.91,0:33:35.31,Default,,0,0,0,,就这样。\NTHAT'S ALL.
+Dialogue: 0,0:33:35.31,0:33:37.71,Default,,0,0,0,,他脉搏强劲，还在呼吸。\NHE HAS A STRONG PULSE,\NAND HE'S STILL BREATHING.
+Dialogue: 0,0:33:37.71,0:33:40.18,Default,,0,0,0,,你在急诊室待太久了。\NYOU'VE BEEN\NIN THE E.R.\NWAY TOO LONG.
+Dialogue: 0,0:33:40.18,0:33:42.75,Default,,0,0,0,,让我们把派对搞起来！\NLET'S GET THIS PARTY STARTED\NRIGHT!
+Dialogue: 0,0:33:42.75,0:33:44.69,Default,,0,0,0,,你要给他剃头吗？\NYOU GOING TO\NSHAVE HIS HEAD?
+Dialogue: 0,0:33:44.69,0:33:45.75,Default,,0,0,0,,不，那会很\NNO, THAT\NWOULD BE
+Dialogue: 0,0:33:45.75,0:33:47.49,Default,,0,0,0,,残忍和不寻常。\NCRUEL AND UNUSUAL.
+Dialogue: 0,0:33:47.49,0:33:48.22,Default,,0,0,0,,这很卑鄙！\NTHIS IS MEAN!
+Dialogue: 0,0:33:48.22,0:33:49.36,Default,,0,0,0,,这很卑鄙。\NTHIS IS MEAN.
+Dialogue: 0,0:33:49.36,0:33:52.03,Default,,0,0,0,,你还没见过呢。\NYOU AIN'T SEEN NOTHIN' YET.
+Dialogue: 0,0:33:53.29,0:33:56.26,Default,,0,0,0,,嗯，即使他醉了，那也应该管用。\NWELL, EVEN IF HE WAS DRUNK,\NTHAT SHOULD STILL WORK.
+Dialogue: 0,0:33:56.26,0:33:57.76,Default,,0,0,0,,不，停，停，停。\NNO, STOP, STOP, STOP.
+Dialogue: 0,0:33:57.76,0:33:59.50,Default,,0,0,0,,等等，等等，等等。威利？\NWAIT, WAIT, WAIT.\NWILLIE?
+Dialogue: 0,0:33:59.50,0:34:01.14,Default,,0,0,0,,威利，醒醒！\NWILLIE, WAKE UP!
+Dialogue: 0,0:34:01.14,0:34:02.54,Default,,0,0,0,,有人需要打911\NSOMEONE NEEDS\NTO CALL 911
+Dialogue: 0,0:34:02.54,0:34:03.57,Default,,0,0,0,,然后去找卡特。\NAND GO GET CARTER.
+Dialogue: 0,0:34:03.57,0:34:04.54,Default,,0,0,0,,现实点吧，露丝。\NGET REAL, LUCE.
+Dialogue: 0,0:34:04.54,0:34:06.74,Default,,0,0,0,,如果我们叫卡特医生，他会告发我们的。\NIF WE CALL DR. CARTER,\NHE'LL NARC.
+Dialogue: 0,0:34:06.74,0:34:07.94,Default,,0,0,0,,不，威利有麻烦了。\NNO, WILLIE'S\NIN TROUBLE.
+Dialogue: 0,0:34:07.94,0:34:09.18,Default,,0,0,0,,我们需要做点什么。\NWE NEED\NTO DO SOMETHING.
+Dialogue: 0,0:34:09.18,0:34:10.24,Default,,0,0,0,,不，露丝，伯尼是对的。\NNO, LUCE,\NBERNIE'S RIGHT.
+Dialogue: 0,0:34:10.24,0:34:11.25,Default,,0,0,0,,我们是医学生。\NWE'RE MED STUDENTS.
+Dialogue: 0,0:34:11.25,0:34:12.25,Default,,0,0,0,,我们能搞定。\NWE CAN HANDLE THIS.
+Dialogue: 0,0:34:12.25,0:34:13.25,Default,,0,0,0,,这不是课堂。\NTHIS IS NOT CLASS.
+Dialogue: 0,0:34:13.25,0:34:14.32,Default,,0,0,0,,这是我们的朋友。\NTHIS IS OUR FRIEND.
+Dialogue: 0,0:34:14.32,0:34:15.42,Default,,0,0,0,,现在，你们打911。\NNOW, YOU GUYS\NCALL 911.
+Dialogue: 0,0:34:15.42,0:34:17.12,Default,,0,0,0,,我要去找卡特。\NI'M GOING\NTO GO GET CARTER.
+Dialogue: 0,0:34:23.19,0:34:25.73,Default,,0,0,0,,卡特医生？！\NDR. CARTER?!
+Dialogue: 0,0:34:25.73,0:34:28.46,Default,,0,0,0,,卡特医生，醒醒！\NWAKE UP, DR. CARTER!
+Dialogue: 0,0:34:28.46,0:34:29.43,Default,,0,0,0,,醒醒！\NWAKE UP!
+Dialogue: 0,0:34:31.57,0:34:34.00,Default,,0,0,0,,好的，大家，退后。给他点空气。\NOKAY, EVERYBODY, BACK OFF.\NGIVE HIM SOME AIR.
+Dialogue: 0,0:34:34.00,0:34:35.27,Default,,0,0,0,,有人打911了吗？\NANYBODY CALL 911?
+Dialogue: 0,0:34:35.27,0:34:37.04,Default,,0,0,0,,我打了，卡特医生。\NI DID, DR. CARTER.
+Dialogue: 0,0:34:37.04,0:34:38.04,Default,,0,0,0,,来吧，威利，醒醒。\NCOME ON, WILLIE, WAKE UP.
+Dialogue: 0,0:34:38.04,0:34:39.51,Default,,0,0,0,,醒醒！\NWAKE UP!
+Dialogue: 0,0:34:39.51,0:34:42.51,Default,,0,0,0,,我颈动脉搏动微弱，但他没有呼吸。\NI GOT A WEAK CAROTID PULSE,\NBUT HE'S NOT BREATHING.
+Dialogue: 0,0:34:42.51,0:34:44.18,Default,,0,0,0,,哦，天哪。\NOH, MAN.
+Dialogue: 0,0:34:44.18,0:34:46.81,Default,,0,0,0,,（喘气）\N( puffing )
+Dialogue: 0,0:34:46.81,0:34:48.22,Default,,0,0,0,,（呕吐）\N( retching )
+Dialogue: 0,0:34:48.22,0:34:49.45,Default,,0,0,0,,（所有人呻吟）\N( all groaning )
+Dialogue: 0,0:34:49.45,0:34:50.32,Default,,0,0,0,,哦，恶心！\NOH, GROSS!
+Dialogue: 0,0:34:50.32,0:34:52.22,Default,,0,0,0,,我能做点什么吗？我能做点什么？\NCAN I DO ANYTHING?\NWHAT CAN I DO?
+Dialogue: 0,0:34:52.22,0:34:54.79,Default,,0,0,0,,他吐了。那……那很好，对吧？\NHE VOMITED. THAT'S A...\NTHAT'S GOOD, RIGHT?
+Dialogue: 0,0:34:54.79,0:34:56.22,Default,,0,0,0,,不，那很糟糕。\NNO, THAT'S BAD.
+Dialogue: 0,0:34:56.22,0:34:57.96,Default,,0,0,0,,如果他呕吐\NIF HE VOMITS
+Dialogue: 0,0:34:57.96,0:34:59.53,Default,,0,0,0,,呕吐物进入肺部\NAND IT GETS DOWN\NIN HIS LUNGS
+Dialogue: 0,0:34:59.53,0:35:02.06,Default,,0,0,0,,他可能会死于吸入性肺炎。\NHE COULD DIE\NOF ASPIRATION PNEUMONIA.
+Dialogue: 0,0:35:02.06,0:35:04.13,Default,,0,0,0,,呃，他父母住在唐纳斯格罗夫。\NUH, HIS PARENTS LIVE\NIN DOWNER'S GROVE.
+Dialogue: 0,0:35:04.13,0:35:05.77,Default,,0,0,0,,打电话给他们。给他们打电话。\NCALL THEM.\NGIVE THEM A CALL.
+Dialogue: 0,0:35:05.77,0:35:07.63,Default,,0,0,0,,我们在这儿，二楼！\NWE'RE UP HERE, SECOND FLOOR!
+Dialogue: 0,0:35:07.63,0:35:10.04,Default,,0,0,0,,“E-X”——那是什么？\N"E-X"-- WHAT'S THAT?
+Dialogue: 0,0:35:10.04,0:35:11.24,Default,,0,0,0,,那是液体迷魂药。\NTHAT'S LIQUID ECSTASY.
+Dialogue: 0,0:35:11.24,0:35:12.34,Default,,0,0,0,,那是什么？\NWHAT IS THAT?
+Dialogue: 0,0:35:12.34,0:35:13.47,Default,,0,0,0,,像一种麻醉剂。\NIT'S LIKE A NARCOTIC.
+Dialogue: 0,0:35:13.47,0:35:14.94,Default,,0,0,0,,还有其他人服用吗？！\NDID ANYBODY ELSE TAKE IT?!
+Dialogue: 0,0:35:14.94,0:35:17.28,Default,,0,0,0,,我不知道威利服用了。布兰奇也服用了。\NI DIDN'T KNOW\NWILLIE TOOK IT.\NBRANCH TOOK SOME.
+Dialogue: 0,0:35:17.28,0:35:18.68,Default,,0,0,0,,我不能离开威利。\NI CAN'T LEAVE WILLIE.
+Dialogue: 0,0:35:18.68,0:35:19.78,Default,,0,0,0,,我去。\NI'LL GO.
+Dialogue: 0,0:35:21.28,0:35:23.72,Default,,0,0,0,,很干净。他们重放了一百万次。\NIT WAS CLEAN. THEY SHOWED\NTHE REPLAY A MILLION TIMES.
+Dialogue: 0,0:35:23.72,0:35:26.25,Default,,0,0,0,,拜托！他们越位得太离谱了。\NPLEASE! IT WAS A JOKE\NHOW OFFSIDES THEY WERE.
+Dialogue: 0,0:35:26.25,0:35:27.39,Default,,0,0,0,,你在做梦。付钱吧。\NYOU'RE DREAMING. PAY UP.
+Dialogue: 0,0:35:27.39,0:35:28.92,Default,,0,0,0,,马克，那是幸运酒铺。\NMARK, THAT WAS\NLUCKY LIQUOR.
+Dialogue: 0,0:35:28.92,0:35:30.32,Default,,0,0,0,,啊，流浪汉最好的朋友。\NAH, A VAGRANT'S BEST FRIEND.
+Dialogue: 0,0:35:30.32,0:35:32.69,Default,,0,0,0,,他们说有一个穿着县医院病号服的家伙\NTHEY SAY THEY HAVE A GUY\NIN A COUNTY PATIENT GOWN
+Dialogue: 0,0:35:32.69,0:35:34.93,Default,,0,0,0,,拿着一个黄色静脉输液袋，试图买啤酒。\NWITH A YELLOW I.V. BAG\NTRYING TO BUY BEER.
+Dialogue: 0,0:35:34.93,0:35:36.23,Default,,0,0,0,,“不穿衬衫\NWHAT EVER HAPPENED\NTO "NO SHIRT
+Dialogue: 0,0:35:36.23,0:35:37.30,Default,,0,0,0,,不穿鞋，不服务”是怎么回事？\NNO SHOES, NO SERVICE"?
+Dialogue: 0,0:35:37.30,0:35:38.20,Default,,0,0,0,,他们想拖住他\NTHEY'RE TRYING\NTO STALL HIM
+Dialogue: 0,0:35:38.20,0:35:39.50,Default,,0,0,0,,直到有人来\NUNTIL SOMEONE COMES
+Dialogue: 0,0:35:39.50,0:35:41.27,Default,,0,0,0,,但他们不会等一整天。\NBUT THEY'RE NOT GOING\NTO HANG ON ALL DAY.
+Dialogue: 0,0:35:41.27,0:35:44.44,Default,,0,0,0,,告诉你吧。嘿，格拉巴斯基。\NTELL YOU WHAT.\NHEY, GRABARSKY.
+Dialogue: 0,0:35:44.44,0:35:47.41,Default,,0,0,0,,你下去把他接上来，我们就扯平了。\NYOU GO DOWN AND PICK THIS\NGUY UP AND WE'RE EVEN.
+Dialogue: 0,0:35:47.41,0:35:48.41,Default,,0,0,0,,听起来怎么样？\NHOW'S THAT SOUND?
+Dialogue: 0,0:35:48.41,0:35:49.58,Default,,0,0,0,,这个醉汉是朋友吗？\NTHIS DRUNK A FRIEND?
+Dialogue: 0,0:35:49.58,0:35:51.18,Default,,0,0,0,,不，但他欠我的比你多。\NNO, BUT HE OWES ME\NBIGGER THAN YOU DO.
+Dialogue: 0,0:35:51.18,0:35:53.71,Default,,0,0,0,,把他当做入院病人。\NCONSIDER HIM ADMITTED.
+Dialogue: 0,0:35:53.71,0:35:56.28,Default,,0,0,0,,他在哪？他室友说他去洗澡了。\NWHERE IS HE?\NHIS ROOMMATE SAID\NHE WENT TO TAKE A SHOWER.
+Dialogue: 0,0:35:56.28,0:35:58.19,Default,,0,0,0,,威利怎么样？医护人员给他插管了。\NHOW'S WILLIE?\NPARAMEDICS\NINTUBATED HIM.
+Dialogue: 0,0:35:58.19,0:35:59.25,Default,,0,0,0,,液体迷魂药。\NLIQUID ECSTASY.
+Dialogue: 0,0:35:59.25,0:36:00.59,Default,,0,0,0,,这些家伙是医学生。\NTHESE GUYS ARE\NMED STUDENTS.
+Dialogue: 0,0:36:00.59,0:36:02.19,Default,,0,0,0,,你以为他们会更懂事。\NYOU THINK THEY'D\NKNOW BETTER.
+Dialogue: 0,0:36:02.19,0:36:03.26,Default,,0,0,0,,是的，你会的。\NYEAH, YOU WOULD.
+Dialogue: 0,0:36:03.26,0:36:04.79,Default,,0,0,0,,布兰奇？\NBRANCH?
+Dialogue: 0,0:36:04.79,0:36:05.89,Default,,0,0,0,,布兰奇！\NBRANCH!
+Dialogue: 0,0:36:05.89,0:36:07.43,Default,,0,0,0,,（呻吟）\N( groans )
+Dialogue: 0,0:36:07.43,0:36:10.03,Default,,0,0,0,,（水声停止）\N( water stops )
+Dialogue: 0,0:36:10.03,0:36:12.13,Default,,0,0,0,,布兰奇，醒醒！醒醒！\NBRANCH, WAKE UP!\NWAKE UP!
+Dialogue: 0,0:36:12.13,0:36:13.70,Default,,0,0,0,,我们把他弄出去。\NLET'S GET HIM\NOUT OF HERE.
+Dialogue: 0,0:36:14.97,0:36:16.67,Default,,0,0,0,,不，他没有呼吸。\NNO, HE'S NOT\NMOVING ANY AIR.
+Dialogue: 0,0:36:16.67,0:36:17.90,Default,,0,0,0,,没有脉搏。\NNO PULSE.
+Dialogue: 0,0:36:17.90,0:36:19.11,Default,,0,0,0,,该死！\NDAMN IT!
+Dialogue: 0,0:36:19.11,0:36:20.77,Default,,0,0,0,,我来做胸外按压。\NI'LL START\NCHEST COMPRESSIONS.
+Dialogue: 0,0:36:26.31,0:36:27.41,Default,,0,0,0,,注射器在哪里？\NWHERE'S THE SYRINGE?
+Dialogue: 0,0:36:27.41,0:36:28.68,Default,,0,0,0,,我告诉你。\NI'LL TELL YOU WHAT.
+Dialogue: 0,0:36:28.68,0:36:30.55,Default,,0,0,0,,去找医护人员。我来做心肺复苏。\NGO FIND THE PARAMEDICS.\NI'LL DO CPR.
+Dialogue: 0,0:36:30.55,0:36:32.32,Default,,0,0,0,,好的。\NOKAY.
+Dialogue: 0,0:36:40.03,0:36:42.16,Default,,0,0,0,,卢宾先生的体温刚刚升到101.4度。\NMR. LUBIN JUST SPIKED\NTO 101.4.
+Dialogue: 0,0:36:42.16,0:36:44.70,Default,,0,0,0,,去做一个发热检查。\NGO AHEAD AND DRAW\NA FEVER WORKUP.
+Dialogue: 0,0:36:44.70,0:36:48.17,Default,,0,0,0,,抽一管Setzer，在11点给药后\NDRAW A SETZER FOR A PRE AND\NPOST-GENTAMICIN LEVEL
+Dialogue: 0,0:36:48.17,0:36:49.77,Default,,0,0,0,,做一次庆大霉素的前后水平检查。\NWITH THE 11:00 DOSE.
+Dialogue: 0,0:36:49.77,0:36:51.31,Default,,0,0,0,,嘿，怎么样？\NHEY, HOW'S IT GOING?
+Dialogue: 0,0:36:51.31,0:36:52.67,Default,,0,0,0,,我们似乎很忙。\NWE SEEM TO BE\NRATHER BUSY.
+Dialogue: 0,0:36:52.67,0:36:55.31,Default,,0,0,0,,我有一个很棒的小实习生在帮我。\NI'VE GOT A GREAT LITTLE\NINTERN HELPING ME OUT.
+Dialogue: 0,0:36:57.04,0:36:59.15,Default,,0,0,0,,戴尔，听着，嗯……\NDALE, LISTEN, UM...
+Dialogue: 0,0:36:59.15,0:37:01.18,Default,,0,0,0,,现在是10点半了，你甚至还没开始\NIT'S 10:30 AND\NYOU'RE NOT EVEN ON
+Dialogue: 0,0:37:01.18,0:37:02.68,Default,,0,0,0,,所以把那些琐事交接出去。\NSO SIGN OUT THE SCUT.
+Dialogue: 0,0:37:02.68,0:37:06.09,Default,,0,0,0,,那就是值班团队的工作……\NTHAT'S WHAT THE\NON-CALL TEAM IS FOR...
+Dialogue: 0,0:37:06.09,0:37:08.22,Default,,0,0,0,,除非你有什么问题。\NUNLESS YOU HAVE\NA PROBLEM WITH THAT.
+Dialogue: 0,0:37:08.22,0:37:10.42,Default,,0,0,0,,没关系。\NTHAT'S FINE.
+Dialogue: 0,0:37:14.09,0:37:15.16,Default,,0,0,0,,你准备好了吗？\NYOU READY?
+Dialogue: 0,0:37:15.16,0:37:16.60,Default,,0,0,0,,给我十分钟\NGIVE ME TEN MINUTES
+Dialogue: 0,0:37:16.60,0:37:18.70,Default,,0,0,0,,换回我的服装。\NTO GET BACK\NINTO MY COSTUME.
+Dialogue: 0,0:37:18.70,0:37:21.17,Default,,0,0,0,,天啊。你真的要穿那个东西，是吧？\NGOD. YOU'RE REALLY GOING\NTO WEAR THAT THING, HUH?
+Dialogue: 0,0:37:21.17,0:37:22.27,Default,,0,0,0,,当然。\NOF COURSE.
+Dialogue: 0,0:37:22.27,0:37:23.90,Default,,0,0,0,,好的。听着，等你准备好了\NOKAY. LISTEN,\NWHEN YOU'RE READY
+Dialogue: 0,0:37:23.90,0:37:25.04,Default,,0,0,0,,我会在前面，好吗？\NI'LL BE OUT FRONT, OKAY?
+Dialogue: 0,0:37:25.04,0:37:28.07,Default,,0,0,0,,就告诉我你想成为一名航空公司飞行员。\NJUST TELL ME YOU WANTED\NTO BE AN AIRLINE PILOT.
+Dialogue: 0,0:37:28.07,0:37:29.41,Default,,0,0,0,,哦，拜托。我甚至不喜欢\NOH, PLEASE.\NI DON'T EVEN LIKE
+Dialogue: 0,0:37:29.41,0:37:31.38,Default,,0,0,0,,坐小飞机去克利夫兰。\NTAKING A PUDDLE JUMPER\NTO CLEVELAND.
+Dialogue: 0,0:37:31.38,0:37:32.88,Default,,0,0,0,,快点。\NHURRY UP.
+Dialogue: 0,0:37:34.58,0:37:36.25,Default,,0,0,0,,这是警察骚扰！\NTHIS IS POLICE HARASSMENT!
+Dialogue: 0,0:37:36.25,0:37:37.55,Default,,0,0,0,,记住罗德尼·金！\NREMEMBER RODNEY KING!
+Dialogue: 0,0:37:37.55,0:37:39.95,Default,,0,0,0,,G医生，这是你要的人。\NDR. G., HERE'S YOUR MAN.
+Dialogue: 0,0:37:39.95,0:37:41.32,Default,,0,0,0,,他反抗得很厉害。\NHE PUT UP QUITE A FIGHT.
+Dialogue: 0,0:37:41.32,0:37:42.76,Default,,0,0,0,,说什么万圣节，\NTALKING ABOUT IT'S HALLOWEEN
+Dialogue: 0,0:37:42.76,0:37:44.29,Default,,0,0,0,,他只是在玩角色扮演。\NAND HOW HE'S JUST\NPLAYING DRESS-UP.
+Dialogue: 0,0:37:44.29,0:37:45.49,Default,,0,0,0,,我就是！\NI AM!
+Dialogue: 0,0:37:45.49,0:37:47.23,Default,,0,0,0,,格拉巴斯基，你抓错人了。\NGRABARSKY,\NTHAT'S THE WRONG GUY.
+Dialogue: 0,0:37:47.23,0:37:49.26,Default,,0,0,0,,幸运酒铺，穿着医院病号服的大个子。\NLUCKY LIQUOR, BIG GUY\NIN A HOSPITAL GOWN.
+Dialogue: 0,0:37:49.26,0:37:51.30,Default,,0,0,0,,他有点像，呃……\NHE KIND OF LOOKS\NLIKE, UH...
+Dialogue: 0,0:37:51.30,0:37:52.30,Default,,0,0,0,,杰瑞！\NJERRY!
+Dialogue: 0,0:37:52.30,0:37:53.53,Default,,0,0,0,,劳埃德。\NLLOYD.
+Dialogue: 0,0:37:54.27,0:37:56.20,Default,,0,0,0,,你在这里做什么？\NWHAT ARE YOU DOING HERE?
+Dialogue: 0,0:37:56.20,0:37:57.47,Default,,0,0,0,,劳埃德是谁？\NWHO'S LLOYD?
+Dialogue: 0,0:37:57.47,0:37:59.34,Default,,0,0,0,,我是那个笨蛋的表弟。\NI'M THAT\NKNUCKLEHEAD'S COUSIN.
+Dialogue: 0,0:37:59.34,0:38:00.51,Default,,0,0,0,,谁知道他们能连续两次中\NWHO KNEW THEY COULD HIT
+Dialogue: 0,0:38:00.51,0:38:02.08,Default,,0,0,0,,基因彩票？\NTHE GENETIC\NPOWERBALL TWICE?
+Dialogue: 0,0:38:02.08,0:38:03.31,Default,,0,0,0,,杰瑞……\NJERRY...
+Dialogue: 0,0:38:03.31,0:38:07.75,Default,,0,0,0,,嗯……你看，他需要一件服装\NWELL... SEE,\NHE NEEDED A COSTUME
+Dialogue: 0,0:38:07.75,0:38:10.28,Default,,0,0,0,,而且麋鹿兄弟会有个大比赛……\NAND THERE'S A BIG CONTEST\NAT THE ELKS LODGE...
+Dialogue: 0,0:38:10.28,0:38:11.79,Default,,0,0,0,,我得了荣誉奖，表弟。\NI WON\NAN HONORABLE MENTION, CUZ.
+Dialogue: 0,0:38:11.79,0:38:13.79,Default,,0,0,0,,恭喜。\NCONGRATULATIONS.
+Dialogue: 0,0:38:13.79,0:38:16.39,Default,,0,0,0,,（笑）\N( laughing )
+Dialogue: 0,0:38:16.39,0:38:18.19,Default,,0,0,0,,还需要什么吗，道格？\NNEED ANYTHING\NELSE, DOUG?
+Dialogue: 0,0:38:18.19,0:38:20.13,Default,,0,0,0,,除了一个48小时的工作日？\NOTHER THAN A 48-HOUR DAY?
+Dialogue: 0,0:38:20.13,0:38:22.36,Default,,0,0,0,,我要下班了。明天一早见。\NI'M GOING TO TAKE OFF.\NSEE YOU BRIGHT AND EARLY.
+Dialogue: 0,0:38:22.36,0:38:23.76,Default,,0,0,0,,嗯，明天一早。\NMMM, BRIGHT\NAND EARLY.
+Dialogue: 0,0:38:23.76,0:38:25.27,Default,,0,0,0,,是的。\NYEP.
+Dialogue: 0,0:38:25.27,0:38:28.23,Default,,0,0,0,,嘿，道格，你今天干得不错。\NHEY, DOUG, YOU DID\NA NICE JOB TODAY.
+Dialogue: 0,0:38:28.23,0:38:29.90,Default,,0,0,0,,对于一个新手主治医生来说还不错。\NNOT BAD FOR A\NROOKIE ATTENDING.
+Dialogue: 0,0:38:29.90,0:38:33.04,Default,,0,0,0,,嗯，看看你处理这些怎么样。\NWELL, LET'S SEE HOW\NYOU DO WITH THESE.
+Dialogue: 0,0:38:33.04,0:38:33.97,Default,,0,0,0,,那是什么？\NWHAT'S THAT?
+Dialogue: 0,0:38:33.97,0:38:35.14,Default,,0,0,0,,我们在主急诊室\NTHE OVERFLOW CHARTS
+Dialogue: 0,0:38:35.14,0:38:38.21,Default,,0,0,0,,看过的儿科病人的溢出病历。\NFOR THE PEDIATRIC PATIENTS\NWE SAW IN THE MAIN E.R.
+Dialogue: 0,0:38:38.21,0:38:39.45,Default,,0,0,0,,根据政策\NACCORDING TO POLICY
+Dialogue: 0,0:38:39.45,0:38:42.22,Default,,0,0,0,,你需要批准它们。\NYOU NEED\NTO SIGN OFF ON THEM.
+Dialogue: 0,0:38:42.22,0:38:43.42,Default,,0,0,0,,（轻声笑）\N( slight chuckle )
+Dialogue: 0,0:38:43.42,0:38:44.92,Default,,0,0,0,,你很享受这个，是吧？\NYOU'RE LOVING THIS,\NAREN'T YOU?
+Dialogue: 0,0:38:44.92,0:38:49.36,Default,,0,0,0,,是啊。这个儿科急诊室也没那么糟糕。\NYEAH. THIS PEDES E.R. ISN'T\NSUCH A BAD IDEA AFTER ALL.
+Dialogue: 0,0:38:49.36,0:38:51.02,Default,,0,0,0,,万圣节快乐，菜鸟。\NHAPPY HALLOWEEN, ROOKIE.
+Dialogue: 0,0:38:52.56,0:38:55.66,Default,,0,0,0,,布兰奇·克罗克特和威利·戈德曼，22岁和23岁。\NBRANCH CROCKETT AND WILLIE\NGOLDMAN, AGES 22 AND 23.
+Dialogue: 0,0:38:55.66,0:38:58.33,Default,,0,0,0,,酒精和GHB混合过量。\NMIXED OVERDOSE\NOF ALCOHOL AND GHB.
+Dialogue: 0,0:38:58.33,0:39:00.93,Default,,0,0,0,,威利因呼吸骤停插管。\NWILLIE'S INTUBATED\NFROM A RESPIRATORY ARREST.
+Dialogue: 0,0:39:00.93,0:39:04.30,Default,,0,0,0,,布兰奇因肺动脉骤停后使用肾上腺素复苏。\NBRANCH CAME BACK WITH EPI\NAFTER A PULMONARY ARREST.
+Dialogue: 0,0:39:04.30,0:39:06.37,Default,,0,0,0,,怎么了，是深夜泡吧吗？\NWHAT, A LITTLE\NLATE-NIGHT CLUB-HOPPING?
+Dialogue: 0,0:39:06.37,0:39:08.98,Default,,0,0,0,,不，医学院万圣节派对。\NNO, MED SCHOOL\NHALLOWEEN PARTY.
+Dialogue: 0,0:39:08.98,0:39:10.21,Default,,0,0,0,,嗯。\NHMM.
+Dialogue: 0,0:39:10.21,0:39:12.81,Default,,0,0,0,,好了，大家，数我的数。\NALL RIGHT, EVERYBODY,\NON MY COUNT.
+Dialogue: 0,0:39:12.81,0:39:14.98,Default,,0,0,0,,一，二，三。\NONE, TWO, THREE.
+Dialogue: 0,0:39:14.98,0:39:18.65,Default,,0,0,0,,血常规，血气分析，电解质，血液酒精浓度\NC.B.C., A.B.G.,\NLYTES, BLOOD ALCOHOL
+Dialogue: 0,0:39:18.65,0:39:20.15,Default,,0,0,0,,毒理筛查和12导联心电图。\NTOX SCREEN AND A 12-LEAD.
+Dialogue: 0,0:39:20.15,0:39:21.39,Default,,0,0,0,,斯蒂芬妮，打电话给呼吸科\NSTEPHANIE, CALL RESPIRATORY
+Dialogue: 0,0:39:21.39,0:39:22.49,Default,,0,0,0,,要一台呼吸机。\NFOR A VENT.
+Dialogue: 0,0:39:22.49,0:39:23.89,Default,,0,0,0,,有人应该给他父母打电话。\NSOMEONE SHOULD\NCALL HIS PARENTS.
+Dialogue: 0,0:39:23.89,0:39:25.39,Default,,0,0,0,,露西可以做。我想帮忙。\NLUCY CAN DO THAT.\NI WANT TO HELP.
+Dialogue: 0,0:39:25.39,0:39:26.66,Default,,0,0,0,,你醉了。\NYOU'RE DRUNK.
+Dialogue: 0,0:39:26.66,0:39:28.03,Default,,0,0,0,,你不该在这里。\NYOU DON'T\NBELONG IN HERE.
+Dialogue: 0,0:39:28.03,0:39:30.93,Default,,0,0,0,,现在出去。\NNOW GET OUT.
+Dialogue: 0,0:39:43.38,0:39:44.45,Default,,0,0,0,,彼得\NPETER
+Dialogue: 0,0:39:44.45,0:39:47.55,Default,,0,0,0,,你完全疯了吗？\NHAVE YOU GONE\NCOMPLETELY BALMY?
+Dialogue: 0,0:39:47.55,0:39:50.18,Default,,0,0,0,,（笑）\N( laughing )
+Dialogue: 0,0:39:50.18,0:39:51.89,Default,,0,0,0,,只是玩得疯。\NJUST GETTING FUNKY.
+Dialogue: 0,0:39:51.89,0:39:53.19,Default,,0,0,0,,（笑）\N( laughs )
+Dialogue: 0,0:39:53.19,0:39:55.16,Default,,0,0,0,,嘿，认识一下我的侄子，花生。\NHEY, MEET\NMY NEPHEW, PEANUT.
+Dialogue: 0,0:39:55.16,0:39:56.26,Default,,0,0,0,,很高兴见到你。\NNICE TO MEET YOU.
+Dialogue: 0,0:39:56.26,0:39:57.56,Default,,0,0,0,,你好。\NHELLO.
+Dialogue: 0,0:39:57.56,0:39:59.69,Default,,0,0,0,,是坐干草车！\NIT'S A HAY RIDE!
+Dialogue: 0,0:39:59.69,0:40:00.73,Default,,0,0,0,,是的，是坐干草车。\NYES, IT'S\NA HAY RIDE.
+Dialogue: 0,0:40:00.73,0:40:02.23,Default,,0,0,0,,那么，彼得叔叔，去哪里？\NSO, WHERE TO,\NUNCLE PETE?
+Dialogue: 0,0:40:02.23,0:40:03.33,Default,,0,0,0,,密歇根大道。\NMICHIGAN AVE.
+Dialogue: 0,0:40:03.33,0:40:04.87,Default,,0,0,0,,嘿，把那八轨磁带放进去。\NHEY, POP THAT\NEIGHT-TRACK IN.
+Dialogue: 0,0:40:04.87,0:40:06.47,Default,,0,0,0,,稳当。\NSOLID.
+Dialogue: 0,0:40:11.40,0:40:13.17,Default,,0,0,0,,你不明白。\NYOU DON'T GET IT.
+Dialogue: 0,0:40:14.61,0:40:17.74,Default,,0,0,0,,你从来没猜到我小时候想成为谁。\NYOU NEVER FIGURED OUT\NWHO I WANTED TO BE AS A KID.
+Dialogue: 0,0:40:17.74,0:40:20.01,Default,,0,0,0,,（《肖申克》主题曲响起）\N( Shaft theme playing )
+Dialogue: 0,0:40:20.01,0:40:21.18,Default,,0,0,0,,哦，我的天啊！\NOH, MY GOD!
+Dialogue: 0,0:40:21.18,0:40:22.18,Default,,0,0,0,,沙夫特。\NSHAFT.
+Dialogue: 0,0:40:22.18,0:40:23.42,Default,,0,0,0,,（轻笑）\N( chuckles )
+Dialogue: 0,0:40:23.42,0:40:26.29,Default,,0,0,0,,约翰·沙夫特。\NJOHN SHAFT.
+Dialogue: 0,0:40:26.29,0:40:28.02,Default,,0,0,0,,（两人笑）\N( both laughing )
+Dialogue: 0,0:40:32.23,0:40:33.39,Default,,0,0,0,,嘿，韦弗医生。\NHEY, DR. WEAVER.
+Dialogue: 0,0:40:33.39,0:40:36.00,Default,,0,0,0,,要去享受万圣节之夜吗？\NOFF TO ENJOY\NALL HALLOW'S EVE?
+Dialogue: 0,0:40:36.00,0:40:37.36,Default,,0,0,0,,实际上，是的。\NACTUALLY, I AM.
+Dialogue: 0,0:40:37.36,0:40:40.87,Default,,0,0,0,,我只是想把这个账单给你。\NI JUST WANTED\NTO GIVE YOU THIS BILL.
+Dialogue: 0,0:40:44.84,0:40:46.31,Default,,0,0,0,,289美元？\N$289?
+Dialogue: 0,0:40:46.31,0:40:47.44,Default,,0,0,0,,是啊，你运气好\NYEAH, YOU'RE LUCKY
+Dialogue: 0,0:40:47.44,0:40:49.21,Default,,0,0,0,,轮椅没有损坏。\NTHE WHEELCHAIR\NCAME BACK UNDAMAGED.
+Dialogue: 0,0:40:49.21,0:40:50.44,Default,,0,0,0,,情况可能会糟糕得多。\NIT COULD HAVE BEEN\NA LOT WORSE.
+Dialogue: 0,0:40:50.44,0:40:52.41,Default,,0,0,0,,韦弗医生，我没有300块钱。\NDR. WEAVER, I DON'T\NHAVE 300 BUCKS.
+Dialogue: 0,0:40:52.41,0:40:53.88,Default,,0,0,0,,嗯，所以我安排了\NWELL, THAT'S WHY\NI'VE ARRANGED
+Dialogue: 0,0:40:53.88,0:40:56.02,Default,,0,0,0,,从你工资里扣。\NTO HAVE IT TAKEN\NOUT OF YOUR PAYCHECK.
+Dialogue: 0,0:40:56.02,0:40:58.15,Default,,0,0,0,,每周28.90美元，持续十周。\N$28.90 A WEEK\NFOR THE NEXT TEN WEEKS.
+Dialogue: 0,0:40:58.15,0:41:00.52,Default,,0,0,0,,那会一直持续到假日购物季。\NTHAT'LL RUN RIGHT INTO\NTHE HOLIDAY BUYING SEASON.
+Dialogue: 0,0:41:00.52,0:41:02.02,Default,,0,0,0,,凯瑞，你有一秒钟吗？\NKERRY, YOU GOT\NA SECOND?
+Dialogue: 0,0:41:02.02,0:41:03.39,Default,,0,0,0,,是啊，怎么了？\NYEAH, WHAT'S GOING ON?
+Dialogue: 0,0:41:03.39,0:41:05.19,Default,,0,0,0,,呃，我想给你提个醒\NUH, I WANT TO GIVE YOU\NA HEAD'S UP
+Dialogue: 0,0:41:05.19,0:41:06.39,Default,,0,0,0,,关于委员会投票。\NON THE COMMITTEE VOTE.
+Dialogue: 0,0:41:06.39,0:41:08.06,Default,,0,0,0,,那不应该明天早上\NTHAT'S NOT SUPPOSED\NTO BE ANNOUNCED
+Dialogue: 0,0:41:08.06,0:41:09.00,Default,,0,0,0,,才公布。\NUNTIL TOMORROW MORNING.
+Dialogue: 0,0:41:09.00,0:41:10.66,Default,,0,0,0,,嗯，他们已经统计完了\NWELL, THEY'VE\NTALLIED IT ALREADY
+Dialogue: 0,0:41:10.66,0:41:13.00,Default,,0,0,0,,他们投票给了利特瓦克。\NAND THEY VOTED\NFOR LITVAK.
+Dialogue: 0,0:41:13.00,0:41:14.17,Default,,0,0,0,,哦。\NOH.
+Dialogue: 0,0:41:14.17,0:41:17.30,Default,,0,0,0,,他们得把办公室门加宽\NTHEY'RE GOING TO HAVE\NTO WIDEN THE OFFICE DOOR
+Dialogue: 0,0:41:17.30,0:41:18.61,Default,,0,0,0,,才能容下他膨胀的脑袋。\NFOR HIS SWOLLEN HEAD.
+Dialogue: 0,0:41:18.61,0:41:21.07,Default,,0,0,0,,是啊，他有点混蛋，是吧？\NYEAH, HE'S KIND OF\NAN ASS, ISN'T HE?
+Dialogue: 0,0:41:21.07,0:41:25.08,Default,,0,0,0,,嗯，如果这有什么意义的话，我投了你一票。\NWELL, IF IT MEANS ANYTHING,\NI VOTED FOR YOU.
+Dialogue: 0,0:41:25.08,0:41:26.95,Default,,0,0,0,,谢谢，马克。\NTHANKS, MARK.
+Dialogue: 0,0:41:26.95,0:41:29.98,Default,,0,0,0,,这笔钱从哪一个工资单开始生效？\NWHICH PAYCHECK\NDOES THIS BECOME EFFECTIVE?
+Dialogue: 0,0:41:29.98,0:41:32.42,Default,,0,0,0,,你知道吗？\NYOU KNOW WHAT?
+Dialogue: 0,0:41:32.42,0:41:34.56,Default,,0,0,0,,不生效。\NIT DOESN'T.
+Dialogue: 0,0:41:34.56,0:41:36.26,Default,,0,0,0,,你是认真的吗？\NARE YOU SERIOUS?
+Dialogue: 0,0:41:36.26,0:41:37.89,Default,,0,0,0,,我是认真的。\NI'M DEAD SERIOUS.
+Dialogue: 0,0:41:37.89,0:41:39.46,Default,,0,0,0,,给你表弟一个轮椅。\NGIVE YOUR COUSIN\NA WHEELCHAIR.
+Dialogue: 0,0:41:39.46,0:41:42.16,Default,,0,0,0,,给你老姑妈一个快速输液器。\NGIVE YOUR MAIDEN AUNT\NA RAPID INFUSER.
+Dialogue: 0,0:41:42.16,0:41:45.33,Default,,0,0,0,,我不在乎。\NI DON'T GIVE A DAMN.
+Dialogue: 0,0:41:45.33,0:41:46.70,Default,,0,0,0,,你对这个太痴迷了。\NYOU'RE GETTING OBSESSIVE\NOVER THIS.
+Dialogue: 0,0:41:46.70,0:41:48.33,Default,,0,0,0,,我刚才给了你血管穿刺针吗？\NDID I JUST HAND\NYOU ANGIOCATHS?
+Dialogue: 0,0:41:48.33,0:41:49.44,Default,,0,0,0,,是的，一打。\NYEAH, A GROSS.
+Dialogue: 0,0:41:49.44,0:41:50.47,Default,,0,0,0,,一打是多少？\NWHAT'S A GROSS?
+Dialogue: 0,0:41:50.47,0:41:51.77,Default,,0,0,0,,144个，你给了。\N144, AND YOU DID.
+Dialogue: 0,0:41:51.77,0:41:53.37,Default,,0,0,0,,你听我说话了吗？\NARE YOU LISTENING\NTO ME?
+Dialogue: 0,0:41:53.37,0:41:54.71,Default,,0,0,0,,是的，我在听。\NYES, I AM.
+Dialogue: 0,0:41:54.71,0:41:57.04,Default,,0,0,0,,光工作不玩耍，道格会变傻。\NALL WORK AND NO PLAY\NMAKES DOUG A DULL BOY.
+Dialogue: 0,0:41:57.04,0:41:58.04,Default,,0,0,0,,现在，看这个。\NNOW, LOOK AT THIS.
+Dialogue: 0,0:41:58.04,0:42:00.21,Default,,0,0,0,,我刚订了三箱口服补液盐。\NI JUST ORDERED THREE\NCASES OF PEDIALYTE.
+Dialogue: 0,0:42:00.21,0:42:01.31,Default,,0,0,0,,这是口服唑。\NTHIS IS PEDIAZOLE.
+Dialogue: 0,0:42:01.31,0:42:03.48,Default,,0,0,0,,这一定是……哎哟！哦……\NTHIS HAS GOT TO BE...\NOW! OH...
+Dialogue: 0,0:42:03.48,0:42:06.05,Default,,0,0,0,,道格，你没事吧？\NDOUG,\NYOU ALL RIGHT?
+Dialogue: 0,0:42:06.05,0:42:08.12,Default,,0,0,0,,哦，我的天啊！抓住它！抓住它！\NOH, MY GOD!\NHOLD IT! HOLD IT!
+Dialogue: 0,0:42:08.12,0:42:09.32,Default,,0,0,0,,按住它！\NPUT PRESSURE ON IT!
+Dialogue: 0,0:42:09.32,0:42:10.99,Default,,0,0,0,,（假装呻吟）\N( fake moans )
+Dialogue: 0,0:42:10.99,0:42:12.13,Default,,0,0,0,,你个混蛋。\NYOU BASTARD.
+Dialogue: 0,0:42:12.13,0:42:14.03,Default,,0,0,0,,你做得出来，却受不了，是吧？\NYOU CAN DISH IT OUT,\NYOU CAN'T TAKE IT, HUH?
+Dialogue: 0,0:42:14.03,0:42:15.80,Default,,0,0,0,,哦，你……报复真是个贱人，是吧？\NOH, YOU...\NPAYBACK IS A\NBITCH, ISN'T IT?
+Dialogue: 0,0:42:15.80,0:42:17.53,Default,,0,0,0,,你真差劲。离我远点。你真差劲。\NYOU SUCK. GET AWAY\NFROM ME. YOU SUCK.
+Dialogue: 0,0:42:17.53,0:42:19.27,Default,,0,0,0,,晚上好。我想吸你的血。\NGOOD EVENING. I WANT\NTO SUCK YOUR BLOOD.
+Dialogue: 0,0:42:19.27,0:42:21.43,Default,,0,0,0,,不，我不是……不，不。我不亲回去。\NNO, I'M NOT... NO, NO.\NI'M NOT KISSING BACK.
+Dialogue: 0,0:42:21.43,0:42:22.60,Default,,0,0,0,,（轻笑）\N( chuckles )
+Dialogue: 0,0:42:23.74,0:42:25.31,Default,,0,0,0,,（叹气）\N( sighs )
+Dialogue: 0,0:42:25.31,0:42:27.64,Default,,0,0,0,,嘿，卡特医生。\NHEY, DR. CARTER.
+Dialogue: 0,0:42:29.54,0:42:30.61,Default,,0,0,0,,露西。\NLUCY.
+Dialogue: 0,0:42:30.61,0:42:31.78,Default,,0,0,0,,他们怎么样了？\NHOW ARE THEY?
+Dialogue: 0,0:42:31.78,0:42:34.48,Default,,0,0,0,,他们会没事的。\NTHEY'LL BE FINE.
+Dialogue: 0,0:42:34.48,0:42:37.38,Default,,0,0,0,,我不知道发生了什么。\NI DON'T KNOW\NWHAT HAPPENED.
+Dialogue: 0,0:42:37.38,0:42:38.62,Default,,0,0,0,,前一秒，我们还在闲逛\NONE SECOND, WE\NWERE HANGING OUT
+Dialogue: 0,0:42:38.62,0:42:40.05,Default,,0,0,0,,下一秒……\NAND THE NEXT...
+Dialogue: 0,0:42:40.05,0:42:41.09,Default,,0,0,0,,发生的事情是\NWHAT HAPPENED WAS
+Dialogue: 0,0:42:41.09,0:42:42.82,Default,,0,0,0,,你的两个同学今晚差点死了。\NTWO OF YOUR CLASSMATES\NALMOST DIED TONIGHT.
+Dialogue: 0,0:42:44.59,0:42:47.16,Default,,0,0,0,,我不知道他们在使用GHB。\NI DIDN'T KNOW THEY\NWERE DOING GHB.
+Dialogue: 0,0:42:47.16,0:42:50.20,Default,,0,0,0,,嗯，你是派对的负责人。\NWELL, YOU WERE IN CHARGE\NOF THE PARTY.
+Dialogue: 0,0:42:50.20,0:42:51.83,Default,,0,0,0,,当事情失控时，我制止了它。\NI BROKE IT UP WHEN\NTHINGS GOT OUT OF HAND.
+Dialogue: 0,0:42:51.83,0:42:53.03,Default,,0,0,0,,\NYOU CONTINUED TO PARTY.
+Dialogue: 0,0:42:53.03,0:42:56.30,Default,,0,0,0,,两个人被担架抬了出去。\NTWO GUYS ROLLED OUT OF HERE\NON GURNEYS.
+Dialogue: 0,0:42:56.30,0:42:59.44,Default,,0,0,0,,呃……我错过了什么吗？\NUH... DID I MISS ANYTHING?
+Dialogue: 0,0:42:59.44,0:43:02.84,Default,,0,0,0,,关于我不能管束所有人的部分……\NTHE PART ABOUT ME NOT BEING ABLE\NTO POLICE EVERYONE...
+Dialogue: 0,0:43:04.88,0:43:07.21,Default,,0,0,0,,还有你是宿舍辅导员\NAND THE PART ABOUT YOU BEING\NTHE RESIDENT ADVISOR
+Dialogue: 0,0:43:07.21,0:43:08.28,Default,,0,0,0,,和负责人。\NAND THE ONE IN CHARGE.
+Dialogue: 0,0:43:08.28,0:43:09.32,Default,,0,0,0,,你说的对，露西。\NYOU'RE RIGHT, LUCY.
+Dialogue: 0,0:43:09.32,0:43:10.65,Default,,0,0,0,,你知道吗？我是负责人\NYOU KNOW WHAT? I'M IN CHARGE
+Dialogue: 0,0:43:10.65,0:43:12.22,Default,,0,0,0,,我以为你足够成熟，可以承担责任，\NAND IT WAS STUPID OF ME\NTO THINK
+Dialogue: 0,0:43:12.22,0:43:14.66,Default,,0,0,0,,真是太傻了。\NYOU WERE MATURE ENOUGH\NTO TAKE RESPONSIBILITY.
+Dialogue: 0,0:43:24.33,0:43:25.83,Default,,0,0,0,,（音乐震耳欲聋）\N( music blaring )
+Dialogue: 0,0:43:25.83,0:43:27.47,Default,,0,0,0,,* 当危险四伏时 *\N* WHO'S THE CAT\NTHAT WON'T COP OUT *
+Dialogue: 0,0:43:27.47,0:43:30.34,Default,,0,0,0,,* 谁是那个不退缩的家伙？\N* WHEN THERE'S DANGER\NALL ABOUT? *
+Dialogue: 0,0:43:30.34,0:43:31.81,Default,,0,0,0,,* 沙夫特 *\N* SHAFT *
+Dialogue: 0,0:43:31.81,0:43:33.77,Default,,0,0,0,,* 没错 *\N* RIGHT ON
+Dialogue: 0,0:43:33.77,0:43:35.88,Default,,0,0,0,,* 他们说这个家伙，沙夫特，是个狠角色…… *\N* THEY SAY THIS CAT, SHAFT,\NIS A BAD MOTHER... *
+Dialogue: 0,0:43:35.88,0:43:37.41,Default,,0,0,0,,* 闭嘴 *\N* SHUT YOUR MOUTH *
+Dialogue: 0,0:43:37.41,0:43:38.81,Default,,0,0,0,,* 但我说的是沙夫特 *\N* BUT I'M TALKIN' 'BOUT SHAFT
+Dialogue: 0,0:43:38.81,0:43:40.85,Default,,0,0,0,,* 我们懂他 *\N* WE CAN DIG IT *
+Dialogue: 0,0:43:40.85,0:43:43.05,Default,,0,0,0,,* 他是个复杂的人 *\N* HE'S A COMPLICATED MAN
+Dialogue: 0,0:43:43.05,0:43:47.19,Default,,0,0,0,,* 但除了他的女人，没人懂他 *\N* BUT NO ONE UNDERSTANDS HIM\NBUT HIS WOMAN *
+Dialogue: 0,0:43:47.19,0:43:48.49,Default,,0,0,0,,* 约翰·沙夫特 *\N* JOHN SHAFT *
+Dialogue: 0,0:43:48.49,0:43:50.46,Default,,0,0,0,,我从不知道你没有节奏感。\NI NEVER KNEW\NYOU DIDN'T HAVE RHYTHM.
+Dialogue: 0,0:43:50.46,0:43:51.26,Default,,0,0,0,,（咯咯笑）\N( giggling )
+Dialogue: 0,0:43:51.26,0:43:52.39,Default,,0,0,0,,来吧，宝贝。\NCOME ON, BABY.
+Dialogue: 0,0:43:52.39,0:43:54.53,Default,,0,0,0,,你把一首最伟大的歌搞砸了。\NYOU'RE MESSING UP\NONE OF THE GREATEST SONGS.
+Dialogue: 0,0:43:54.53,0:43:55.43,Default,,0,0,0,,那是什么？\NWHAT IS THAT?
+Dialogue: 0,0:43:55.43,0:43:56.40,Default,,0,0,0,,那是我的手鼓。\NIT'S MY TAMBOURINE.
